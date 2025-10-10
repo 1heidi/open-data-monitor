@@ -39,15 +39,17 @@ jobs:
           DATE=$(date -u +'%Y%m%d')
           pip install jupyter nbconvert
           jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
-          jupyter nbconvert --to script reports/open_data_monitor_${DATE}.ipynb --output-dir=reports --output open_data_monitor_${DATE}.txt
+          jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output reports/open_data_monitor_${DATE}.txt
 
-      - name: Commit and push weekly report
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add reports/*.md reports/*.txt reports/*.ipynb 2>/dev/null || echo "No reports to add"
-          git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
-          git push
+    - name: Commit and push weekly report
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Add and commit reports safely
+        git add reports/*.md reports/*.txt reports/*.ipynb 2>/dev/null || true
+        git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
+        git push || echo "⚠️ No changes to push"
 
       - name: Send Email Notification
         run: python send_email_notification.py
