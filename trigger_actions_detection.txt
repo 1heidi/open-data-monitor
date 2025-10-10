@@ -1,1 +1,1 @@
-trigger
+triggers
