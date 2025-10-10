@@ -28,18 +28,20 @@ def get_latest_report():
 # ================================
 # ✉️ SEND EMAIL
 # ================================
-def send_email():
-    report_path = get_latest_report()
+def send_email(report_path=None):
+    msg = EmailMessage()
+    msg["Subject"] = "🧾 Weekly Open Data Policy Monitor Report"
+    msg["From"] = EMAIL_USER
+    msg["To"] = EMAIL_RECIPIENT
+
     if not report_path:
-        return
+        report_path = get_latest_report()
+        if not report_path:
+            print("⚠️ No report found to attach.")
+            return
 
     report_date = datetime.now().strftime("%B %d, %Y")
-
-    # Create the email
-    msg = EmailMessage()
     msg["Subject"] = f"📊 Weekly Open Data Monitor Report — {report_date}"
-    msg["From"] = EMAIL_USER
-    msg["To"] = EMAIL_RECIPIENT.split(",")
 
     msg.set_content(
         f"""Hello,
@@ -54,7 +56,7 @@ Open Data Policy Monitor Bot
     )
 
     # Attach the report if available
-    if report_path and os.path.exists(report_path):
+    if os.path.exists(report_path):
         with open(report_path, "rb") as f:
             report_data = f.read()
             filename = os.path.basename(report_path)
@@ -69,20 +71,9 @@ Open Data Policy Monitor Bot
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
         smtp.login(EMAIL_USER, GMAIL_APP_PASSWORD)
         smtp.send_message(msg)
-        print(f"✅ Email sent to {EMAIL_RECIPIENT} with report: {report_path or '(no attachment)'}")
+        print(f"✅ Email sent to {EMAIL_RECIPIENT} with report: {os.path.basename(report_path)}")
 
 
 if __name__ == "__main__":
-    # Find the latest report in the 'reports' folder
-    reports_dir = "reports"
-    latest_report = None
-    if os.path.isdir(reports_dir):
-        files = [
-            os.path.join(reports_dir, f)
-            for f in os.listdir(reports_dir)
-            if f.endswith(".md")
-        ]
-        if files:
-            latest_report = max(files, key=os.path.getctime)
-
+    latest_report = get_latest_report()
     send_email(latest_report)
