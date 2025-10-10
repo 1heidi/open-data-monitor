@@ -39,7 +39,7 @@ jobs:
           DATE=$(date -u +'%Y%m%d')
           pip install jupyter nbconvert
           jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
-          jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output reports/open_data_monitor_${DATE}.txt
+          jupyter nbconvert --to markdown open_data_monitor_${DATE}.ipynb --output reports/open_data_monitor_${DATE}.txt
 
       - name: Commit and push weekly report
         run: |
