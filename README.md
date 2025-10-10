@@ -65,8 +65,6 @@ Typical run (20 summaries + meta-summary):
 
 ### Scheduling
 Run weekly via:
-- Google Colab “Schedule notebook” feature  
-- Google Apps Script  
-- **GitHub Actions** (recommended for automation)
+- GitHub Actions 
 
 
