@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251010_222110
+    ✅ Configuration loaded. Run ID: 20251010_222823
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -215,21 +215,17 @@ SOURCES = [
     {"name": "Research Data Alliance Blog", "url": "https://www.rd-alliance.org/blog/feed"},
     {"name": "OpenAIRE Blog", "url": "https://www.openaire.eu/feed"},
     {"name": "CODATA Blog", "url": "https://codata.org/feed/"},
-    {"name": "JCU Sci Policy", "url": "http://cssp-jnu.blogspot.com/feeds/posts/default?alt=rss"}
-    {"name": "Journ Sci Policy", "url": "https://www.sciencepolicyjournal.org/blog/feed"}
-    {"name": "Sci4All", "url": "https://sciencepolicyforall.wordpress.com/feed/"}
+    {"name": "JCU Sci Policy", "url": "http://cssp-jnu.blogspot.com/feeds/posts/default?alt=rss"},
+    {"name": "Journ Sci Policy", "url": "https://www.sciencepolicyjournal.org/blog/feed"},
+    {"name": "Sci4All", "url": "https://sciencepolicyforall.wordpress.com/feed/"},
     {"name": "PLOS Sci Policy", "url": "https://journals.plos.org/plosone/browse/science_policy"}
 ]
 
 print(f"📡 Loaded {len(SOURCES)} RSS sources.")
 ```
 
-
-      Cell In[4], line 18
-        {"name": "JCU Sci Policy", "url": "http://cssp-jnu.blogspot.com/feeds/posts/default?alt=rss"}
-        ^
-    SyntaxError: invalid syntax. Perhaps you forgot a comma?
-
+    ✅ Section 3A loaded: Feedparser + Requests imported.
+    📡 Loaded 13 RSS sources.
 
 
 
@@ -349,22 +345,58 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     🚀 Section 3B starting...
 
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    Cell In[5], line 28
-         24 # ------------------------------
-         25 # Fetch RSS Feeds
-         26 # ------------------------------
-         27 entries = []
-    ---> 28 for s in SOURCES:
-         29     name = s["name"]
-         30     url = s["url"]
+    ✅ White House OSTP Blog: 0 entries fetched.
 
 
-    NameError: name 'SOURCES' is not defined
+    ✅ NSF Science Matters News: 0 entries fetched.
+
+
+    ✅ NIH Extramural Nexus: 0 entries fetched.
+
+
+    ✅ DOE Office of Science News: 0 entries fetched.
+
+
+    ✅ The Scholarly Kitchen: 10 entries fetched.
+
+
+    ✅ SPARC Open Access News: 10 entries fetched.
+
+
+    ✅ Research Data Alliance Blog: 0 entries fetched.
+
+
+    ✅ OpenAIRE Blog: 0 entries fetched.
+
+
+    ✅ CODATA Blog: 9 entries fetched.
+
+
+    ✅ JCU Sci Policy: 10 entries fetched.
+
+
+    ✅ Journ Sci Policy: 10 entries fetched.
+
+
+    ✅ Sci4All: 10 entries fetched.
+
+
+    ✅ PLOS Sci Policy: 0 entries fetched.
+    📚 Total entries collected so far: 59
+    🔍 Fetching supplemental results from SERPAPI (Google News)...
+
+
+    ✅ SERPAPI results added.
+    🧹 Deduplicated. Final entry count: 69
+    
+    📋 Sample entries:
+    • The Scholarly Kitchen: SSP’s Generations Fund Crosses the Finish Line (2025-10-10)
+    • The Scholarly Kitchen: Guest Post — The Economics of AI in Academic Research (2025-10-09)
+    • The Scholarly Kitchen: Guest Post — Rethinking Disciplinary Data Regimes (2025-10-08)
+    • The Scholarly Kitchen: Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era (2025-10-07)
+    • The Scholarly Kitchen: Guest Post — Manifesto Time: Do You Need a Publishing Manifesto? (2025-10-06)
+    
+    ✅ Section 3B complete — entries ready for summarization.
 
 
 
@@ -635,39 +667,98 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     🚀 Starting data collection pipeline...
     
     🗞️ Collecting RSS feed updates (last 7 days)...
+    → Fetching White House OSTP Blog ...
+    → Fetching NSF Science Matters News ...
 
 
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    Cell In[10], line 5
-          1 # ===========================================================
-          2 # 3G. MANUAL EXECUTION
-          3 # ===========================================================
-          4 print("\n=== RUNNING SECTION 3 ===\n")
-    ----> 5 entries = gather_all_sources()
-          6 print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
+    → Fetching NIH Extramural Nexus ...
 
 
-    Cell In[9], line 8, in gather_all_sources()
-          5 start = time.time()
-          6 print("\n🚀 Starting data collection pipeline...\n")
-    ----> 8 rss_entries = collect_sources()
-          9 print(f"🕒 RSS collection done in {time.time() - start:.2f}s.\n")
-         11 serp_entries = collect_serpapi_results()
+    → Fetching DOE Office of Science News ...
+    → Fetching The Scholarly Kitchen ...
 
 
-    Cell In[6], line 27, in collect_sources(days_back)
-         24 cutoff_date = datetime.now() - timedelta(days=days_back)
-         25 print(f"🗞️ Collecting RSS feed updates (last {days_back} days)...")
-    ---> 27 for src in SOURCES:
-         28     print(f"→ Fetching {src['name']} ...")
-         29     try:
+    → Fetching SPARC Open Access News ...
+    → Fetching Research Data Alliance Blog ...
 
 
-    NameError: name 'SOURCES' is not defined
+    → Fetching OpenAIRE Blog ...
+
+
+    → Fetching CODATA Blog ...
+
+
+    → Fetching JCU Sci Policy ...
+
+
+    → Fetching Journ Sci Policy ...
+
+
+    → Fetching Sci4All ...
+    → Fetching PLOS Sci Policy ...
+
+
+    ✅ RSS feed collection complete — 10 entries found within 7 days.
+    
+    🕒 RSS collection done in 8.17s.
+    
+    🔎 Running SERPAPI keyword searches (past week)...
+    → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
+
+
+    → Searching: research data sharing policy site:.gov
+
+
+    → Searching: federal open data initiative
+
+
+    → Searching: open access mandate university research
+
+
+    → Searching: data management plan compliance US federal agency
+
+
+    → Searching: FAIR data principles higher education US
+
+
+    → Searching: open research infrastructure policy America
+
+
+    → Searching: OSTP Nelson memo implementation
+
+
+    → Searching: cost of research
+
+
+    → Searching: FAIR F&A
+
+
+    → Searching: indirect costs
+
+
+    → Searching: open access publishing
+
+
+    ✅ SERPAPI collection complete — 31 results gathered.
+    
+    🕒 SERPAPI search done in 33.55s.
+    
+    📦 Combined 41 total entries.
+    
+    
+    🧮 TOKEN BUDGET ESTIMATE
+      Input text: ~7,953 tokens
+      Summaries:  ~20,500 tokens
+      Total est.: ~28,453 tokens
+      Budget cap: 20,000 tokens
+    ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
+    ✅ Truncated list to 40 entries.
+    
+    🏁 Total runtime: 33.55s
+    
+    
+    ✅ Done! Gathered 40 entries total.
+    
 
 
 
@@ -966,7 +1057,47 @@ else:
 
 ```
 
-    ⚠️ `entries` not found — run Section 3 first.
+    🧠 Generating summaries for 40 entries...
+
+
+    🔎 Parsed 5 meta bullets. Mapping bullets to supporting sources...
+    💾 Report saved to reports/open_data_policy_report_20251010.md
+    
+    ✅ Section 4 complete — meta-summary, detailed summaries, and references generated.
+    
+    --- META-SUMMARY PREVIEW ---
+    
+    OPEN DATA POLICY MONITOR REPORT
+    Generated on October 10, 2025
+    
+    ============================================================
+    🔗 META-SUMMARY WITH NUMBERED REFERENCES
+    ============================================================
+    
+    1. SSP's Generations Fund has met its fundraising target. [1]
+    
+    2. AI presents economic and ethical considerations in academic research. [2] [3] [4] [5] [6] [7]
+    
+    3. Disciplinary data regimes in the U.S. face challenges of defunding and data deletion. [8] [4] [9] [10] [11] [12]
+    
+    4. Web harvesting bots pose challenges for content-rich websites. [13] [14]
+    
+    5. Having a publishing manifesto can benefit organizations in various ways. [15] [16] [17] [16] [1] [2]
+    
+    
+    
+    ============================================================
+    📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+    ============================================================
+    
+    TITLE: SSP’s Generations Fund Crosses the Finish Line [1]
+    SOURCE: The Scholarly Kitchen
+    
+    The recent update from The Scholarly Kitchen indicates that SSP's Generations Fund has reached its fundraising goal. The fund received contributions from both individuals and organizations.
+    ------------------------------------------------------------
+    TITLE: Guest Post — The Economics of AI in Academic Research [2]
+    SOURCE: The Scholarly Kitchen
+    💾 Report written to reports/open_data_policy_report_2025-10-10.txt
 
 
 
@@ -1061,5 +1192,5 @@ else:
 
 ```
 
-    ⚠️ No report_text variable found. Please run Section 4 first.
+    Report generated but not emailed.
 
