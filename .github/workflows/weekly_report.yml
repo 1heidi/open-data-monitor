@@ -41,6 +41,9 @@ jobs:
           # Convert executed notebook to Markdown
           jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output-dir=reports
 
+     - name: Send Email Notification
+        run: python send_email_notification.py
+
       - name: Commit and push weekly report
         run: |
           git config --global user.name "github-actions[bot]"
