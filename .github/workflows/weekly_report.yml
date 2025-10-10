@@ -31,37 +31,33 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
+          pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv jupyter nbconvert
 
       - name: Run weekly report notebook
         run: |
-          pip install jupyter nbconvert
+          # Create reports folder if it doesn't exist
           mkdir -p reports
-          # Execute the notebook in place (don’t save script copy to reports/)
+          # Execute the notebook in place (output stays at root, not inside /reports)
           jupyter nbconvert --execute --to notebook --allow-errors \
             --output "Open_AI_Sci_Policy_executed.ipynb" \
             Open_AI_Sci_Policy.ipynb
 
-      - name: Commit and push report
+      - name: Commit and push report (.txt only to /reports)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Stage both Markdown and text reports
-          git add reports/*.md reports/*.txt || echo "No report files to add"
-
-          # Commit if there are changes
+      
+          # Only stage .txt reports in /reports (no .md or notebooks)
+          git add reports/*.txt || echo "No .txt files to add"
+      
           git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
-
-          # Push changes back to the repository
           git push
 
       - name: Debug report files
         run: |
-          echo "Listing reports directory:"
-          ls -R reports || echo "⚠️ Reports folder not found"
+          echo "Listing .txt reports in /reports:"
+          ls -lh reports/*.txt || echo "⚠️ No .txt report files found"
           
       - name: Send email notification
         working-directory: ${{ github.workspace }}
         run: python send_email_notification.py
-
