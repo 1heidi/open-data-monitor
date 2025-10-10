@@ -17,7 +17,7 @@ REPORTS_DIR = "reports"
 # 🧠 FIND MOST RECENT REPORT
 # ================================
 def get_latest_report():
-    report_files = glob.glob(os.path.join(REPORTS_DIR, "open_data_monitor_*.txt"))
+    report_files = glob.glob(os.path.join(REPORTS_DIR, "open_data_monitor_*.md"))
     if not report_files:
         print("⚠️ No report files found in 'reports/' folder.")
         return None
