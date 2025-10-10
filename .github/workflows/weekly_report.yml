@@ -34,10 +34,11 @@ jobs:
           pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
 
       - name: Run weekly report notebook
+        working-directory: ${{ github.workspace }}
         run: |
           pip install jupyter nbconvert
-          jupyter nbconvert --to notebook --execute open_data_monitor.ipynb --output open_data_monitor_output.ipynb
-      
+          jupyter nbconvert --to markdown --execute --allow-errors Open_AI_Sci_Policy.ipynb --output-dir=reports
+
       - name: Commit and push report
         run: |
           git config --global user.name "github-actions[bot]"
