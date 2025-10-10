@@ -31,32 +31,35 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv jupyter nbconvert
+          pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
 
       - name: Run weekly report notebook
         run: |
-          # Create reports folder if it doesn't exist
+          pip install jupyter nbconvert
           mkdir -p reports
-          # Execute the notebook in place (output stays at root, not inside /reports)
+          # Execute the notebook in place (don’t save script copy to reports/)
           jupyter nbconvert --execute --to notebook --allow-errors \
             --output "Open_AI_Sci_Policy_executed.ipynb" \
             Open_AI_Sci_Policy.ipynb
 
-      - name: Commit and push report (.txt only to /reports)
+      - name: Commit and push report
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      
-          # Only stage .txt reports in /reports (no .md or notebooks)
-          git add reports/*.txt || echo "No .txt files to add"
-      
+
+          # Stage both Markdown and text reports
+          git add reports/*.md reports/*.txt || echo "No report files to add"
+
+          # Commit if there are changes
           git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+
+          # Push changes back to the repository
           git push
 
       - name: Debug report files
         run: |
-          echo "Listing .txt reports in /reports:"
-          ls -lh reports/*.txt || echo "⚠️ No .txt report files found"
+          echo "Listing reports directory:"
+          ls -R reports || echo "⚠️ Reports folder not found"
           
       - name: Send email notification
         working-directory: ${{ github.workspace }}
