@@ -5,15 +5,15 @@ Generated on October 10, 2025
 🔗 META-SUMMARY WITH NUMBERED REFERENCES
 ============================================================
 
-1. The Scholarly Kitchen emphasizes the importance of addressing privacy, security, sustainability, and copyright in AI research tools. [1] [2] [3] [4] [5] [6]
+1. AI's impact will reshape the economics of academic research, focusing on privacy, security, sustainability, and copyright concerns. [1] [2] [3] [4] [5] [6]
 
-2. Rethinking disciplinary data regimes in the U.S. is crucial to prevent data deletion and save relevant data across disciplinary silos to avoid cultural memory loss. [2] [7] [8] [9] [10] [11]
+2. Cultural memory loss can be avoided by saving data across disciplinary silos, emphasizing the need for cohesive data management policies. [7] [8] [9] [2] [10] [11]
 
-3. AI web harvesting bots pose significant IT management challenges for content-rich websites, violating established rules and practices. [12] [7] [13] [14] [9] [15]
+3. Web harvesting bots pose significant challenges for content-rich websites, violating established rules and impacting open data and open science policies. [9] [10] [12] [13] [14] [15]
 
-4. Writing a publishing manifesto can serve as a team-building and planning exercise to ignite action within publishing organizations. [3] [8] [16] [6] [17]
+4. Creating a publishing manifesto can enhance team building, planning efforts, and inspire action within publishing organizations. [11] [10] [16] [17] [18] [19]
 
-5. UNESCO launched resources focusing on developing data policy pathways for crisis preparedness, response, and recovery, aiming to facilitate open science data policies. [8] [10] [9] [11] [13] [18]
+5. Governments need to make data AI-ready to explain laws, improve services, and increase participation, highlighting the importance of open data and open science policies. [13] [10] [12] [8] [9] [14]
 
 
 
@@ -24,97 +24,102 @@ Generated on October 10, 2025
 TITLE: Guest Post — The Economics of AI in Academic Research [1]
 SOURCE: The Scholarly Kitchen
 
-The Scholarly Kitchen recently published a guest post discussing the impact of AI on the economics of academic research, emphasizing the need for vendors to address issues such as privacy, security, sustainability, and copyright in AI research tools.
+The recent update from The Scholarly Kitchen discusses how AI will reshape the economics of academic research. It touches on community-focused concerns such as privacy, security, sustainability, and copyright in the fast-moving world of AI research tools.
 ------------------------------------------------------------
-TITLE: Guest Post — Rethinking Disciplinary Data Regimes [2]
+TITLE: Guest Post — Rethinking Disciplinary Data Regimes [7]
 SOURCE: The Scholarly Kitchen
 
-The Scholarly Kitchen published a guest post discussing the importance of rethinking disciplinary data regimes in the United States due to a political policy environment focused on defunding and deleting data collections. The post highlights the need to build systems that can save relevant data across disciplinary silos to prevent cultural memory loss.
+The update discusses the challenges faced by the U.S. in terms of political policy affecting data collections and the use of AI tools, emphasizing the importance of saving data across disciplinary silos to avoid cultural memory loss.
 ------------------------------------------------------------
-TITLE: Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era [12]
+TITLE: Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era [9]
 SOURCE: The Scholarly Kitchen
 
-AI web harvesting bots are becoming a significant IT management problem for content-rich websites in various industries, as they differ from traditional web crawlers and violate established rules and practices.
+AI web harvesting bots are causing IT management problems for content-rich websites across various industries, violating established rules and practices. This is a significant issue for open data and open science policies.
 ------------------------------------------------------------
-TITLE: Guest Post — Manifesto Time: Do You Need a Publishing Manifesto? [3]
+TITLE: Guest Post — Manifesto Time: Do You Need a Publishing Manifesto? [11]
 SOURCE: The Scholarly Kitchen
 
-The recent update from The Scholarly Kitchen discusses the importance of writing a manifesto for publishing organizations as a team-building and planning exercise and a way to ignite action.
+The update from The Scholarly Kitchen discusses the benefits of creating a manifesto for publishing organizations as a way to enhance team building and planning efforts, and to inspire action within the organization.
 ------------------------------------------------------------
-TITLE: Scholarship is Like Music: Standing on the Shoulders of Giants [4]
-SOURCE: The Scholarly Kitchen
-
-The recent update from The Scholarly Kitchen discusses the idea that scholarly knowledge development is based on previous research findings, similar to how popular musicians build on the work of others like Pachelbel's Canon.
-------------------------------------------------------------
-TITLE:  [14]
+TITLE: CODATA and the Australian Research Data Commons (ARDC) announce the updated 2025 CODATA Research Data Management Terminology (RDMT) [2]
 SOURCE: CODATA Blog
 
-The updated CODATA Research Data Management Terminology (RDMT) 2025 has been published and is open to the public for free via the Australian Research Data Commons (ARDC) Research Vocabularies Australia (RVA) service.
+CODATA and the Australian Research Data Commons (ARDC) have released the updated 2025 CODATA Research Data Management Terminology (RDMT). It is now available to the public for free via the ARDC’s Research Vocabularies Australia (RVA) service.
 ------------------------------------------------------------
-TITLE: CODATA and the Australian Research Data Commons (ARDC) announce the updated 2025 CODATA Research Data Management Terminology (RDMT) [7]
+TITLE: From launch to action: operationalising UNESCO’s open science data policies guidance for crises [10]
 SOURCE: CODATA Blog
 
-CODATA and the Australian Research Data Commons (ARDC) announced the publication of the updated CODATA Research Data Management Terminology (RDMT) 2025 in Paris. The terminology is open to the public and free to use via the ARDC's Research Vocabularies Australia (RVA) service.
+Three companion resources on 'Developing data policies for times of crisis facilitated by open science' were launched on 4 June 2025 at UNESCO Headquarters in Paris. The resources include a Factsheet, Guidance, and a Checklist. These resources aim to contribute to the development of data policy pathways for crisis preparedness, response, and recovery.
 ------------------------------------------------------------
-TITLE: From launch to action: operationalising UNESCO’s open science data policies guidance for crises [8]
-SOURCE: CODATA Blog
-
-On June 4, 2025, three companion resources on 'Developing data policies for times of crisis facilitated by open science' were launched at UNESCO Headquarters in Paris. The resources include a Factsheet, Guidance, and a Checklist. These resources aim to contribute to the development of data policy pathways for crisis preparedness, response, and recovery.
-------------------------------------------------------------
-TITLE: Integration of Data and Information Systems Into the Health ... [9]
+TITLE: Governmental Open Data - Data Science - Subject Guides [12]
 SOURCE: SERPAPI Google Search
 
-SERPAPI Google Search recently updated information on the National Health Data-Sharing Strategy, which outlines legal, methodological, and technical frameworks for secure and effective health data sharing in the U.S. This policy aims to promote open data and open science practices in the healthcare industry.
+The recent update from SERPAPI Google Search discusses the U.S. Open Data Law, which mandates federal agencies to publish their information online in standardized, machine-readable data formats.
 ------------------------------------------------------------
-TITLE: Agencies Issue Proposal to Prohibit Use of Reputation Risk ... [15]
+TITLE: Feeding the Beast: Powering Democratic AI with Open Data [13]
 SOURCE: SERPAPI Google Search
 
-The recent update from SERPAPI Google Search mentions that federal government websites often end in .gov or .mil and that users should ensure they are on a secure federal government site before sharing sensitive information.
+SERPAPI Google Search highlights the importance of governments making data AI-ready and keeping access open to power tools that can explain laws, improve services, and widen participation. This update underscores the benefits of open data and open science policy in the U.S.
 ------------------------------------------------------------
-TITLE: Governmental Open Data - Data Science - Subject Guides [10]
+TITLE: NIH Public Access Policy 2025: Costs - Research Guides [3]
 SOURCE: SERPAPI Google Search
 
-The recent update requires federal agencies to publish their information online in standardized, machine-readable data formats as part of the Open Data Law.
+The NIH Public Access Policy does not require authors to pay fees for open access, such as article processing charges.
 ------------------------------------------------------------
-TITLE: Feeding the Beast: Powering Democratic AI with Open Data [11]
+TITLE: Open Access at Purdue Home - Libraries [4]
 SOURCE: SERPAPI Google Search
 
-Recent update from SERPAPI Google Search highlights the importance of governments making data AI-ready and keeping access open to power tools that explain laws, improve services, and increase participation. Companies also stand to benefit from open data policies.
+The recent update from SERPAPI Google Search highlights the importance of Open Access (OA), which provides free, immediate, and unrestricted online access to scholarly research. This policy aims to make academic literature more accessible by removing barriers to access.
 ------------------------------------------------------------
-TITLE: Open Access at Purdue Home - Libraries [5]
+TITLE: DOJ's Data Security Program: Imminent Compliance ... [5]
 SOURCE: SERPAPI Google Search
 
-The recent update from SERPAPI Google Search is about Open Access (OA), which provides free, immediate, and unrestricted online access to scholarly research. This update focuses on the importance of making academic literature more accessible to the public.
+The update from SERPAPI Google Search discusses the upcoming final deadline of October 6, 2025 for the implementation of the Data Security Program (DSP) related to U.S. government data. This program will have compliance requirements for U.S. persons working with government-related data.
+------------------------------------------------------------
+TITLE: October 6 Compliance Deadline for DOJ's Data Security ... [6]
+SOURCE: SERPAPI Google Search
+
+- The U.S. Department of Justice has set an October 6 deadline for compliance with its data compliance program - The program aims to help U.S. individuals or entities identify the types and volumes of bulk U.S. sensitive data involved in restricted transactions.
+------------------------------------------------------------
+TITLE: How Open Data Empowers Knowledge Generation [14]
+SOURCE: SERPAPI Google Search
+
+SERPAPI Google Search recently discussed the importance of open data and the FAIR Principles in optimizing access to and reuse of data. These principles empower knowledge generation and are supported by funding agencies and higher education institutions.
 ------------------------------------------------------------
 TITLE: Research Data Stewardship series: Publishing ... [16]
 SOURCE: SERPAPI Google Search
 
-The recent update from SERPAPI Google Search discussed a workshop in the Data Stewardship series at Princeton University that focused on motivations for publishing data and applying the FAIR principles. The workshop also covered topics related to education and employment.
+The final workshop in the Data Stewardship series will discuss motivations for publishing data and how to apply the FAIR principles. The event is part of an ongoing effort to promote research data stewardship in education and employment.
 ------------------------------------------------------------
-TITLE: Data Management and Sharing Policies and Library Services [13]
+TITLE: White House Issues FY27 Science and Technology Priorities [15]
 SOURCE: SERPAPI Google Search
 
-SERPAPI Google Search recently reported on the OSTP Public Access Policy Memo, also known as the "Nelson Memo," which states that by December 31, 2024, agencies should publish their new or updated public access policies.
+The recent update from SERPAPI Google Search discusses a memo calling for the advancement of research integrating lifestyle factors, genetics, and the environment to inform precision prevention and treatment strategies in the U.S. open data or open science policy.
 ------------------------------------------------------------
-TITLE: SPARC | Washington D.C. DC [18]
+TITLE: How Investors Can Position for Trump's AI Infrastructure ... [18]
 SOURCE: SERPAPI Google Search
 
-SERPAPI Google Search is tracking the implementation status of federal agencies' policies to comply with the 2022 OSTP Nelson Memo regarding U.S. open data or open science policy.
+The update from SERPAPI Google Search highlights how Trump's AI infrastructure strategy is leading to significant tech investments, trade shifts, and policy changes, creating opportunities and risks for investors.
 ------------------------------------------------------------
-TITLE: Open Access and Scholarly Publishing @ UNO - LibGuides [6]
+TITLE: Data Management and Sharing Policies and Library Services [8]
 SOURCE: SERPAPI Google Search
 
-SERPAPI Google Search discusses the benefits of open access journals, stating that they allow more people to access and discover research due to the lack of restricted access, which can increase the impact of work published.
+The OSTP Public Access Policy Memo, also known as the "Nelson Memo," states that agencies have until December 31, 2024, to publish their new or updated public access policies.
 ------------------------------------------------------------
-TITLE: Open Access at Purdue Home - Libraries [5]
+TITLE: Open Access and Scholarly Publishing @ UNO - LibGuides [17]
 SOURCE: SERPAPI Google Search
 
-implementing open science policies, the U.S. government can ensure that federally-funded research is freely available to the public. Open Access supports transparency and collaboration in research, ultimately benefiting society as a whole.
+The recent update from SERPAPI Google Search discusses the benefits of open access journals in allowing more people to access and discover research. This lack of restricted access increases the impact of published work.
 ------------------------------------------------------------
-TITLE: Dryad | Publish and preserve your data [17]
+TITLE: Open Access at Purdue Home - Libraries [4]
 SOURCE: SERPAPI Google Search
 
-Institutions, publishers, and academic societies collaborate with Dryad to support data curation, publishing, and preservation for researchers.
+implementing University-wide Open Access policy, Purdue University becomes part of a larger movement towards open data and open science. The policy encourages the use of repositories for scholarly articles and data, promoting transparency and accessibility in research.
+------------------------------------------------------------
+TITLE: Dryad | Publish and preserve your data [19]
+SOURCE: SERPAPI Google Search
+
+Dryad partners with institutions, publishers, and academic societies to provide data curation, publishing, and preservation services for researchers.
 ------------------------------------------------------------
 
 ============================================================
@@ -122,26 +127,27 @@ Institutions, publishers, and academic societies collaborate with Dryad to suppo
 ============================================================
 
 1. Guest Post — The Economics of AI in Academic Research — https://scholarlykitchen.sspnet.org/2025/10/09/guest-post-the-economics-of-ai-in-academic-research/
-2. Guest Post — Rethinking Disciplinary Data Regimes — https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/
-3. Guest Post — Manifesto Time: Do You Need a Publishing Manifesto? — https://scholarlykitchen.sspnet.org/2025/10/06/guest-post-manifesto-time-do-you-need-a-publishing-manifesto/
-4. Scholarship is Like Music: Standing on the Shoulders of Giants — https://scholarlykitchen.sspnet.org/2025/10/03/scholarship-is-like-music-standing-on-the-shoulders-of-giants/
-5. Open Access at Purdue Home - Libraries — https://lib.purdue.edu/openaccess-2/
-6. Open Access and Scholarly Publishing @ UNO - LibGuides — https://libguides.unomaha.edu/openaccess/myths
-7. CODATA and the Australian Research Data Commons (ARDC) announce the updated 2025 CODATA Research Data Management Terminology (RDMT) — https://codata.org/codata-and-the-australian-research-data-commons-ardc-announce-the-updated-2025-codata-research-data-management-terminology-rdmt/
-8. From launch to action: operationalising UNESCO’s open science data policies guidance for crises — https://codata.org/from-launch-to-action-operationalising-unescos-open-science-data-policies-guidance-for-crises/
-9. Integration of Data and Information Systems Into the Health ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12500401/
-10. Governmental Open Data - Data Science - Subject Guides — https://subjectguides.library.american.edu/c.php?g=1329947&p=9988298
-11. Feeding the Beast: Powering Democratic AI with Open Data — https://rebootdemocracy.ai/blog/powering-ai-with-open-data
-12. Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era — https://scholarlykitchen.sspnet.org/2025/10/07/guest-post-have-you-proved-youre-human-today-open-content-and-web-harvesting-in-the-ai-era/
-13. Data Management and Sharing Policies and Library Services — https://guides.hsl.virginia.edu/data/data-mgmt
-14.  — https://codata.org/14034-2/
-15. Agencies Issue Proposal to Prohibit Use of Reputation Risk ... — https://www.fdic.gov/news/press-releases/2025/agencies-issue-proposal-prohibit-use-reputation-risk-regulators
+2. CODATA and the Australian Research Data Commons (ARDC) announce the updated 2025 CODATA Research Data Management Terminology (RDMT) — https://codata.org/codata-and-the-australian-research-data-commons-ardc-announce-the-updated-2025-codata-research-data-management-terminology-rdmt/
+3. NIH Public Access Policy 2025: Costs - Research Guides — https://libguides.wvu.edu/c.php?g=1469420&p=10934304
+4. Open Access at Purdue Home - Libraries — https://lib.purdue.edu/openaccess-2/
+5. DOJ's Data Security Program: Imminent Compliance ... — https://www.kwm.com/us/en/insights/latest-thinking/dojs-data-security-program-imminent-compliance-requirements.html
+6. October 6 Compliance Deadline for DOJ's Data Security ... — https://www.jdsupra.com/legalnews/october-6-compliance-deadline-for-doj-s-2011997/
+7. Guest Post — Rethinking Disciplinary Data Regimes — https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/
+8. Data Management and Sharing Policies and Library Services — https://guides.hsl.virginia.edu/data/data-mgmt
+9. Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era — https://scholarlykitchen.sspnet.org/2025/10/07/guest-post-have-you-proved-youre-human-today-open-content-and-web-harvesting-in-the-ai-era/
+10. From launch to action: operationalising UNESCO’s open science data policies guidance for crises — https://codata.org/from-launch-to-action-operationalising-unescos-open-science-data-policies-guidance-for-crises/
+11. Guest Post — Manifesto Time: Do You Need a Publishing Manifesto? — https://scholarlykitchen.sspnet.org/2025/10/06/guest-post-manifesto-time-do-you-need-a-publishing-manifesto/
+12. Governmental Open Data - Data Science - Subject Guides — https://subjectguides.library.american.edu/c.php?g=1329947&p=9988298
+13. Feeding the Beast: Powering Democratic AI with Open Data — https://rebootdemocracy.ai/blog/powering-ai-with-open-data
+14. How Open Data Empowers Knowledge Generation — https://mdpiblog.wordpress.sciforum.net/2025/10/07/how-open-data-empowers-knowledge-generation/
+15. White House Issues FY27 Science and Technology Priorities — https://fabbs.org/news/2025/10/ostp/
 16. Research Data Stewardship series: Publishing ... — https://www.princeton.edu/events/2025/research-data-stewardship-series-publishing-research-data
-17. Dryad | Publish and preserve your data — https://datashare.ucsf.edu/
-18. SPARC | Washington D.C. DC — https://www.facebook.com/sparcopen?locale=ka_GE
+17. Open Access and Scholarly Publishing @ UNO - LibGuides — https://libguides.unomaha.edu/openaccess/myths
+18. How Investors Can Position for Trump's AI Infrastructure ... — https://stansberryresearch.com/stock-market-trends/how-trumps-ai-infrastructure-strategy-could-reshape-the-investment-landscape
+19. Dryad | Publish and preserve your data — https://datashare.ucsf.edu/
 
 ============================================================
-RUNTIME: 55.81 s
-ESTIMATED TOKENS: 2394
-ESTIMATED COST (USD): $0.0315
+RUNTIME: 55.9 s
+ESTIMATED TOKENS: 2422
+ESTIMATED COST (USD): $0.0318
 ============================================================
