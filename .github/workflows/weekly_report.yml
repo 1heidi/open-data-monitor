@@ -30,10 +30,11 @@ jobs:
           pip install --upgrade pip
           pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
 
-      - name: Run weekly report generator
+       - name: Run weekly report notebook
         run: |
-          python your_report_script.py
-
+          pip install jupyter nbconvert
+          jupyter nbconvert --to notebook --execute open_data_monitor.ipynb --output open_data_monitor_output.ipynb
+      
       - name: Commit and push report
         run: |
           git config --global user.name "github-actions[bot]"
