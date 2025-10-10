@@ -2,12 +2,12 @@ name: Weekly Open Data Monitor
 
 on:
   schedule:
-    - cron: '0 9 * * 0'
+    - cron: '0 9 * * 0'  # Every Sunday at 9 AM UTC
   workflow_dispatch:
 
 permissions:
   contents: write
-  
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -31,36 +31,33 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
+          pip install openai serpapi google-auth google-auth-oauthlib \
+                      google-auth-httplib2 requests python-dotenv jupyter nbconvert
 
-      - name: Run weekly report notebook
+      - name: Run weekly report notebook and export to Markdown + Text
         run: |
-          pip install jupyter nbconvert
           mkdir -p reports
-          # Execute the notebook in place (don’t save script copy to reports/)
-          jupyter nbconvert --execute --to notebook --allow-errors \
-            --output "Open_AI_Sci_Policy_executed.ipynb" \
+          # 1️⃣ Execute notebook and export to Markdown
+          jupyter nbconvert --execute --to markdown --allow-errors \
+            --output "reports/open_data_policy_report.md" \
             Open_AI_Sci_Policy.ipynb
+          # 2️⃣ Duplicate Markdown as Text version
+          cp reports/open_data_policy_report.md reports/open_data_policy_report.txt
 
-      - name: Commit and push report
+      - name: Commit and push reports
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Stage both Markdown and text reports
+          
           git add reports/*.md reports/*.txt || echo "No report files to add"
-
-          # Commit if there are changes
           git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
-
-          # Push changes back to the repository
           git push
 
       - name: Debug report files
         run: |
           echo "Listing reports directory:"
           ls -R reports || echo "⚠️ Reports folder not found"
-          
+
       - name: Send email notification
         working-directory: ${{ github.workspace }}
         run: python send_email_notification.py
