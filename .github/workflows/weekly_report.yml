@@ -2,7 +2,7 @@ name: Weekly Open Data Monitor
 
 on:
   schedule:
-    - cron: '0 9 * * 0'
+    - cron: '0 9 * * 0'   # Every Sunday at 9:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -35,19 +35,26 @@ jobs:
 
       - name: Run and export weekly report notebook
         run: |
+          set -e
           mkdir -p reports
           DATE=$(date -u +'%Y%m%d')
-          pip install jupyter nbconvert
-          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
-          jupyter nbconvert --to markdown open_data_monitor_${DATE}.ipynb --output reports/open_data_monitor_${DATE}.txt
+
+          # Execute notebook and save as .ipynb
+          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output "reports/open_data_monitor_${DATE}.ipynb"
+
+          # Convert notebook to markdown (nbconvert auto-adds .md)
+          jupyter nbconvert --to markdown "reports/open_data_monitor_${DATE}.ipynb" --output "open_data_monitor_${DATE}"
+
+          # Move and rename markdown file to .txt inside reports/
+          mv "open_data_monitor_${DATE}.md" "reports/open_data_monitor_${DATE}.txt"
 
       - name: Commit and push weekly report
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           # Add and commit reports safely
-          git add reports/*.md reports/*.txt reports/*.ipynb 2>/dev/null || true
+          git add reports/*.txt reports/*.ipynb 2>/dev/null || true
           git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
           git push || echo "⚠️ No changes to push"
 
