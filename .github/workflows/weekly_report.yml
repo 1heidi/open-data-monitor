@@ -39,7 +39,7 @@ jobs:
           DATE=$(date -u +'%Y%m%d')
           pip install jupyter nbconvert
           jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
-          jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output-dir=reports
+          jupyter nbconvert --to script reports/open_data_monitor_${DATE}.ipynb --output-dir=reports --output open_data_monitor_${DATE}.txt
 
       - name: Send Email Notification
         run: python send_email_notification.py
