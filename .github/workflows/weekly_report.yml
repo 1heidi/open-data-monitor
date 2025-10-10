@@ -41,9 +41,6 @@ jobs:
           jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
           jupyter nbconvert --to script reports/open_data_monitor_${DATE}.ipynb --output-dir=reports --output open_data_monitor_${DATE}.txt
 
-      - name: Send Email Notification
-        run: python send_email_notification.py
-
       - name: Commit and push weekly report
         run: |
           git config --global user.name "github-actions[bot]"
@@ -52,6 +49,5 @@ jobs:
           git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
           git push
 
-      - name: Send email notification
-        run: |
-          python send_email_notification.py
+      - name: Send Email Notification
+        run: python send_email_notification.py
