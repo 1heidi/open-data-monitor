@@ -55,6 +55,13 @@ jobs:
 
           # Push changes back to the repository
           git push
+
+      - name: Debug report files
+        run: |
+          echo "Listing reports directory:"
+          ls -R reports || echo "⚠️ Reports folder not found"
           
       - name: Send email notification
+        working-directory: ${{ github.workspace }}
         run: python send_email_notification.py
+
