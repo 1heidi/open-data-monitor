@@ -2,9 +2,9 @@ name: Weekly Open Data Report
 
 on:
   schedule:
-    # Runs every Monday at 9am UTC
+    # Runs every Sunday at 9am UTC
     - cron: '0 9 * * 0'
-  workflow_dispatch:  # allows manual runs
+  workflow_dispatch:  # allows manual trigger
 
 jobs:
   build:
@@ -28,23 +28,24 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
+          pip install jupyter nbconvert openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
 
-       - name: Run and export weekly report notebook
-         run: |
-           pip install jupyter nbconvert
-           mkdir -p reports
-           # Run the notebook and save the executed version
-           jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_output.ipynb
-            # Convert the executed notebook to Markdown for readability
-            jupyter nbconvert --to markdown reports/open_data_monitor_output.ipynb --output-dir=reports
-      
-      - name: Commit and push report
+      - name: Run and export weekly report notebook
+        run: |
+          mkdir -p reports
+          DATE=$(date -u +'%Y%m%d')
+          pip install jupyter nbconvert
+          # Execute the notebook
+          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
+          # Convert executed notebook to Markdown
+          jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output-dir=reports
+
+      - name: Commit and push weekly report
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add reports/*.md
-          git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
+          git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
           git push
 
       - name: Send email notification
