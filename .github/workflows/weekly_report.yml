@@ -40,13 +40,16 @@ jobs:
           DATE=$(date -u +'%Y%m%d')
 
           # Execute notebook and save as .ipynb
-          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output "reports/open_data_monitor_${DATE}.ipynb"
+          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb \
+            --output "reports/open_data_monitor_${DATE}.ipynb"
 
-          # Convert notebook to markdown (nbconvert auto-adds .md)
-          jupyter nbconvert --to markdown "reports/open_data_monitor_${DATE}.ipynb" --output "open_data_monitor_${DATE}"
+          # Convert notebook to markdown (and explicitly place in reports/)
+          jupyter nbconvert --to markdown "reports/open_data_monitor_${DATE}.ipynb" \
+            --output "open_data_monitor_${DATE}" \
+            --output-dir="reports"
 
-          # Move and rename markdown file to .txt inside reports/
-          mv "open_data_monitor_${DATE}.md" "reports/open_data_monitor_${DATE}.txt"
+          # Rename markdown file to .txt inside reports/
+          mv "reports/open_data_monitor_${DATE}.md" "reports/open_data_monitor_${DATE}.txt"
 
       - name: Commit and push weekly report
         run: |
