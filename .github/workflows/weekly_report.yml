@@ -3,7 +3,7 @@ name: Weekly Open Data Monitor
 on:
   schedule:
     - cron: '0 9 * * 0'
-  workflow_dispatch:  #
+  workflow_dispatch:
 
 jobs:
   build:
@@ -35,12 +35,10 @@ jobs:
           mkdir -p reports
           DATE=$(date -u +'%Y%m%d')
           pip install jupyter nbconvert
-          # Execute the notebook
           jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
-          # Convert executed notebook to Markdown
           jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output-dir=reports
 
-     - name: Send Email Notification
+      - name: Send Email Notification
         run: python send_email_notification.py
 
       - name: Commit and push weekly report
