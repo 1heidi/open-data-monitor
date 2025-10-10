@@ -41,8 +41,6 @@ def send_email(report_path=None):
             return
 
     report_date = datetime.now().strftime("%B %d, %Y")
-    msg["Subject"] = f"📊 Weekly Open Data Monitor Report — {report_date}"
-
     msg.set_content(
         f"""Hello,
 
