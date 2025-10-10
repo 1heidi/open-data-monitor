@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251010_051812
+    ✅ Configuration loaded. Run ID: 20251010_052511
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -339,8 +339,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 ```
 
     🚀 Section 3B starting...
-
-
     ✅ White House OSTP Blog: 0 entries fetched.
 
 
@@ -348,6 +346,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
 
     ✅ NIH Extramural Nexus: 0 entries fetched.
+
+
     ✅ DOE Office of Science News: 0 entries fetched.
 
 
@@ -366,6 +366,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     ✅ CODATA Blog: 9 entries fetched.
     📚 Total entries collected so far: 29
     🔍 Fetching supplemental results from SERPAPI (Google News)...
+
+
     ✅ SERPAPI results added.
     🧹 Deduplicated. Final entry count: 39
     
@@ -660,7 +662,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 11.69s.
+    🕒 RSS collection done in 10.71s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -692,19 +694,19 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 25 results gathered.
     
-    🕒 SERPAPI search done in 30.25s.
+    🕒 SERPAPI search done in 29.28s.
     
     📦 Combined 34 total entries.
     
     
     🧮 TOKEN BUDGET ESTIMATE
-      Input text: ~2,406 tokens
+      Input text: ~2,408 tokens
       Summaries:  ~17,000 tokens
-      Total est.: ~19,406 tokens
+      Total est.: ~19,408 tokens
       Budget cap: 20,000 tokens
     ✅ Within safe token budget.
     
-    🏁 Total runtime: 30.25s
+    🏁 Total runtime: 29.28s
     
     
     ✅ Done! Gathered 34 entries total.
@@ -1007,15 +1009,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. AI in academic research raises concerns about privacy, security, sustainability, and copyright issues, reshaping the economics of research. [1] [2] [3] [4] [5] [6]
+    1. AI must address concerns of privacy, security, sustainability, and copyright in academic research. [1] [2] [3] [4] [5] [6]
     
-    2. Challenges faced include defunding and deleting data collections, requiring rethinking of disciplinary data regimes to prevent data loss and preserve valuable information. [7] [8] [9] [10] [11] [3]
+    2. The importance of systems preserving data across disciplinary silos to prevent cultural memory loss. [7] [8] [9] [10] [11] [2]
     
-    3. AI web harvesting bots are creating IT management issues for content-rich websites across various sectors. [12] [3] [2] [13] [7] [14]
+    3. AI web harvesting bots are causing IT management problems for content-rich websites. [12] [2] [13] [14] [15] [16]
     
-    4. Writing a manifesto for publishing organizations is crucial for enhancing team building, planning, and guiding activities. [14] [15] [16] [15] [7] [17]
+    4. Writing a manifesto can serve as a team-building exercise within publishing organizations. [17] [18] [18]
     
-    5. Scholarly knowledge development is akin to music, relying on the foundation laid by past achievements for progress. [17] [15] [18] [15] [1] [7]
+    5. Open data and open science policies are crucial for fostering transparency and accessibility in research. [19] [20] [21] [18] [22] [2]
     
     
     
@@ -1026,7 +1028,7 @@ else:
     TITLE: Guest Post — The Economics of AI in Academic Research [1]
     SOURCE: The Scholarly Kitchen
     
-    The Scholarly Kitchen recently published a guest post discussing how AI will reshape the economics of academic research. The post raises concerns about privacy, security, sustainability, and copyright in the AI research tools community.
+    The recent update from The Scholarly Kitchen discusses how AI will reshape the economics of academic research. The post emphasizes the importance of vendors addressing concerns such as privacy, security, sustainability, and copyright in the fast-moving world of AI research tools.
     ------------------------------------------------------------
     TITLE: Guest Post — Rethinking Disciplinary Data Regimes [7]
     SOURCE: The Scholarly Kitchen
