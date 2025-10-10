@@ -30,10 +30,14 @@ jobs:
           pip install --upgrade pip
           pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
 
-       - name: Run weekly report notebook
-        run: |
-          pip install jupyter nbconvert
-          jupyter nbconvert --to notebook --execute open_data_monitor.ipynb --output open_data_monitor_output.ipynb
+       - name: Run and export weekly report notebook
+         run: |
+           pip install jupyter nbconvert
+           mkdir -p reports
+           # Run the notebook and save the executed version
+           jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_output.ipynb
+            # Convert the executed notebook to Markdown for readability
+            jupyter nbconvert --to markdown reports/open_data_monitor_output.ipynb --output-dir=reports
       
       - name: Commit and push report
         run: |
