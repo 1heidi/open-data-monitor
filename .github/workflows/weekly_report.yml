@@ -14,7 +14,8 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
       GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      EMAIL_USER: ${{ secrets.EMAIL_USER }}
+      EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
 
     steps:
       - name: Checkout repo
