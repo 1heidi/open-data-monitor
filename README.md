@@ -7,22 +7,12 @@ It:
 1. Gathers recent web articles and policy news using SERPAPI.  
 2. Optionally queries structured data feeds (e.g., NASA, NIH, NSF, OSTP).  
 3. Summarizes findings via OpenAI GPT models.  
-4. Generates a Markdown report containing:  
+4. Generates a report containing:  
    - Individual article summaries  
    - A meta-summary highlighting key policy trends  
    - Explicit instruction: *“Do not fabricate or infer connections.”*  
-5. Saves the report in `/content/open_data_monitor/` (or Google Drive if mounted).  
+5. Saves the report in /reports
 6. Optionally emails the report automatically.
-
----
-
-### Expected Outputs
-- **Markdown report file:**  
-  `/content/open_data_monitor/open_data_policy_report_YYYYMMDD_HHMM.md`  
-- **Console output:**  
-  ✅ Progress updates  
-  💰 Token usage and cost  
-  ⚠️ Warnings for quota or token limits  
 
 ---
 
