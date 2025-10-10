@@ -2,11 +2,8 @@ name: Weekly Open Data Monitor
 
 on:
   schedule:
-    - cron: '0 9 * * 0'   # Every Sunday at 9:00 UTC
+    - cron: '0 9 * * 0'
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
@@ -35,31 +32,21 @@ jobs:
 
       - name: Run and export weekly report notebook
         run: |
-          set -e
           mkdir -p reports
           DATE=$(date -u +'%Y%m%d')
-
-          # Execute notebook and save as .ipynb
-          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb \
-            --output "reports/open_data_monitor_${DATE}.ipynb"
-
-          # Convert notebook to markdown (and explicitly place in reports/)
-          jupyter nbconvert --to markdown "reports/open_data_monitor_${DATE}.ipynb" \
-            --output "open_data_monitor_${DATE}" \
-            --output-dir="reports"
-
-          # Rename markdown file to .txt inside reports/
-          mv "reports/open_data_monitor_${DATE}.md" "reports/open_data_monitor_${DATE}.txt"
+          pip install jupyter nbconvert
+          # Execute the notebook
+          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
+          # Convert executed notebook to Markdown
+          jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output-dir=reports
 
       - name: Commit and push weekly report
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Add and commit reports safely
-          git add reports/*.txt reports/*.ipynb 2>/dev/null || true
+          git add reports/*.md
           git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
-          git push || echo "⚠️ No changes to push"
+          git push
 
-      - name: Send Email Notification
-        run: python send_email_notification.py
+       - name: Send email notification
+          run: python send_email_notification.py
