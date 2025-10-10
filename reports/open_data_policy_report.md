@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251010_220549
+    ✅ Configuration loaded. Run ID: 20251010_221155
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -339,8 +339,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 ```
 
     🚀 Section 3B starting...
-
-
     ✅ White House OSTP Blog: 0 entries fetched.
 
 
@@ -348,8 +346,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
 
     ✅ NIH Extramural Nexus: 0 entries fetched.
-
-
     ✅ DOE Office of Science News: 0 entries fetched.
 
 
@@ -368,8 +364,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     ✅ CODATA Blog: 9 entries fetched.
     📚 Total entries collected so far: 29
     🔍 Fetching supplemental results from SERPAPI (Google News)...
-
-
     ✅ SERPAPI results added.
     🧹 Deduplicated. Final entry count: 39
     
@@ -474,7 +468,10 @@ SEARCH_QUERIES = [
     "FAIR data principles higher education US",
     "open research infrastructure policy America",
     "OSTP Nelson memo implementation",
-    "open data policy in academia site:.edu",
+    "cost of research",
+    "FAIR F&A",
+    "indirect costs",
+    "open access publishing",
 ]
 
 def collect_serpapi_results():
@@ -551,10 +548,19 @@ serpapi_results = collect_serpapi_results()
     → Searching: OSTP Nelson memo implementation
 
 
-    → Searching: open data policy in academia site:.edu
+    → Searching: cost of research
 
 
-    ✅ SERPAPI collection complete — 25 results gathered.
+    → Searching: FAIR F&A
+
+
+    → Searching: indirect costs
+
+
+    → Searching: open access publishing
+
+
+    ✅ SERPAPI collection complete — 31 results gathered.
     
 
 
@@ -651,6 +657,8 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
 
     → Fetching SPARC Open Access News ...
+
+
     → Fetching Research Data Alliance Blog ...
 
 
@@ -662,7 +670,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 9.79s.
+    🕒 RSS collection done in 9.85s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -689,27 +697,37 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     → Searching: OSTP Nelson memo implementation
 
 
-    → Searching: open data policy in academia site:.edu
+    → Searching: cost of research
 
 
-    ✅ SERPAPI collection complete — 25 results gathered.
+    → Searching: FAIR F&A
+
+
+    → Searching: indirect costs
+
+
+    → Searching: open access publishing
+
+
+    ✅ SERPAPI collection complete — 31 results gathered.
     
-    🕒 SERPAPI search done in 28.40s.
+    🕒 SERPAPI search done in 34.50s.
     
-    📦 Combined 34 total entries.
+    📦 Combined 40 total entries.
     
     
     🧮 TOKEN BUDGET ESTIMATE
-      Input text: ~2,392 tokens
-      Summaries:  ~17,000 tokens
-      Total est.: ~19,392 tokens
+      Input text: ~2,613 tokens
+      Summaries:  ~20,000 tokens
+      Total est.: ~22,613 tokens
       Budget cap: 20,000 tokens
-    ✅ Within safe token budget.
+    ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
+    ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 28.40s
+    🏁 Total runtime: 34.50s
     
     
-    ✅ Done! Gathered 34 entries total.
+    ✅ Done! Gathered 40 entries total.
     
 
 
@@ -1009,7 +1027,7 @@ else:
 
 ```
 
-    🧠 Generating summaries for 34 entries...
+    🧠 Generating summaries for 40 entries...
 
 
     🔎 Parsed 5 meta bullets. Mapping bullets to supporting sources...
@@ -1026,15 +1044,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. SSP's Generations Fund reached its fundraising goal to support activities related to scholarly communication and open data or open science policy. [1] [2] [3] [4] [5] [6]
+    1. The Scholarly Kitchen's Generations Fund reached its fundraising goal to support open data and open science initiatives. [1] [2] [3] [4] [5] [6]
     
-    2. A manifesto can be beneficial for a publishing organization in team building, planning, and inspiring action. [7] [2] [8] [8] [5] [9]
+    2. There is increasing emphasis on AI reshaping academic research methods, potentially impacting privacy, security, and sustainability. [7] [8] [9] [10] [6] [11]
     
-    3. AI web harvesting bots are causing IT management problems and violating established rules and practices in various industries. [10] [11] [12] [13]
+    3. The U.S. faces challenges in defunding and deleting data collections, highlighting the importance of preserving valuable data. [12] [13] [10] [3] [14] [8]
     
-    4. UNESCO launched resources on developing data policies for crisis preparedness, response, and recovery. [2] [12] [5] [3] [11] [14]
+    4. Scholarly discussions focus on writing publishing manifestos to enhance organizational planning and inspire action. [15] [6] [6] [3] [16] [2]
     
-    5. Open data and open science policies aim to increase transparency and accessibility, enhancing collaboration, reproducibility, and innovation in the scientific community. [15] [2] [3] [4] [8] [5]
+    5. Organizations are developing resources to guide the operationalization of open science data policies in times of crisis. [3] [4] [5] [17] [1] [13]
     
     
     
@@ -1045,9 +1063,9 @@ else:
     TITLE: SSP’s Generations Fund Crosses the Finish Line [1]
     SOURCE: The Scholarly Kitchen
     
-    The recent update from The Scholarly Kitchen is about SSP's Generations Fund reaching its fundraising goal. The fund is used to support activities related to scholarly communication and open data or open science policy.
+    The recent update from The Scholarly Kitchen mentions that SSP's Generations Fund has successfully reached its fundraising goal. The fund aims to support initiatives like open data or open science policies in the U.S. There is no specific mention of any new developments in U.S. open data or open science policy in the text provided.
     ------------------------------------------------------------
-    TITLE: Guest Post — Rethinking Disciplinary Data Regimes [5]
+    TITLE: Guest Post — The Economics of AI in Academic Research [7]
     SOURCE: The Scholarly Kitchen
     💾 Report written to reports/open_data_policy_report_2025-10-10.txt
 
