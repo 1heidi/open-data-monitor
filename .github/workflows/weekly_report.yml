@@ -48,5 +48,5 @@ jobs:
           git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
           git push
 
-       - name: Send email notification
-          run: python send_email_notification.py
+      - name: Send email notification
+        run: python send_email_notification.py
