@@ -61,7 +61,7 @@ Heidi's Best Attempt at a Open Data Policy Monitor Bot
             msg.add_attachment(
                 report_data,
                 maintype="text",
-                subtype="plain",
+                subtype="markup",
                 filename=filename
             )
 
