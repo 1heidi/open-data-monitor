@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251010_041346
+    ✅ Configuration loaded. Run ID: 20251010_041843
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -644,9 +644,9 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     → Fetching DOE Office of Science News ...
     → Fetching The Scholarly Kitchen ...
+
+
     → Fetching SPARC Open Access News ...
-
-
     → Fetching Research Data Alliance Blog ...
 
 
@@ -658,7 +658,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 7.52s.
+    🕒 RSS collection done in 7.27s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -690,19 +690,19 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 25 results gathered.
     
-    🕒 SERPAPI search done in 26.07s.
+    🕒 SERPAPI search done in 27.44s.
     
     📦 Combined 34 total entries.
     
     
     🧮 TOKEN BUDGET ESTIMATE
-      Input text: ~2,402 tokens
+      Input text: ~2,403 tokens
       Summaries:  ~17,000 tokens
-      Total est.: ~19,402 tokens
+      Total est.: ~19,403 tokens
       Budget cap: 20,000 tokens
     ✅ Within safe token budget.
     
-    🏁 Total runtime: 26.07s
+    🏁 Total runtime: 27.44s
     
     
     ✅ Done! Gathered 34 entries total.
@@ -1005,15 +1005,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. The Scholarly Kitchen highlights AI's impact on academic research economics and the importance of addressing concerns like privacy and security. [1] [2] [3] [4] [4] [5]
+    1. AI in academic research raises concerns about privacy, security, sustainability, and copyright. [1] [2] [3] [4] [5] [6]
     
-    2. Preservation of important data across disciplinary silos is crucial to prevent cultural memory loss in the current political policy environment. [5] [6] [7] [8] [9] [10]
+    2. U.S. data collections suffer from challenges due to political policies affecting funding and potential data deletion. [7] [8] [9] [10] [11] [2]
     
-    3. AI web harvesting bots are causing IT management problems for content-rich websites, showcasing the challenges of open content management in the AI era. [11] [12] [13] [14] [6] [15]
+    3. Bot-driven AI web harvesting poses a significant IT management problem for content-rich websites. [12] [2] [10] [13] [14] [15]
     
-    4. Developing a manifesto for publishing organizations can aid in team building, planning, and sparking action within the industry. [16] [6] [4] [17] [4] [18]
+    4. Writing manifestos for publishing organizations can enhance team building, planning, and action. [16] [8] [17] [6] [17] [7]
     
-    5. CODATA and ARDC have released the 2025 CODATA Research Data Management Terminology to assist those involved in research data management, providing free access through the ARDC's Research Vocabularies Australia service. [14] [19] [20] [3] [10] [6]
+    5. Open access and open data policies have the potential to increase visibility and impact of scholarly research. [17] [9] [17] [11] [8] [10]
     
     
     
@@ -1024,9 +1024,9 @@ else:
     TITLE: Guest Post — The Economics of AI in Academic Research [1]
     SOURCE: The Scholarly Kitchen
     
-    The recent update from The Scholarly Kitchen discusses the impact of AI on the economics of academic research. The post highlights how AI research tools will reshape academic research economics and focuses on community concerns such as privacy, security, sustainability, and copyright.
+    The recent update from The Scholarly Kitchen discusses how AI will reshape the economics of academic research, focusing on community-focused concerns such as privacy, security, sustainability, and copyright in the fast-moving world of AI research tools.
     ------------------------------------------------------------
-    TITLE: Guest Post — Rethinking Disciplinary Data Regimes [5]
+    TITLE: Guest Post — Rethinking Disciplinary Data Regimes [7]
     SOURCE: The Scholarly Kitchen
 
 
