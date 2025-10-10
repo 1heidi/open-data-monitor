@@ -53,6 +53,5 @@ jobs:
           git push
 
       - name: Send email notification
-        if: always()
         run: |
           python send_email_notification.py
