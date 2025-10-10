@@ -69,7 +69,4 @@ Run weekly via:
 - Google Apps Script  
 - **GitHub Actions** (recommended for automation)
 
----
 
-### Author / Maintainer
-Developed with GPT-5 for monitoring open data and open science policy developments in the United States.
