@@ -31,25 +31,20 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install jupyter nbconvert openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
+          pip install openai serpapi google-auth google-auth-oauthlib google-auth-httplib2 requests python-dotenv
 
-      - name: Run and export weekly report notebook
+       - name: Run weekly report notebook
         run: |
-          mkdir -p reports
-          DATE=$(date -u +'%Y%m%d')
           pip install jupyter nbconvert
-          # Execute the notebook
-          jupyter nbconvert --to notebook --execute Open_AI_Sci_Policy.ipynb --output reports/open_data_monitor_${DATE}.ipynb
-          # Convert executed notebook to Markdown
-          jupyter nbconvert --to markdown reports/open_data_monitor_${DATE}.ipynb --output-dir=reports
-
-      - name: Commit and push weekly report
+          jupyter nbconvert --to notebook --execute open_data_monitor.ipynb --output open_data_monitor_output.ipynb
+      
+      - name: Commit and push report
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add reports/*.md
-          git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No new report to commit"
+          git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
           git push
-
+          
       - name: Send email notification
         run: python send_email_notification.py
