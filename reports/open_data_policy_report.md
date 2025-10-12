@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251010_222823
+    ✅ Configuration loaded. Run ID: 20251012_091308
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -376,8 +376,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
 
     ✅ Journ Sci Policy: 10 entries fetched.
-
-
     ✅ Sci4All: 10 entries fetched.
 
 
@@ -582,7 +580,7 @@ serpapi_results = collect_serpapi_results()
     → Searching: open access publishing
 
 
-    ✅ SERPAPI collection complete — 31 results gathered.
+    ✅ SERPAPI collection complete — 34 results gathered.
     
 
 
@@ -679,6 +677,8 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
 
     → Fetching SPARC Open Access News ...
+
+
     → Fetching Research Data Alliance Blog ...
 
 
@@ -700,7 +700,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 10 entries found within 7 days.
     
-    🕒 RSS collection done in 8.17s.
+    🕒 RSS collection done in 11.75s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -739,22 +739,22 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     → Searching: open access publishing
 
 
-    ✅ SERPAPI collection complete — 31 results gathered.
+    ✅ SERPAPI collection complete — 34 results gathered.
     
-    🕒 SERPAPI search done in 33.55s.
+    🕒 SERPAPI search done in 36.47s.
     
-    📦 Combined 41 total entries.
+    📦 Combined 44 total entries.
     
     
     🧮 TOKEN BUDGET ESTIMATE
-      Input text: ~7,953 tokens
-      Summaries:  ~20,500 tokens
-      Total est.: ~28,453 tokens
+      Input text: ~8,038 tokens
+      Summaries:  ~22,000 tokens
+      Total est.: ~30,038 tokens
       Budget cap: 20,000 tokens
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 33.55s
+    🏁 Total runtime: 36.47s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -1061,28 +1061,28 @@ else:
 
 
     🔎 Parsed 5 meta bullets. Mapping bullets to supporting sources...
-    💾 Report saved to reports/open_data_policy_report_20251010.md
+    💾 Report saved to reports/open_data_policy_report_20251012.md
     
     ✅ Section 4 complete — meta-summary, detailed summaries, and references generated.
     
     --- META-SUMMARY PREVIEW ---
     
     OPEN DATA POLICY MONITOR REPORT
-    Generated on October 10, 2025
+    Generated on October 12, 2025
     
     ============================================================
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. SSP's Generations Fund has met its fundraising target. [1]
+    1. The entire U.S. open data and open science policy landscape is shifting, including updates on research data management terminology and AI's economic impact on academic research. [1] [2] [3] [4] [5] [6]
     
-    2. AI presents economic and ethical considerations in academic research. [2] [3] [4] [5] [6] [7]
+    2. Organizations like SSP are reaching fundraising goals while grappling with challenges like disciplinary data regimes and web harvesting bots, highlighting the evolving nature of open content issues. [3] [7] [4] [6] [8] [9]
     
-    3. Disciplinary data regimes in the U.S. face challenges of defunding and data deletion. [8] [4] [9] [10] [11] [12]
+    3. UNESCO's recent launch of resources for open science data policies in times of crisis underscores a push for actionable guidance in response to global challenges. [4] [6] [3] [8] [10] [9]
     
-    4. Web harvesting bots pose challenges for content-rich websites. [13] [14]
+    4. Federal agencies are being called upon to publish clearer data for higher education transparency, emphasizing the importance of making data available and accessible. [11] [6] [12] [13] [8] [14]
     
-    5. Having a publishing manifesto can benefit organizations in various ways. [15] [16] [17] [16] [1] [2]
+    5. The development of a strategy by the Center for Open Science focusing on openness and rigor in research reflects a broader commitment to advancing the principles of open data and open science. [15] [4] [6] [2] [5] [8]
     
     
     
@@ -1090,14 +1090,14 @@ else:
     📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
     ============================================================
     
-    TITLE: SSP’s Generations Fund Crosses the Finish Line [1]
+    TITLE: Guest Post — Rethinking Disciplinary Data Regimes [3]
     SOURCE: The Scholarly Kitchen
     
-    The recent update from The Scholarly Kitchen indicates that SSP's Generations Fund has reached its fundraising goal. The fund received contributions from both individuals and organizations.
+    The recent update from The Scholarly Kitchen discusses the challenges facing U.S. open data or open science policy, including potential defunding and deletion of data collections and the need to build systems that save necessary information across disciplinary silos to prevent cultural memory loss.
     ------------------------------------------------------------
-    TITLE: Guest Post — The Economics of AI in Academic Research [2]
+    TITLE: Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era [7]
     SOURCE: The Scholarly Kitchen
-    💾 Report written to reports/open_data_policy_report_2025-10-10.txt
+    💾 Report written to reports/open_data_policy_report_2025-10-12.txt
 
 
 
