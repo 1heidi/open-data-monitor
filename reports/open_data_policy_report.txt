@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251014_145028
+    ✅ Configuration loaded. Run ID: 20251014_145558
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -347,6 +347,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
     ✅ White House OSTP Blog: 0 entries fetched.
 
+    
+
 
     ✅ NSF Science Matters News: 0 entries fetched.
 
@@ -382,6 +384,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     ✅ PLOS Sci Policy: 0 entries fetched.
     📚 Total entries collected so far: 59
     🔍 Fetching supplemental results from SERPAPI (Google News)...
+
+
     ✅ SERPAPI results added.
     🧹 Deduplicated. Final entry count: 69
     
@@ -696,7 +700,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 13.76s.
+    🕒 RSS collection done in 7.96s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -737,7 +741,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 38.65s.
+    🕒 SERPAPI search done in 33.24s.
     
     📦 Combined 41 total entries.
     
@@ -750,7 +754,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 38.65s
+    🏁 Total runtime: 33.24s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -940,7 +944,7 @@ def generate_report_with_refs(entries, use_ai_for_individual=USE_AI_FOR_INDIVIDU
             "published": e.get("published","")
         })
 
-    s_texts = [f"[{it['source']}] {it['title']}: {it['summary']}" for it in items]
+    s_texts = [f"{it['title']}: {it['summary']}" for it in items]
     meta_raw = _ai_meta_bullets(s_texts)
     bullets = _parse_numbered_bullets(meta_raw)
 
@@ -1092,15 +1096,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. Prioritize sustainability in event planning to create spaces promoting connections while minimizing planetary impact. [1] [2] [3] [4] [5] [6]
+    1. Open data and open science policies are crucial for safeguarding public access to reliable government data and protecting data integrity in research. [1] [2] [3] [4] [5] [6]
     
-    2. Generative AI like ChatGPT impacts scholarly publishing with efficiencies but unclear long-term research effects. [3] [7] [4] [8] [9] [10]
+    2. The implementation of AI in scholarly publishing has led to advancements in ethical writing tools, AI-driven discovery, and automated peer review, streamlining research workflows. [7] [8] [5] [2] [9] [10]
     
-    3. SSP's Generations Fund achieved its goal with contributions from individuals and organizations. [11] [12]
+    3. Generative AI tools like ChatGPT have shifted from experimental phases to integration, enhancing research creation and evaluation but leaving long-term impacts uncertain. [7] [8] [11] [12] [5] [9]
     
-    4. Rethinking disciplinary data regimes is crucial to prevent cultural memory loss from defunding and deleting data collections. [13] [14] [15] [16] [17] [18]
+    4. Initiatives like WorldFAIR+ and CDIF are crucial for promoting data interoperability and collaboration, highlighting the importance of sustainable pathways in research. [13] [6] [14] [8] [4] [5]
     
-    5. The Trump administration's open data policy led to the compromise or removal of federal data and statistics. [15] [17] [16] [18] [5] [19]
+    5. The involvement of foreign adversaries in exploiting U.S. academic institutions necessitates potential changes in open data and open science policy to protect research and innovation infrastructure. [15] [5] [16] [2] [11] [17]
     
     
     
@@ -1108,12 +1112,12 @@ else:
     📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
     ============================================================
     
-    TITLE: Five Tips for Hosting a Sustainable Event [1]
+    TITLE: Five Tips for Hosting a Sustainable Event [14]
     SOURCE: The Scholarly Kitchen
     
-    The Scholarly Kitchen recently published a post titled "Five Tips for Hosting a Sustainable Event," which discusses the importance of prioritizing sustainability in event planning. This article provides advice for event planners on how to create spaces that promote deeper connection while being mindful of their impact on the planet.
+    The recent update from The Scholarly Kitchen discusses five tips for hosting a sustainable event and how event planners are balancing deeper connections with the impact on the planet. It does not mention anything specific about U.S. open data or open science policy.
     ------------------------------------------------------------
-    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [7]
+    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [12]
     SOURCE: The Scholarly Kitchen
     💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
