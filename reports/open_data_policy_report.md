@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251012_091308
+    ✅ Configuration loaded. Run ID: 20251014_141838
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -388,11 +388,11 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     🧹 Deduplicated. Final entry count: 69
     
     📋 Sample entries:
+    • The Scholarly Kitchen: Five Tips for Hosting a Sustainable Event (2025-10-14)
+    • The Scholarly Kitchen: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs (2025-10-14)
+    • The Scholarly Kitchen: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? (2025-10-13)
     • The Scholarly Kitchen: SSP’s Generations Fund Crosses the Finish Line (2025-10-10)
     • The Scholarly Kitchen: Guest Post — The Economics of AI in Academic Research (2025-10-09)
-    • The Scholarly Kitchen: Guest Post — Rethinking Disciplinary Data Regimes (2025-10-08)
-    • The Scholarly Kitchen: Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era (2025-10-07)
-    • The Scholarly Kitchen: Guest Post — Manifesto Time: Do You Need a Publishing Manifesto? (2025-10-06)
     
     ✅ Section 3B complete — entries ready for summarization.
 
@@ -580,7 +580,7 @@ serpapi_results = collect_serpapi_results()
     → Searching: open access publishing
 
 
-    ✅ SERPAPI collection complete — 34 results gathered.
+    ✅ SERPAPI collection complete — 32 results gathered.
     
 
 
@@ -698,9 +698,9 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     → Fetching PLOS Sci Policy ...
 
 
-    ✅ RSS feed collection complete — 10 entries found within 7 days.
+    ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 11.75s.
+    🕒 RSS collection done in 12.73s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -739,22 +739,22 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     → Searching: open access publishing
 
 
-    ✅ SERPAPI collection complete — 34 results gathered.
+    ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 36.47s.
+    🕒 SERPAPI search done in 37.49s.
     
-    📦 Combined 44 total entries.
+    📦 Combined 41 total entries.
     
     
     🧮 TOKEN BUDGET ESTIMATE
-      Input text: ~8,038 tokens
-      Summaries:  ~22,000 tokens
-      Total est.: ~30,038 tokens
+      Input text: ~3,020 tokens
+      Summaries:  ~20,500 tokens
+      Total est.: ~23,520 tokens
       Budget cap: 20,000 tokens
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 36.47s
+    🏁 Total runtime: 37.49s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -844,7 +844,7 @@ def _ai_meta_bullets(summaries_list):
           "You are a concise policy analyst. From the following short summaries of recent updates "
           "about U.S. open data and open science policy, produce exactly FIVE numbered, concise key takeaways. "
           "Each takeaway should be 1–2 sentences and focus on distinct insights — avoid overlap or repetition. "
-          "Do not mention or reference any sources (e.g., 'according to...'). "
+          "Do not mention or reference any sources (e.g., 'according to...' or 'The recent update from The Scholarly Kitchen...' or 'The recent update from SERPAPI Google Search...'). "
           "Use only the information explicitly present in the summaries. "
           "Do not infer or add new information. "
           "Return only the 5 numbered bullets, with no extra text.\n\n"
@@ -1061,28 +1061,28 @@ else:
 
 
     🔎 Parsed 5 meta bullets. Mapping bullets to supporting sources...
-    💾 Report saved to reports/open_data_policy_report_20251012.md
+    💾 Report saved to reports/open_data_policy_report_20251014.md
     
     ✅ Section 4 complete — meta-summary, detailed summaries, and references generated.
     
     --- META-SUMMARY PREVIEW ---
     
     OPEN DATA POLICY MONITOR REPORT
-    Generated on October 12, 2025
+    Generated on October 14, 2025
     
     ============================================================
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. The entire U.S. open data and open science policy landscape is shifting, including updates on research data management terminology and AI's economic impact on academic research. [1] [2] [3] [4] [5] [6]
+    1. Generative AI like ChatGPT has evolved to play key roles in scholarly publishing, enhancing workflows and creating efficiency while raising long-term impacts on research creation. [1] [2] [3] [4] [5] [6]
     
-    2. Organizations like SSP are reaching fundraising goals while grappling with challenges like disciplinary data regimes and web harvesting bots, highlighting the evolving nature of open content issues. [3] [7] [4] [6] [8] [9]
+    2. SSP's Generations Fund completed, receiving contributions from many individuals and organizations. [7] [8] [2] [9]
     
-    3. UNESCO's recent launch of resources for open science data policies in times of crisis underscores a push for actionable guidance in response to global challenges. [4] [6] [3] [8] [10] [9]
+    3. Vendor community concerns in AI include privacy, security, sustainability, and copyright issues, urging ethical considerations and addressing aspects of AI research tools. [3] [6] [1] [10] [11] [12]
     
-    4. Federal agencies are being called upon to publish clearer data for higher education transparency, emphasizing the importance of making data available and accessible. [11] [6] [12] [13] [8] [14]
+    4. Maintaining necessary information across disciplinary silos vital in safeguarding cultural memory and preventing data loss in U.S. open data and open science policy. [13] [14] [11] [15] [16] [17]
     
-    5. The development of a strategy by the Center for Open Science focusing on openness and rigor in research reflects a broader commitment to advancing the principles of open data and open science. [15] [4] [6] [2] [5] [8]
+    5. FAIR principles, focusing on data findability, accessibility, interoperability, and reusability, have been embraced by the U.S. government to enable easier access and use of data in research and public domains. [18] [19] [20] [17] [21] [22]
     
     
     
@@ -1090,14 +1090,14 @@ else:
     📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
     ============================================================
     
-    TITLE: Guest Post — Rethinking Disciplinary Data Regimes [3]
+    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [2]
     SOURCE: The Scholarly Kitchen
     
-    The recent update from The Scholarly Kitchen discusses the challenges facing U.S. open data or open science policy, including potential defunding and deletion of data collections and the need to build systems that save necessary information across disciplinary silos to prevent cultural memory loss.
+    The recent update from The Scholarly Kitchen announced the addition of Stephanie Lovegrove Hansen as a full-time Chef and the departure of several long-term Chefs, thanking them for their contributions. The update did not specifically mention any news or developments related to U.S. open data or open science policy.
     ------------------------------------------------------------
-    TITLE: Guest Post — “Have You Proved You’re Human Today?” Open Content and Web Harvesting in the AI Era [7]
+    TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [1]
     SOURCE: The Scholarly Kitchen
-    💾 Report written to reports/open_data_policy_report_2025-10-12.txt
+    💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
 
 
