@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251014_144436
+    ✅ Configuration loaded. Run ID: 20251014_145028
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -343,6 +343,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 ```
 
     🚀 Section 3B starting...
+
+
     ✅ White House OSTP Blog: 0 entries fetched.
 
 
@@ -350,6 +352,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
 
     ✅ NIH Extramural Nexus: 0 entries fetched.
+
+
     ✅ DOE Office of Science News: 0 entries fetched.
 
 
@@ -671,8 +675,6 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
 
     → Fetching SPARC Open Access News ...
-
-
     → Fetching Research Data Alliance Blog ...
 
 
@@ -694,7 +696,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 8.46s.
+    🕒 RSS collection done in 13.76s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -735,7 +737,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 33.31s.
+    🕒 SERPAPI search done in 38.65s.
     
     📦 Combined 41 total entries.
     
@@ -748,7 +750,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 33.31s
+    🏁 Total runtime: 38.65s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -800,14 +802,25 @@ def _normalize_text(t):
     return t
 
 def _strip_source_phrases(text):
-    """Remove phrases like 'The recent update from XYZ' or 'According to ABC' from start of text."""
-    # This regex matches common source attributions at the start
-    return re.sub(
-        r'^\s*(The|A)?\s*(recent\s*)?(update|report|post|news|article)?\s*(from|by|on|via)?\s*[A-Z][^:]{1,100}[:,\-–—]?\s*',
-        '',
-        text,
-        flags=re.IGNORECASE
+    """
+    Safely strip phrases like 'The recent update from XYZ:', 'According to ABC:', etc.
+    Only removes well-formed, prefatory attribution lines.
+    """
+    if not text:
+        return text
+
+    # Match patterns like "The recent update from XYZ:" or "According to ABC,"
+    pattern = re.compile(
+        r'^\s*(?:The\s+)?(?:recent\s+)?(?:update|report|post|article|news)?\s*'
+        r'(?:from|by|via)?\s*([A-Z][A-Za-z\s&,\-.]{1,60})[:,\-–—]\s+',
+        re.IGNORECASE
     )
+
+    match = pattern.match(text)
+    if match:
+        return text[match.end():].strip()
+
+    return text
 
 def _tokenize_for_matching(t):
     t = _normalize_text(t).lower()
@@ -1079,15 +1092,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. Hosting sustainable events requires prioritizing sustainability in event planning. [1] [2] [3] [4] [5]
+    1. Prioritize sustainability in event planning to create spaces promoting connections while minimizing planetary impact. [1] [2] [3] [4] [5] [6]
     
-    2. ChatGPT has increased efficiency in research workflows but its long-term impact remains uncertain. [6] [7] [8] [9] [3] [10]
+    2. Generative AI like ChatGPT impacts scholarly publishing with efficiencies but unclear long-term research effects. [3] [7] [4] [8] [9] [10]
     
-    3. SSP's Generations Fund thanked contributors. [11]
+    3. SSP's Generations Fund achieved its goal with contributions from individuals and organizations. [11] [12]
     
-    4. Vendors developing AI research tools need to address privacy, security, and sustainability concerns. [3] [10] [6] [2] [12] [13]
+    4. Rethinking disciplinary data regimes is crucial to prevent cultural memory loss from defunding and deleting data collections. [13] [14] [15] [16] [17] [18]
     
-    5. Systems must be built to preserve relevant data across disciplinary silos to prevent cultural memory loss. [14] [15] [12] [10] [16] [17]
+    5. The Trump administration's open data policy led to the compromise or removal of federal data and statistics. [15] [17] [16] [18] [5] [19]
     
     
     
@@ -1098,9 +1111,9 @@ else:
     TITLE: Five Tips for Hosting a Sustainable Event [1]
     SOURCE: The Scholarly Kitchen
     
-    of prioritizing sustainability in event planning.
+    The Scholarly Kitchen recently published a post titled "Five Tips for Hosting a Sustainable Event," which discusses the importance of prioritizing sustainability in event planning. This article provides advice for event planners on how to create spaces that promote deeper connection while being mindful of their impact on the planet.
     ------------------------------------------------------------
-    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [9]
+    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [7]
     SOURCE: The Scholarly Kitchen
     💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
