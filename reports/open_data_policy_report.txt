@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251014_153341
+    ✅ Configuration loaded. Run ID: 20251014_154358
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -343,6 +343,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 ```
 
     🚀 Section 3B starting...
+
+
     ✅ White House OSTP Blog: 0 entries fetched.
 
 
@@ -350,6 +352,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
 
     ✅ NIH Extramural Nexus: 0 entries fetched.
+
+
     ✅ DOE Office of Science News: 0 entries fetched.
 
 
@@ -378,8 +382,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     ✅ PLOS Sci Policy: 0 entries fetched.
     📚 Total entries collected so far: 59
     🔍 Fetching supplemental results from SERPAPI (Google News)...
-
-
     ✅ SERPAPI results added.
     🧹 Deduplicated. Final entry count: 69
     
@@ -670,8 +672,6 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     → Fetching DOE Office of Science News ...
     → Fetching The Scholarly Kitchen ...
-
-
     → Fetching SPARC Open Access News ...
 
 
@@ -696,7 +696,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 11.53s.
+    🕒 RSS collection done in 12.98s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -737,7 +737,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 36.37s.
+    🕒 SERPAPI search done in 37.95s.
     
     📦 Combined 41 total entries.
     
@@ -750,7 +750,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 36.37s
+    🏁 Total runtime: 37.95s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -837,9 +837,9 @@ def _ai_summarize_entry(text, source, link):
         return f"[OFFLINE] {source}: {text[:280]}..."
     prompt = (
       f"You are a policy analyst. Summarize the following text about U.S. open data or open science policy. "
-      "Write a brief, informative summary using your own words. Do not copy full sentences from the text. "
-      "You may use incomplete sentences only if they clearly communicate a self-contained idea. "
-      "Avoid any source references or introductory phrases like 'According to...' or 'The update from...'. "
+      "Write a concise summary using your own words and complete sentences. "
+      "Avoid quoting or copying sentences from the original text. "
+      "Do not mention the source or use phrases like 'according to...' or 'a recent update...'. "
       "Only include facts found in the text — do not invent anything.\n\n"
       f"Source link: {link}\n\nText:\n{text[:4000]}"
       )
@@ -1095,15 +1095,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. AI tools are transforming scholarly publishing, shifting focus from experimentation to integration. [1] [2] [3] [4] [5] [6]
+    1. U.S. government is expected to announce updates on open data and open science policies on October 14, 2025. [1] [2] [3] [4] [5] [6]
     
-    2. SSP's Generations Fund has successfully reached its goal thanks to contributions from individuals and organizations. [7] [8] [9]
+    2. SSP's Generations Fund has been completed with contributions from individual and organizational donors. [7] [8] [9]
     
-    3. Concerns over defunding data collections underscore the importance of preserving information across disciplines. [4] [10] [11] [12] [13] [14]
+    3. ChatGPT has evolved scholarly publishing by integrating ethical writing tools, AI-driven discovery, summarization, and automated peer review. [8] [10] [11] [12] [2] [13]
     
-    4. AU's seminar on WorldFAIR+ and CDIF aims to discuss open data and open science policies. [9] [5] [14] [11] [15] [16]
+    4. CODATA Research Data Management Terminology (RDMT) 2025 is publicly available for free through ARDC's Research Vocabularies Australia. [9] [14] [15] [5] [12] [2]
     
-    5. Open data and open science policies must consider factors like data use consent and privacy in the U.S., especially across federal boundaries. [14] [5] [15] [17] [11] [9]
+    5. FAIR principles play a crucial role in guiding open data and open science policies for data that is findable, accessible, interoperable, and reusable. [16] [4] [2] [17] [18] [1]
     
     
     
@@ -1111,12 +1111,12 @@ else:
     📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
     ============================================================
     
-    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [8]
+    TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [8]
     SOURCE: The Scholarly Kitchen
     
-    Stephanie Lovegrove Hansen has joined The Scholarly Kitchen as a full-time Chef, while several long-term Chefs are departing with thanks for their contributions.
+    has been transforming scholarly publishing for nearly three years. The field is moving from experimentation to integration, with advancements in ethical writing tools, AI-driven discovery, summarization, and automated peer review. While these tools are enhancing workflow efficiency, the long-term impact on research creation and evaluation remains uncertain.
     ------------------------------------------------------------
-    TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [1]
+    TITLE: SSP’s Generations Fund Crosses the Finish Line [7]
     SOURCE: The Scholarly Kitchen
     💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
