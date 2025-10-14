@@ -60,15 +60,24 @@ jobs:
         run: |
           echo "Listing reports directory:"
           ls -R reports || echo "⚠️ Reports folder not found"
-          
+
       - name: Commit and push reports
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add reports/*.md reports/*.txt || echo "No report files to add"
-          git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')" || echo "No changes to commit"
-          git push
+          # Add only the .txt report files
+          # Using || true ensures the action doesn't fail if no files are initially present
+          git add reports/*.txt || true
+          
+          # Check if there are any staged changes (i.e., if git add succeeded)
+          if git diff --quiet --exit-code --cached; then
+            echo "No changes to commit. The report was likely already pushed."
+          else
+            # Commit and push only if changes were staged
+            git commit -m "🧾 Weekly Open Data Report $(date -u +'%Y-%m-%d')"
+            git push
+          fi
 
       - name: Debug report files
         run: |
