@@ -1,0 +1,148 @@
+OPEN DATA POLICY MONITOR REPORT
+Generated on October 14, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Sustainable events require a balance between connectivity and environmental impact. [1] [2]
+
+2. AI tools are reshaping academic research economics and workflows. [2] [3] [4] [5] [6] [7]
+
+3. Preservation of data across disciplines is essential to prevent loss of cultural knowledge. [8] [9] [6] [10] [11] [12]
+
+4. U.S. government is promoting open data and open science policies for transparency. [13] [9] [14] [15] [10] [11]
+
+5. The U.S. open data or open science policy emphasizes FAIR data principles. [16] [14] [11] [17] [18] [19]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Five Tips for Hosting a Sustainable Event [1]
+SOURCE: The Scholarly Kitchen
+
+Event planners need to balance creating spaces for deeper connections while being mindful of the planet's impact. The article provides five tips for hosting sustainable events.
+------------------------------------------------------------
+TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [4]
+SOURCE: The Scholarly Kitchen
+
+has been influencing scholarly publishing for almost three years. The field has progressed from experimenting with AI to incorporating it in various aspects such as ethical writing tools, AI-driven discovery, summarization, and automated peer review. These advancements have led to more efficient workflows, but the long-term effects on research creation and evaluation are still uncertain.
+------------------------------------------------------------
+TITLE: Guest Post — The Economics of AI in Academic Research [2]
+SOURCE: The Scholarly Kitchen
+
+The article discusses the impact of AI on the economics of academic research, highlighting important concerns such as privacy, security, sustainability, and copyright. AI tools are seen as reshaping academic research economics.
+------------------------------------------------------------
+TITLE: Guest Post — Rethinking Disciplinary Data Regimes [8]
+SOURCE: The Scholarly Kitchen
+
+there is a political environment threatening to defund and delete data collections, leading to concerns about the trustworthiness of available information. With the rise of AI tools, preserving data across various disciplines is crucial to prevent the loss of important cultural knowledge due to historical accidents.
+------------------------------------------------------------
+TITLE: TOMORROW: AuScope Seminar on WorldFAIR+ and CDIF [19]
+SOURCE: CODATA Blog
+
+AuScope is hosting a seminar to discuss WorldFAIR+ and the Cross-Domain Interoperability Framework (CDIF) on October 10, 2025. The speakers include representatives from AuScope, CODATA, UKDS, and ANU. The event aims to explore these topics related to open data and open science policy.
+------------------------------------------------------------
+TITLE: Live News [13]
+SOURCE: SERPAPI Google Search
+
+The U.S. government is promoting open data and open science policies. These policies aim to increase transparency and access to research and government information.
+------------------------------------------------------------
+TITLE: Bridging ethical gaps in digital health research [5]
+SOURCE: SERPAPI Google Search
+
+Researchers who receive grants have responsibilities to uphold, including maintaining data security and complying with consent terms.
+------------------------------------------------------------
+TITLE: Exploring the Acceptability and Suitability of Synchronous ... [15]
+SOURCE: SERPAPI Google Search
+
+During the COVID-19 pandemic, researchers shifted from in-person to online research methods. This study examines the acceptability and implications of open data and open science policies in the United States.
+------------------------------------------------------------
+TITLE: A Shortlist of Federal Data the Trump Administration Has ... [9]
+SOURCE: SERPAPI Google Search
+
+The Trump administration has significantly reduced or compromised federal data and statistics. This has impacted the extent and quality of open data and open science policies in the United States.
+------------------------------------------------------------
+TITLE: Data Resources & Tools: Disappearing Federal Data Resources [6]
+SOURCE: SERPAPI Google Search
+
+Starting in January 2025, numerous federal datasets, websites, and other accessible resources from various agencies are being removed to comply with regulations.
+------------------------------------------------------------
+TITLE: Opinion: Can we trust government data? [10]
+SOURCE: SERPAPI Google Search
+
+The text highlights the importance of safeguarding the reliability and accessibility of public data, emphasizing the need to protect what is traditionally viewed as public information.
+------------------------------------------------------------
+TITLE: Open Access Publishing - Scholarly Communication [7]
+SOURCE: SERPAPI Google Search
+
+Open access publications provide free online access to scholarly works, with some being licensed under Creative Commons License. This policy facilitates broader accessibility and distribution of academic research.
+------------------------------------------------------------
+TITLE: October 6 Compliance Deadline for DOJ's Data Security ... [11]
+SOURCE: SERPAPI Google Search
+
+The data compliance program for U.S. open data or open science policy should help U.S. persons or entities identify the types and volumes of bulk U.S. sensitive data involved in restricted transactions.
+------------------------------------------------------------
+TITLE: DOJ's Final Rule on Bulk Data Transfers: The First 180 Days [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. Department of Justice has issued a final rule requiring U.S. persons to comply with CISA Security Requirements when engaging in bulk data transfers.
+------------------------------------------------------------
+TITLE: FAIR data [17]
+SOURCE: SERPAPI Google Search
+
+which adheres to the FAIR principles of findability, accessibility, interoperability, and reusability. These principles aim to enhance the usability and availability of data for research and innovation purposes.
+------------------------------------------------------------
+TITLE: FAIR2 data management [16]
+SOURCE: SERPAPI Google Search
+
+Open data or open science policy in the U.S. emphasizes the principles of findability, accessibility, interoperability, and reusability (FAIR data). This entails ensuring that data is easy to find, access, and use for different purposes.
+------------------------------------------------------------
+TITLE: Digital Public Infrastructure and Open Data: A two-way ... [18]
+SOURCE: SERPAPI Google Search
+
+The text discusses how foundational digital systems and Open Data can work together to promote inclusive, transparent, and data-driven governance and digital societies. It emphasizes the importance of the relationship between these two elements in achieving these goals.
+------------------------------------------------------------
+TITLE: How U.S. research and innovation are reshaping ... [3]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data policy aims to support the scaling deployment infrastructure for the energy sector by requiring trillions in grid upgrades, workforce training, and permitting reform to fully accommodate the needs.
+------------------------------------------------------------
+TITLE: Science Unleashed: - Embracing Open Practices - Amazon S3 [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy has a policy implementation deadline of December 31, 2025. This policy is known as the Nelson Memo.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Five Tips for Hosting a Sustainable Event — https://scholarlykitchen.sspnet.org/2025/10/14/five-tips-for-hosting-a-sustainable-event/
+2. Guest Post — The Economics of AI in Academic Research — https://scholarlykitchen.sspnet.org/2025/10/09/guest-post-the-economics-of-ai-in-academic-research/
+3. How U.S. research and innovation are reshaping ... — https://www.openaccessgovernment.org/article/how-u-s-research-and-innovation-are-reshaping-the-global-energy-future/199733/
+4. Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? — https://scholarlykitchen.sspnet.org/2025/10/13/three-years-after-the-launch-of-chatgpt-do-we-know-where-this-is-heading/
+5. Bridging ethical gaps in digital health research — https://pmc.ncbi.nlm.nih.gov/articles/PMC12509369/
+6. Data Resources & Tools: Disappearing Federal Data Resources — https://libguides.oxy.edu/data/data_rescue
+7. Open Access Publishing - Scholarly Communication — https://guides.library.nymc.edu/scholarlycommunications/openaccess
+8. Guest Post — Rethinking Disciplinary Data Regimes — https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/
+9. A Shortlist of Federal Data the Trump Administration Has ... — https://www.yahoo.com/news/articles/shortlist-federal-data-trump-administration-181731088.html
+10. Opinion: Can we trust government data? — https://www.ctpost.com/opinion/article/data-laboir-statistics-federal-21093534.php
+11. October 6 Compliance Deadline for DOJ's Data Security ... — https://www.jdsupra.com/legalnews/october-6-compliance-deadline-for-doj-s-2011997/
+12. DOJ's Final Rule on Bulk Data Transfers: The First 180 Days — https://www.healthlawadvisor.com/dojs-final-rule-on-bulk-data-transfers-the-first-180-days
+13. Live News — https://www.whitehouse.gov/live/
+14. Science Unleashed: - Embracing Open Practices - Amazon S3 — https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/49929330/OpenScienceUnleashedF24.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20251012/eu-west-1/s3/aws4_request&X-Amz-Date=20251012T012549Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ebce0554131e1bfc532fcd57ad9d3a9ac6217e1dc1e103923520f78848c05226
+15. Exploring the Acceptability and Suitability of Synchronous ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12510437/
+16. FAIR2 data management — https://www.frontiersin.org/about/fair-data-management
+17. FAIR data — https://en.wikipedia.org/wiki/FAIR_data
+18. Digital Public Infrastructure and Open Data: A two-way ... — https://medium.com/opendatacharter/digital-public-infrastructure-and-open-data-a-two-way-relationship-86d14d4888b9
+19. TOMORROW: AuScope Seminar on WorldFAIR+ and CDIF — https://codata.org/tomorrow-auscope-seminar-on-worldfair-and-cdif/
+
+============================================================
+RUNTIME: 65.52 s
+ESTIMATED TOKENS: 2173
+ESTIMATED COST (USD): $0.0277
+============================================================
