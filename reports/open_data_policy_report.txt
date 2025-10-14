@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251014_145558
+    ✅ Configuration loaded. Run ID: 20251014_151556
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -347,8 +347,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
     ✅ White House OSTP Blog: 0 entries fetched.
 
-    
-
 
     ✅ NSF Science Matters News: 0 entries fetched.
 
@@ -384,8 +382,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     ✅ PLOS Sci Policy: 0 entries fetched.
     📚 Total entries collected so far: 59
     🔍 Fetching supplemental results from SERPAPI (Google News)...
-
-
     ✅ SERPAPI results added.
     🧹 Deduplicated. Final entry count: 69
     
@@ -700,7 +696,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 7.96s.
+    🕒 RSS collection done in 6.86s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -741,7 +737,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 33.24s.
+    🕒 SERPAPI search done in 31.69s.
     
     📦 Combined 41 total entries.
     
@@ -754,7 +750,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 33.24s
+    🏁 Total runtime: 31.69s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -840,10 +836,12 @@ def _ai_summarize_entry(text, source, link):
     if not cli:
         return f"[OFFLINE] {source}: {text[:280]}..."
     prompt = (
-        f"Summarize this recent update from {source} about U.S. open data or open science policy. "
-        "Only use facts present in the text. DO NOT MAKE UP facts, dates, or sources.\n\n"
-        f"Source link: {link}\n\nText:\n{text[:4000]}"
-    )
+      f"Summarize the following text about U.S. open data or open science policy. "
+      "Write a concise, factual summary without mentioning or referencing the source or link. "
+      "Do not include phrases like 'The recent update from...' or 'According to...'. "
+      "Only use facts present in the text. Do NOT make up any facts, dates, or sources.\n\n"
+      f"Source link: {link}\n\nText:\n{text[:4000]}"
+      )
     try:
         resp = cli.chat.completions.create(
             model=MODEL,
@@ -1096,15 +1094,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. Open data and open science policies are crucial for safeguarding public access to reliable government data and protecting data integrity in research. [1] [2] [3] [4] [5] [6]
+    1. Sustainable event planning emphasizes minimizing environmental impact while fostering connections. [1] [2] [3] [4] [5] [6]
     
-    2. The implementation of AI in scholarly publishing has led to advancements in ethical writing tools, AI-driven discovery, and automated peer review, streamlining research workflows. [7] [8] [5] [2] [9] [10]
+    2. Integration of generative AI like ChatGPT in scholarly publishing drives advancements in ethical writing tools and workflow efficiency. [3] [5] [7] [8] [9] [9]
     
-    3. Generative AI tools like ChatGPT have shifted from experimental phases to integration, enhancing research creation and evaluation but leaving long-term impacts uncertain. [7] [8] [11] [12] [5] [9]
+    3. The successful completion of SSP's Generations Fund showcases strong support from individual and organizational contributors. [10] [11] [12]
     
-    4. Initiatives like WorldFAIR+ and CDIF are crucial for promoting data interoperability and collaboration, highlighting the importance of sustainable pathways in research. [13] [6] [14] [8] [4] [5]
+    4. Updated CODATA Research Data Management Terminology assists individuals in research data management. [13] [14] [15] [16] [7] [17]
     
-    5. The involvement of foreign adversaries in exploiting U.S. academic institutions necessitates potential changes in open data and open science policy to protect research and innovation infrastructure. [15] [5] [16] [2] [11] [17]
+    5. UKRI's open access policy covers a wide range of research articles submitted for publication, enhancing accessibility and dissemination. [18] [19] [7] [9] [20] [9]
     
     
     
@@ -1112,12 +1110,12 @@ else:
     📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
     ============================================================
     
-    TITLE: Five Tips for Hosting a Sustainable Event [14]
+    TITLE: Five Tips for Hosting a Sustainable Event [1]
     SOURCE: The Scholarly Kitchen
     
-    The recent update from The Scholarly Kitchen discusses five tips for hosting a sustainable event and how event planners are balancing deeper connections with the impact on the planet. It does not mention anything specific about U.S. open data or open science policy.
+    Event planners are advised to prioritize sustainability when planning events, finding a balance between creating connections and minimizing impact on the planet.
     ------------------------------------------------------------
-    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [12]
+    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [2]
     SOURCE: The Scholarly Kitchen
     💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
