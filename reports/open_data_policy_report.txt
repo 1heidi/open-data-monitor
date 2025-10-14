@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251014_141838
+    ✅ Configuration loaded. Run ID: 20251014_143849
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -700,7 +700,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 12.73s.
+    🕒 RSS collection done in 11.58s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -741,7 +741,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 37.49s.
+    🕒 SERPAPI search done in 36.40s.
     
     📦 Combined 41 total entries.
     
@@ -754,7 +754,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 37.49s
+    🏁 Total runtime: 36.40s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -805,6 +805,16 @@ def _normalize_text(t):
     t = re.sub(r"\s+", " ", t).strip()
     return t
 
+def _strip_source_phrases(text):
+    """Remove phrases like 'The recent update from XYZ' or 'According to ABC' from start of text."""
+    # This regex matches common source attributions at the start
+    return re.sub(
+        r'^\s*(The|A)?\s*(recent\s*)?(update|report|post|news|article)?\s*(from|by|on|via)?\s*[A-Z][^:]{1,100}[:,\-–—]?\s*',
+        '',
+        text,
+        flags=re.IGNORECASE
+    )
+
 def _tokenize_for_matching(t):
     t = _normalize_text(t).lower()
     t = re.sub(r"[^a-z0-9\s]", " ", t)
@@ -844,7 +854,7 @@ def _ai_meta_bullets(summaries_list):
           "You are a concise policy analyst. From the following short summaries of recent updates "
           "about U.S. open data and open science policy, produce exactly FIVE numbered, concise key takeaways. "
           "Each takeaway should be 1–2 sentences and focus on distinct insights — avoid overlap or repetition. "
-          "Do not mention or reference any sources (e.g., 'according to...' or 'The recent update from The Scholarly Kitchen...' or 'The recent update from SERPAPI Google Search...'). "
+          "Do not mention or reference any sources (e.g., 'according to...'). "
           "Use only the information explicitly present in the summaries. "
           "Do not infer or add new information. "
           "Return only the 5 numbered bullets, with no extra text.\n\n"
@@ -920,6 +930,7 @@ def generate_report_with_refs(entries, use_ai_for_individual=USE_AI_FOR_INDIVIDU
             "source": _normalize_text(source),
             "summary": _normalize_text(summary),
             "published": e.get("published","")
+        summary = _strip_source_phrases(summary)
         })
 
     s_texts = [f"[{it['source']}] {it['title']}: {it['summary']}" for it in items]
@@ -1057,47 +1068,12 @@ else:
 
 ```
 
-    🧠 Generating summaries for 40 entries...
 
+      Cell In[11], line 167
+        "published": e.get("published","")
+                     ^
+    SyntaxError: invalid syntax. Perhaps you forgot a comma?
 
-    🔎 Parsed 5 meta bullets. Mapping bullets to supporting sources...
-    💾 Report saved to reports/open_data_policy_report_20251014.md
-    
-    ✅ Section 4 complete — meta-summary, detailed summaries, and references generated.
-    
-    --- META-SUMMARY PREVIEW ---
-    
-    OPEN DATA POLICY MONITOR REPORT
-    Generated on October 14, 2025
-    
-    ============================================================
-    🔗 META-SUMMARY WITH NUMBERED REFERENCES
-    ============================================================
-    
-    1. Generative AI like ChatGPT has evolved to play key roles in scholarly publishing, enhancing workflows and creating efficiency while raising long-term impacts on research creation. [1] [2] [3] [4] [5] [6]
-    
-    2. SSP's Generations Fund completed, receiving contributions from many individuals and organizations. [7] [8] [2] [9]
-    
-    3. Vendor community concerns in AI include privacy, security, sustainability, and copyright issues, urging ethical considerations and addressing aspects of AI research tools. [3] [6] [1] [10] [11] [12]
-    
-    4. Maintaining necessary information across disciplinary silos vital in safeguarding cultural memory and preventing data loss in U.S. open data and open science policy. [13] [14] [11] [15] [16] [17]
-    
-    5. FAIR principles, focusing on data findability, accessibility, interoperability, and reusability, have been embraced by the U.S. government to enable easier access and use of data in research and public domains. [18] [19] [20] [17] [21] [22]
-    
-    
-    
-    ============================================================
-    📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
-    ============================================================
-    
-    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [2]
-    SOURCE: The Scholarly Kitchen
-    
-    The recent update from The Scholarly Kitchen announced the addition of Stephanie Lovegrove Hansen as a full-time Chef and the departure of several long-term Chefs, thanking them for their contributions. The update did not specifically mention any news or developments related to U.S. open data or open science policy.
-    ------------------------------------------------------------
-    TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [1]
-    SOURCE: The Scholarly Kitchen
-    💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
 
 
@@ -1192,5 +1168,5 @@ else:
 
 ```
 
-    Report generated but not emailed.
+    ⚠️ No report_text variable found. Please run Section 4 first.
 
