@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251014_151556
+    ✅ Configuration loaded. Run ID: 20251014_153341
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -343,8 +343,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 ```
 
     🚀 Section 3B starting...
-
-
     ✅ White House OSTP Blog: 0 entries fetched.
 
 
@@ -352,8 +350,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
 
     ✅ NIH Extramural Nexus: 0 entries fetched.
-
-
     ✅ DOE Office of Science News: 0 entries fetched.
 
 
@@ -382,6 +378,8 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     ✅ PLOS Sci Policy: 0 entries fetched.
     📚 Total entries collected so far: 59
     🔍 Fetching supplemental results from SERPAPI (Google News)...
+
+
     ✅ SERPAPI results added.
     🧹 Deduplicated. Final entry count: 69
     
@@ -675,6 +673,8 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
 
     → Fetching SPARC Open Access News ...
+
+
     → Fetching Research Data Alliance Blog ...
 
 
@@ -696,7 +696,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 6.86s.
+    🕒 RSS collection done in 11.53s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -737,20 +737,20 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 31.69s.
+    🕒 SERPAPI search done in 36.37s.
     
     📦 Combined 41 total entries.
     
     
     🧮 TOKEN BUDGET ESTIMATE
-      Input text: ~3,020 tokens
+      Input text: ~3,029 tokens
       Summaries:  ~20,500 tokens
-      Total est.: ~23,520 tokens
+      Total est.: ~23,529 tokens
       Budget cap: 20,000 tokens
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 31.69s
+    🏁 Total runtime: 36.37s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -836,10 +836,11 @@ def _ai_summarize_entry(text, source, link):
     if not cli:
         return f"[OFFLINE] {source}: {text[:280]}..."
     prompt = (
-      f"Summarize the following text about U.S. open data or open science policy. "
-      "Write a concise, factual summary without mentioning or referencing the source or link. "
-      "Do not include phrases like 'The recent update from...' or 'According to...'. "
-      "Only use facts present in the text. Do NOT make up any facts, dates, or sources.\n\n"
+      f"You are a policy analyst. Summarize the following text about U.S. open data or open science policy. "
+      "Write a brief, informative summary using your own words. Do not copy full sentences from the text. "
+      "You may use incomplete sentences only if they clearly communicate a self-contained idea. "
+      "Avoid any source references or introductory phrases like 'According to...' or 'The update from...'. "
+      "Only include facts found in the text — do not invent anything.\n\n"
       f"Source link: {link}\n\nText:\n{text[:4000]}"
       )
     try:
@@ -1094,15 +1095,15 @@ else:
     🔗 META-SUMMARY WITH NUMBERED REFERENCES
     ============================================================
     
-    1. Sustainable event planning emphasizes minimizing environmental impact while fostering connections. [1] [2] [3] [4] [5] [6]
+    1. AI tools are transforming scholarly publishing, shifting focus from experimentation to integration. [1] [2] [3] [4] [5] [6]
     
-    2. Integration of generative AI like ChatGPT in scholarly publishing drives advancements in ethical writing tools and workflow efficiency. [3] [5] [7] [8] [9] [9]
+    2. SSP's Generations Fund has successfully reached its goal thanks to contributions from individuals and organizations. [7] [8] [9]
     
-    3. The successful completion of SSP's Generations Fund showcases strong support from individual and organizational contributors. [10] [11] [12]
+    3. Concerns over defunding data collections underscore the importance of preserving information across disciplines. [4] [10] [11] [12] [13] [14]
     
-    4. Updated CODATA Research Data Management Terminology assists individuals in research data management. [13] [14] [15] [16] [7] [17]
+    4. AU's seminar on WorldFAIR+ and CDIF aims to discuss open data and open science policies. [9] [5] [14] [11] [15] [16]
     
-    5. UKRI's open access policy covers a wide range of research articles submitted for publication, enhancing accessibility and dissemination. [18] [19] [7] [9] [20] [9]
+    5. Open data and open science policies must consider factors like data use consent and privacy in the U.S., especially across federal boundaries. [14] [5] [15] [17] [11] [9]
     
     
     
@@ -1110,12 +1111,12 @@ else:
     📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
     ============================================================
     
-    TITLE: Five Tips for Hosting a Sustainable Event [1]
+    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [8]
     SOURCE: The Scholarly Kitchen
     
-    Event planners are advised to prioritize sustainability when planning events, finding a balance between creating connections and minimizing impact on the planet.
+    Stephanie Lovegrove Hansen has joined The Scholarly Kitchen as a full-time Chef, while several long-term Chefs are departing with thanks for their contributions.
     ------------------------------------------------------------
-    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [2]
+    TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [1]
     SOURCE: The Scholarly Kitchen
     💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
