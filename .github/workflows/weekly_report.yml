@@ -44,6 +44,13 @@ jobs:
           # 2️⃣ Duplicate Markdown as Text version
           cp reports/open_data_policy_report.md reports/open_data_policy_report.txt
 
+      - name: Clean unwanted report files
+        run: |
+          echo "Deleting all .md files in reports folder..."
+          rm -f reports/*.md
+          echo "Deleting open_data_policy_report.txt from reports folder..."
+          rm -f reports/open_data_policy_report.txt || echo "File not found, skipping"
+
       - name: Commit and push reports
         run: |
           git config --global user.name "github-actions[bot]"
