@@ -5,15 +5,15 @@ Generated on October 14, 2025
 🔗 META-SUMMARY WITH NUMBERED REFERENCES
 ============================================================
 
-1. Generative AI like ChatGPT has evolved to play key roles in scholarly publishing, enhancing workflows and creating efficiency while raising long-term impacts on research creation. [1] [2] [3] [4] [5] [6]
+1. Hosting sustainable events requires prioritizing sustainability in event planning. [1] [2] [3] [4] [5]
 
-2. SSP's Generations Fund completed, receiving contributions from many individuals and organizations. [7] [8] [2] [9]
+2. ChatGPT has increased efficiency in research workflows but its long-term impact remains uncertain. [6] [7] [8] [9] [3] [10]
 
-3. Vendor community concerns in AI include privacy, security, sustainability, and copyright issues, urging ethical considerations and addressing aspects of AI research tools. [3] [6] [1] [10] [11] [12]
+3. SSP's Generations Fund thanked contributors. [11]
 
-4. Maintaining necessary information across disciplinary silos vital in safeguarding cultural memory and preventing data loss in U.S. open data and open science policy. [13] [14] [11] [15] [16] [17]
+4. Vendors developing AI research tools need to address privacy, security, and sustainability concerns. [3] [10] [6] [2] [12] [13]
 
-5. FAIR principles, focusing on data findability, accessibility, interoperability, and reusability, have been embraced by the U.S. government to enable easier access and use of data in research and public domains. [18] [19] [20] [17] [21] [22]
+5. Systems must be built to preserve relevant data across disciplinary silos to prevent cultural memory loss. [14] [15] [12] [10] [16] [17]
 
 
 
@@ -21,146 +21,116 @@ Generated on October 14, 2025
 📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
 ============================================================
 
-TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [2]
+TITLE: Five Tips for Hosting a Sustainable Event [1]
 SOURCE: The Scholarly Kitchen
 
-The recent update from The Scholarly Kitchen announced the addition of Stephanie Lovegrove Hansen as a full-time Chef and the departure of several long-term Chefs, thanking them for their contributions. The update did not specifically mention any news or developments related to U.S. open data or open science policy.
+of prioritizing sustainability in event planning.
 ------------------------------------------------------------
-TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [1]
+TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [9]
 SOURCE: The Scholarly Kitchen
 
-The Scholarly Kitchen discusses how generative AI, such as ChatGPT, is reshaping scholarly publishing three years after its launch. The sector has progressed from experimental to integrated use, with advancements in ethical writing tools, AI-driven discovery, summarization, and automated peer review. While workflows are more efficient, the long-term impact on research creation and evaluation is still uncertain.
+eral departing long-term Chefs, expressing gratitude for their contributions. No information about U.S. open data or open science policy was mentioned in the update.
 ------------------------------------------------------------
-TITLE: SSP’s Generations Fund Crosses the Finish Line [7]
+TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [6]
 SOURCE: The Scholarly Kitchen
 
-The recent update from The Scholarly Kitchen was about SSP's Generations Fund crossing the finish line. The post thanked individual and organizational contributors to the fund.
+n ethical writing tools, AI-driven discovery, summarization, and automated peer review. This shift has led to increased efficiency in workflows, but the long-term impact on research creation and evaluation remains uncertain.
+------------------------------------------------------------
+TITLE: SSP’s Generations Fund Crosses the Finish Line [11]
+SOURCE: The Scholarly Kitchen
+
+The post thanked individual and organizational contributors to the fund.
 ------------------------------------------------------------
 TITLE: Guest Post — The Economics of AI in Academic Research [3]
 SOURCE: The Scholarly Kitchen
 
-The recent update from The Scholarly Kitchen discusses how AI will reshape the economics of academic research. The post highlights the various community-focused concerns that vendors should address, including privacy, security, sustainability, and copyright issues in the fast-moving world of AI research tools.
+for vendors to address issues such as privacy, security, sustainability, and copyright in the development of AI research tools.
 ------------------------------------------------------------
-TITLE: Guest Post — Rethinking Disciplinary Data Regimes [13]
+TITLE: Guest Post — Rethinking Disciplinary Data Regimes [14]
 SOURCE: The Scholarly Kitchen
 
-The recent update from The Scholarly Kitchen discusses the challenges faced by U.S. open data or open science policy in a political climate focused on defunding and deleting data collections. It highlights the importance of building systems that save necessary information across disciplinary silos to prevent cultural memory loss.
+changes that threaten data collections. It emphasizes the need to build systems that save relevant data across disciplinary silos to prevent cultural memory loss.
 ------------------------------------------------------------
-TITLE: CSSP Lecture on 15th October titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" [11]
+TITLE: TOMORROW: AuScope Seminar on WorldFAIR+ and CDIF [4]
+SOURCE: CODATA Blog
+
+ctober 10, 2025. Speakers at the event include Rebecca Farrington from AuScope, Simon Hodson from CODATA, Steve McEachern from UKDS, and Lesley Wyborn from ANU. The seminar aims to discuss data interoperability and open science policies.
+------------------------------------------------------------
+TITLE: CSSP Lecture on 15th October titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" [2]
 SOURCE: JCU Sci Policy
 
-JCU Sci Policy recently held a lecture on agricultural modernization in independent India by Dr. Madhumita Saha, an Associate Professor at Amity Institute of Social Sciences. The lecture took place on October 15th, 2025, at Room No. 227, 2nd Floor, SSS-1, JNU, at 3:00 p.m. The event was physical, and open to all.
+at JNU on October 15th, titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" by Dr. Madhumita Saha, Associate Professor at Amity University. The lecture will be held in Room No. 227, 2nd Floor, SSS-1, JNU at 3:00 p.m. and is open to all.
 ------------------------------------------------------------
-TITLE: Live News [15]
+TITLE: The Role of Data in Public Health and Health Innovation [15]
 SOURCE: SERPAPI Google Search
 
-The recent update from SERPAPI Google Search about U.S. open data or open science policy is that there is no specific information provided at this time. Stay tuned for further updates.
+cy, and data-sharing policies, especially when data move across state or federal boundaries in the U.S.
 ------------------------------------------------------------
-TITLE: The Role of Data in Public Health and Health Innovation [22]
+TITLE: Bridging ethical gaps in digital health research [10]
 SOURCE: SERPAPI Google Search
 
-The recent update from SERPAPI Google Search highlights the importance of careful consideration of data use consent, privacy, and data-sharing policies, especially when data crosses state or federal boundaries in the U.S.
+s includes responsibilities that researchers must uphold, such as maintaining data security and ensuring compliance with consent terms.
 ------------------------------------------------------------
-TITLE: Bridging ethical gaps in digital health research [6]
+TITLE: THRIVE Teaming Profiles [5]
 SOURCE: SERPAPI Google Search
 
-The recent update from SERPAPI Google Search pertains to grantor obligations in U.S. open data or open science policy. Researchers are required to maintain data security, comply with consent terms, and uphold other responsibilities as outlined in the policy.
+ng, and sustainable pathways for rare disease therapeutics. The program emphasizes the importance of data integrity in open science policy.
 ------------------------------------------------------------
 TITLE: A Shortlist of Federal Data the Trump Administration Has ... [16]
 SOURCE: SERPAPI Google Search
 
-significant. The Trump administration has made changes to federal data and statistics, affecting the availability and transparency of information. This has raised concerns about the impact on open data and open science policies in the U.S.
+ted, weakened the quality of data collected, and limited access to some data sources. This has raised concerns among researchers and scientists about the implications for public policy and decision-making based on incomplete or inaccurate data.
 ------------------------------------------------------------
 TITLE: Opinion: Can we trust government data? [17]
 SOURCE: SERPAPI Google Search
 
-The recent update highlights the importance of protecting the reliability and public access to public data in the U.S. for open data and open science policy.
+ss to public data, emphasizing the need for open data and open science policies in the U.S.
 ------------------------------------------------------------
 TITLE: Data Resources & Tools: Disappearing Federal Data Resources [12]
 SOURCE: SERPAPI Google Search
 
-Starting in January 2025, numerous federal datasets, websites, and other accessible resources from various agencies are being removed to comply with U.S. open data or open science policy.
+across agencies, are being taken offline to comply with U.S. open data or open science policy.
 ------------------------------------------------------------
-TITLE: Open Access: UKRI's requirements for research articles [10]
+TITLE: Open Access: UKRI's requirements for research articles [13]
 SOURCE: SERPAPI Google Search
 
-Starting April 1, 2022, UKRI's open access policy will include peer-reviewed research articles, reviews, and conference papers submitted for publication.
+- The UK Research and Innovation (UKRI) has announced an open access policy for peer-reviewed research articles submitted for publication from 1 April 2022. - This policy includes reviews and conference papers as well.
 ------------------------------------------------------------
-TITLE: October 6 Compliance Deadline for DOJ's Data Security ... [9]
+TITLE: China And The US Have Long Collaborated In 'open ... [7]
 SOURCE: SERPAPI Google Search
 
-The recent update outlines a compliance deadline of October 6 for the U.S. Department of Justice's new data compliance program related to restricted transactions involving bulk U.S. sensitive data. The program aims to help U.S. individuals and entities identify the types and volumes of data subject to restrictions.
+nts and scholars, and a halt to academic partnerships with China. Some in Congress are advocating for changes in open research collaborations between the U.S. and China.
 ------------------------------------------------------------
-TITLE: FAIR data [18]
+TITLE: Research Universities Defeat DoD Cap on Research Cost ... [8]
 SOURCE: SERPAPI Google Search
 
-recently adopted by the U.S. government as part of their open data and open science policy. The FAIR principles include findability, accessibility, interoperability, and reusability of data. The government's adoption of these principles aims to make data more easily accessible and usable for researchers and the public.
-------------------------------------------------------------
-TITLE: The FAIR for Research Software Principles after two years [19]
-SOURCE: SERPAPI Google Search
-
-The recent update from SERPAPI Google Search discusses the FAIR for Research Software (FAIR4RS) Principles, which focus on promoting findability, accessibility, interoperability, and reusability of research software.
-------------------------------------------------------------
-TITLE: FAIR2 data management [20]
-SOURCE: SERPAPI Google Search
-
-The recent update from SERPAPI Google Search discussed the importance of FAIR data, which stands for findability, accessibility, interoperability, and reusability. This data management principle is crucial in open data or open science policies in the U.S.
-------------------------------------------------------------
-TITLE: China And The US Have Long Collaborated In 'open ... [4]
-SOURCE: SERPAPI Google Search
-
-Recent updates from SERPAPI Google Search regarding U.S. open data or open science policy suggest recommendations for more legislation to protect U.S. research, tighter visa policies to vet Chinese students and scholars, and an end to academic partnerships.
-------------------------------------------------------------
-TITLE: China and the US have long collaborated in 'open ... [5]
-SOURCE: SERPAPI Google Search
-
-- Foreign adversaries are taking advantage of the open and collaborative nature of U.S. academic institutions for their own benefit - Some members of Congress are advocating for a change in open research policies regarding China and the U.S.
-------------------------------------------------------------
-TITLE: 2022 Updated OSTP Guidance - US Federal Funder Public ... [21]
-SOURCE: SERPAPI Google Search
-
-2022 OSTP Memo includes directions for federal funding agencies to update or create public access plans that include research data.
-------------------------------------------------------------
-TITLE: Science Unleashed: - Embracing Open Practices - Amazon S3 [14]
-SOURCE: SERPAPI Google Search
-
-The recent update from SERPAPI Google Search is about the U.S. open data or open science policy, with a policy implementation deadline set for Dec 31, 2025. It is referred to as the Nelson Memo on page 16 of the document titled "Science Unleashed - F24" by David Lippert.
-------------------------------------------------------------
-TITLE: Cy-Fair Youth Sports Association [8]
-SOURCE: SERPAPI Google Search
-
-The update discusses CFSA's position as one of the top youth sporting organizations in Texas and encourages individuals to learn how they can join the organization.
+l court, making it the fourth federal agency to face this ruling. This decision could impact U.S. open data or open science policy.
 ------------------------------------------------------------
 
 ============================================================
 📚 REFERENCES (unique supporting sources)
 ============================================================
 
-1. Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? — https://scholarlykitchen.sspnet.org/2025/10/13/three-years-after-the-launch-of-chatgpt-do-we-know-where-this-is-heading/
-2. Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs — https://scholarlykitchen.sspnet.org/2025/10/14/welcoming-a-new-chef-in-the-kitchen-and-saying-thanks-to-a-few-departing-chefs/
+1. Five Tips for Hosting a Sustainable Event — https://scholarlykitchen.sspnet.org/2025/10/14/five-tips-for-hosting-a-sustainable-event/
+2. CSSP Lecture on 15th October titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" — http://cssp-jnu.blogspot.com/2025/10/cssp-lecture-on-15th-october-titled.html
 3. Guest Post — The Economics of AI in Academic Research — https://scholarlykitchen.sspnet.org/2025/10/09/guest-post-the-economics-of-ai-in-academic-research/
-4. China And The US Have Long Collaborated In 'open ... — https://www.barchart.com/story/news/35417746/china-and-the-us-have-long-collaborated-in-open-research-some-in-congress-say-that-must-change
-5. China and the US have long collaborated in 'open ... — https://www.wate.com/news/politics/ap-politics/ap-china-and-the-us-have-long-collaborated-in-open-research-some-in-congress-say-that-must-change/
-6. Bridging ethical gaps in digital health research — https://pmc.ncbi.nlm.nih.gov/articles/PMC12509369/
-7. SSP’s Generations Fund Crosses the Finish Line — https://scholarlykitchen.sspnet.org/2025/10/10/ssps-generations-fund-crosses-the-finish-line/
-8. Cy-Fair Youth Sports Association — https://www.cy-fairsports.org/
-9. October 6 Compliance Deadline for DOJ's Data Security ... — https://www.jdsupra.com/legalnews/october-6-compliance-deadline-for-doj-s-2011997/
-10. Open Access: UKRI's requirements for research articles — https://libguides.qub.ac.uk/openaccess/UKRI
-11. CSSP Lecture on 15th October titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" — http://cssp-jnu.blogspot.com/2025/10/cssp-lecture-on-15th-october-titled.html
+4. TOMORROW: AuScope Seminar on WorldFAIR+ and CDIF — https://codata.org/tomorrow-auscope-seminar-on-worldfair-and-cdif/
+5. THRIVE Teaming Profiles — https://arpa-h.gov/explore-funding/programs/thrive/teaming
+6. Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? — https://scholarlykitchen.sspnet.org/2025/10/13/three-years-after-the-launch-of-chatgpt-do-we-know-where-this-is-heading/
+7. China And The US Have Long Collaborated In 'open ... — https://www.barchart.com/story/news/35417746/china-and-the-us-have-long-collaborated-in-open-research-some-in-congress-say-that-must-change
+8. Research Universities Defeat DoD Cap on Research Cost ... — https://news.bloomberglaw.com/litigation/research-universities-defeat-dod-cap-on-research-cost-rates
+9. Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs — https://scholarlykitchen.sspnet.org/2025/10/14/welcoming-a-new-chef-in-the-kitchen-and-saying-thanks-to-a-few-departing-chefs/
+10. Bridging ethical gaps in digital health research — https://pmc.ncbi.nlm.nih.gov/articles/PMC12509369/
+11. SSP’s Generations Fund Crosses the Finish Line — https://scholarlykitchen.sspnet.org/2025/10/10/ssps-generations-fund-crosses-the-finish-line/
 12. Data Resources & Tools: Disappearing Federal Data Resources — https://libguides.oxy.edu/data/data_rescue
-13. Guest Post — Rethinking Disciplinary Data Regimes — https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/
-14. Science Unleashed: - Embracing Open Practices - Amazon S3 — https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/49929330/OpenScienceUnleashedF24.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIYCQYOYV5JSSROOA/20251012/eu-west-1/s3/aws4_request&X-Amz-Date=20251012T012549Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ebce0554131e1bfc532fcd57ad9d3a9ac6217e1dc1e103923520f78848c05226
-15. Live News — https://www.whitehouse.gov/live/
+13. Open Access: UKRI's requirements for research articles — https://libguides.qub.ac.uk/openaccess/UKRI
+14. Guest Post — Rethinking Disciplinary Data Regimes — https://scholarlykitchen.sspnet.org/2025/10/08/guest-post-rethinking-disciplinary-data-regimes/
+15. The Role of Data in Public Health and Health Innovation — https://pmc.ncbi.nlm.nih.gov/articles/PMC12505398/
 16. A Shortlist of Federal Data the Trump Administration Has ... — https://www.yahoo.com/news/articles/shortlist-federal-data-trump-administration-181731088.html
 17. Opinion: Can we trust government data? — https://www.ctinsider.com/opinion/article/data-laboir-statistics-federal-21093534.php
-18. FAIR data — https://en.wikipedia.org/wiki/FAIR_data
-19. The FAIR for Research Software Principles after two years — https://www.researchsoft.org/blog/2024-03/
-20. FAIR2 data management — https://www.frontiersin.org/about/fair-data-management
-21. 2022 Updated OSTP Guidance - US Federal Funder Public ... — https://ucsd.libguides.com/usfedfunder_publicaccesspolicies/OSTPguidance
-22. The Role of Data in Public Health and Health Innovation — https://pmc.ncbi.nlm.nih.gov/articles/PMC12505398/
 
 ============================================================
-RUNTIME: 82.94 s
-ESTIMATED TOKENS: 2805
-ESTIMATED COST (USD): $0.0361
+RUNTIME: 79.67 s
+ESTIMATED TOKENS: 1526
+ESTIMATED COST (USD): $0.0214
 ============================================================

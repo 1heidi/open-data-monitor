@@ -190,7 +190,7 @@ print(f"   Token budget: {TOKEN_BUDGET:,} tokens\n")
 
 ```
 
-    ✅ Configuration loaded. Run ID: 20251014_143849
+    ✅ Configuration loaded. Run ID: 20251014_144436
        SERPAPI enabled: True
        Token budget: 20,000 tokens
     
@@ -343,8 +343,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 ```
 
     🚀 Section 3B starting...
-
-
     ✅ White House OSTP Blog: 0 entries fetched.
 
 
@@ -352,8 +350,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
 
 
     ✅ NIH Extramural Nexus: 0 entries fetched.
-
-
     ✅ DOE Office of Science News: 0 entries fetched.
 
 
@@ -382,8 +378,6 @@ print("\n✅ Section 3B complete — entries ready for summarization.")
     ✅ PLOS Sci Policy: 0 entries fetched.
     📚 Total entries collected so far: 59
     🔍 Fetching supplemental results from SERPAPI (Google News)...
-
-
     ✅ SERPAPI results added.
     🧹 Deduplicated. Final entry count: 69
     
@@ -700,7 +694,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ RSS feed collection complete — 9 entries found within 7 days.
     
-    🕒 RSS collection done in 11.58s.
+    🕒 RSS collection done in 8.46s.
     
     🔎 Running SERPAPI keyword searches (past week)...
     → Searching: open science policy site:whitehouse.gov OR site:ostp.gov
@@ -741,7 +735,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
 
     ✅ SERPAPI collection complete — 32 results gathered.
     
-    🕒 SERPAPI search done in 36.40s.
+    🕒 SERPAPI search done in 33.31s.
     
     📦 Combined 41 total entries.
     
@@ -754,7 +748,7 @@ print(f"\n✅ Done! Gathered {len(entries)} entries total.\n")
     ⚠️ WARNING: Estimated usage exceeds token budget! Truncating entries.
     ✅ Truncated list to 40 entries.
     
-    🏁 Total runtime: 36.40s
+    🏁 Total runtime: 33.31s
     
     
     ✅ Done! Gathered 40 entries total.
@@ -924,13 +918,13 @@ def generate_report_with_refs(entries, use_ai_for_individual=USE_AI_FOR_INDIVIDU
         source = e.get("source","")
         raw_text = e.get("summary","") or e.get("content","") or ""
         summary = _ai_summarize_entry(raw_text, source, link) if use_ai_for_individual else raw_text or "(no text)"
+        summary = _strip_source_phrases(summary)
         items.append({
             "title": _normalize_text(title),
             "link": _normalize_text(link),
             "source": _normalize_text(source),
             "summary": _normalize_text(summary),
             "published": e.get("published","")
-        summary = _strip_source_phrases(summary)
         })
 
     s_texts = [f"[{it['source']}] {it['title']}: {it['summary']}" for it in items]
@@ -1068,12 +1062,47 @@ else:
 
 ```
 
+    🧠 Generating summaries for 40 entries...
 
-      Cell In[11], line 167
-        "published": e.get("published","")
-                     ^
-    SyntaxError: invalid syntax. Perhaps you forgot a comma?
 
+    🔎 Parsed 5 meta bullets. Mapping bullets to supporting sources...
+    💾 Report saved to reports/open_data_policy_report_20251014.md
+    
+    ✅ Section 4 complete — meta-summary, detailed summaries, and references generated.
+    
+    --- META-SUMMARY PREVIEW ---
+    
+    OPEN DATA POLICY MONITOR REPORT
+    Generated on October 14, 2025
+    
+    ============================================================
+    🔗 META-SUMMARY WITH NUMBERED REFERENCES
+    ============================================================
+    
+    1. Hosting sustainable events requires prioritizing sustainability in event planning. [1] [2] [3] [4] [5]
+    
+    2. ChatGPT has increased efficiency in research workflows but its long-term impact remains uncertain. [6] [7] [8] [9] [3] [10]
+    
+    3. SSP's Generations Fund thanked contributors. [11]
+    
+    4. Vendors developing AI research tools need to address privacy, security, and sustainability concerns. [3] [10] [6] [2] [12] [13]
+    
+    5. Systems must be built to preserve relevant data across disciplinary silos to prevent cultural memory loss. [14] [15] [12] [10] [16] [17]
+    
+    
+    
+    ============================================================
+    📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+    ============================================================
+    
+    TITLE: Five Tips for Hosting a Sustainable Event [1]
+    SOURCE: The Scholarly Kitchen
+    
+    of prioritizing sustainability in event planning.
+    ------------------------------------------------------------
+    TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [9]
+    SOURCE: The Scholarly Kitchen
+    💾 Report written to reports/open_data_policy_report_2025-10-14.txt
 
 
 
@@ -1168,5 +1197,5 @@ else:
 
 ```
 
-    ⚠️ No report_text variable found. Please run Section 4 first.
+    Report generated but not emailed.
 
