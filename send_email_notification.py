@@ -59,7 +59,7 @@ Here is your weekly Open Data Policy Monitor report.
 {'='*60}
 
 Best regards,
-Heidi's Open Data Policy Monitor Bot 🤖
+Heidi's Best Attempt at an Open Data Policy Monitor Bot 🤖
 """
     )
 
