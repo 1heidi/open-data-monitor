@@ -5,14 +5,14 @@ This project automatically searches for, summarizes, and reports on recent (past
 
 It:
 1. Gathers recent web articles and policy news using SERPAPI.  
-2. Optionally queries structured data feeds (e.g., NASA, NIH, NSF, OSTP).  
+2. Queries structured RSS feeds (e.g., NIH, NSF, OSTP).  
 3. Summarizes findings via OpenAI GPT models.  
 4. Generates a report containing:  
-   - Individual article summaries  
-   - A meta-summary highlighting key policy trends  
+   - Individual content summaries  
+   - A meta-summary highlighting key trends  
    - Explicit instruction: *“Do not fabricate or infer connections.”*  
 5. Saves the report in /reports
-6. Optionally emails the report automatically.
+6. Emails the report automatically every Sunday
 
 ---
 
