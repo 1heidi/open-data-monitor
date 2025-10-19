@@ -1,0 +1,130 @@
+OPEN DATA POLICY MONITOR REPORT
+Generated on October 19, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Transition towards open access focuses on policy influence, library agencies, and researcher-first initiatives in the U.S. [1] [2] [3] [4] [5] [6]
+
+2. Diamond Open Access poses equity promises but grapples with hidden costs and global inequalities. [4] [1] [5] [6] [3] [2]
+
+3. Event planners advised to balance sustainability with meaningful connections during event organizing. [7] [8] [4] [9] [10]
+
+4. AI tools continue to enhance scholarly publishing workflows, but long-term research impacts remain uncertain. [11] [4] [5] [12] [2] [3]
+
+5. FAIR model advocated for achieving transparency and sustainability in U.S. open data and open science policies. [13] [14] [10] [15] [16] [8]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Reporting from LIBER 2025: Policy Influence, Library Agency, and Researcher-First Open Access Moves [1]
+SOURCE: The Scholarly Kitchen
+
+where the focus was on policy influence, library agency, and researcher-first open access initiatives in the United States.
+------------------------------------------------------------
+TITLE: Diamond Dreams, Unequal Realities: The Promise and Pitfalls of No-APC Open Access [4]
+SOURCE: The Scholarly Kitchen
+
+Diamond Open Access presents the promise of equity in publishing, but sustainability issues persist. The challenges include hidden costs, global disparities, and the necessity of finding viable paths for long-term open publishing.
+------------------------------------------------------------
+TITLE: Five Tips for Hosting a Sustainable Event [7]
+SOURCE: The Scholarly Kitchen
+
+The text provides tips for event planners on how to prioritize sustainability when organizing events. It highlights the balance between creating spaces for deeper connection and minimizing the impact on the planet.
+------------------------------------------------------------
+TITLE: Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs [12]
+SOURCE: The Scholarly Kitchen
+
+Stephanie Lovegrove Hansen has joined The Scholarly Kitchen as a full-time Chef, while several long-term Chefs are departing. The post expresses gratitude for the departing Chefs and the knowledge they have shared.
+------------------------------------------------------------
+TITLE: Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? [11]
+SOURCE: The Scholarly Kitchen
+
+has been transforming scholarly publishing for almost three years now. Significant progress has been made in integrating AI tools for ethical writing, discovery, summarization, and peer review, enhancing workflow efficiency. However, the ultimate impact on research creation and evaluation remains uncertain in the long term.
+------------------------------------------------------------
+TITLE: Alumni Bijaya Sammilani Program 2025 | Saturday, 18th October [9]
+SOURCE: JCU Sci Policy
+
+but rather provides information about an event called Bijaya Sammilani held on October 18, 2025. Attendees are invited to view and share photographs on the event's Facebook group.
+------------------------------------------------------------
+TITLE: CSSP Lecture on 15th October titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" [8]
+SOURCE: JCU Sci Policy
+
+The Center for Studies in Science Policy at JNU is hosting a lecture titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" by Dr. Madhumita Saha. The event will take place on Wednesday, 15th October 2025 at Room No. 227, 2nd Floor, SSS-1, JNU at 3:00 p.m. It will be a physical event, and all are welcome to attend.
+------------------------------------------------------------
+TITLE: NIHR Open Research | Open Access Publishing Platform ... [5]
+SOURCE: SERPAPI Google Search
+
+NIHR Open Research allows researchers to share their project findings with the public that have not been published elsewhere.
+------------------------------------------------------------
+TITLE: Open Access Basics - Author Services [6]
+SOURCE: SERPAPI Google Search
+
+Open Access is important for ensuring compliance with funding agency and institutional mandates, which helps secure continued support for research.
+------------------------------------------------------------
+TITLE: Open Access - Scholarly Communication Initiatives [3]
+SOURCE: SERPAPI Google Search
+
+Open Access (OA) initiatives aim to eliminate obstacles like paywalls, enabling scholarly works to be easily accessible online for free.
+------------------------------------------------------------
+TITLE: Open Access Publishing - Welch Medical Library Guides [2]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy promotes open access to research articles, allowing for free, immediate, and online availability of articles for use in the digital environment.
+------------------------------------------------------------
+TITLE: Geospatial Policies and Standards [16]
+SOURCE: SERPAPI Google Search
+
+The policies and standards for U.S. open data or open science focus on providing guidelines for the format and structure of geospatial data and applications.
+------------------------------------------------------------
+TITLE: Barend Mons on FAIR Data and the Future of Science [15]
+SOURCE: SERPAPI Google Search
+
+Dr. Mons discusses how FAIR data principles enable data to be reused by both humans and machines across various disciplines.
+------------------------------------------------------------
+TITLE: A decentralized network supporting FAIR (meta)data ... [13]
+SOURCE: SERPAPI Google Search
+
+"FAIR (Findability, Accessibility, Interoperability, and Reusability) standards are integrated into both open science and open education policies." These standards aim to make data more easily found, accessed, and utilized across various disciplines, leading to transformation in the fields of science and education.
+------------------------------------------------------------
+TITLE: AIBS Signs Letter to Congress in Support of FAIR Model for ... [14]
+SOURCE: SERPAPI Google Search
+
+The letter highlights the importance of adequate funding for essential costs to maintain U.S. research capacity and global leadership in science. It emphasizes the FAIR model as a key strategy for ensuring data sharing and open science practices.
+------------------------------------------------------------
+TITLE: American Council on Education [10]
+SOURCE: SERPAPI Google Search
+
+Policy analysts recommend that policymakers adopt the FAIR model for sustainability in U.S. open data or open science policy. The FAIR model promotes transparency and accountability in covering indirect costs.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Reporting from LIBER 2025: Policy Influence, Library Agency, and Researcher-First Open Access Moves — https://scholarlykitchen.sspnet.org/2025/10/16/guest-post-reporting-from-liber-2025-policy-influence-library-agency-and-researcher-first-open-access-moves/
+2. Open Access Publishing - Welch Medical Library Guides — https://browse.welch.jhmi.edu/writing_publishing/oa_explanation
+3. Open Access - Scholarly Communication Initiatives — https://umc.libguides.com/ScholarlyCommunications/openaccess
+4. Diamond Dreams, Unequal Realities: The Promise and Pitfalls of No-APC Open Access — https://scholarlykitchen.sspnet.org/2025/10/15/diamond-dreams-unequal-realities-the-promise-and-pitfalls-of-no-apc-open-access/
+5. NIHR Open Research | Open Access Publishing Platform ... — https://onesearch.nihlibrary.ors.nih.gov/view/action/uresolver.do?operation=resolveService&package_service_id=5268201480004686&institutionId=4686&customerId=4685&VE=true
+6. Open Access Basics - Author Services — https://researchguides.library.vanderbilt.edu/AuthorServices
+7. Five Tips for Hosting a Sustainable Event — https://scholarlykitchen.sspnet.org/2025/10/14/five-tips-for-hosting-a-sustainable-event/
+8. CSSP Lecture on 15th October titled "From Hunger to Sustainability: Techno-Science, State Policy and Agricultural Modernisation in Independent India" — http://cssp-jnu.blogspot.com/2025/10/cssp-lecture-on-15th-october-titled.html
+9. Alumni Bijaya Sammilani Program 2025 | Saturday, 18th October — http://cssp-jnu.blogspot.com/2025/10/alumni-bijaya-sammilani-program-2025.html
+10. American Council on Education — https://www.acenet.edu/
+11. Three Years After the Launch of ChatGPT, Do We Know Where This Is Heading? — https://scholarlykitchen.sspnet.org/2025/10/13/three-years-after-the-launch-of-chatgpt-do-we-know-where-this-is-heading/
+12. Welcoming a New Chef in the Kitchen and Saying Thanks to a Few Departing Chefs — https://scholarlykitchen.sspnet.org/2025/10/14/welcoming-a-new-chef-in-the-kitchen-and-saying-thanks-to-a-few-departing-chefs/
+13. A decentralized network supporting FAIR (meta)data ... — https://qubeshub.org/publications/5547/5932
+14. AIBS Signs Letter to Congress in Support of FAIR Model for ... — https://www.aibs.org/news/2025/251016-congress-letter-fair-model
+15. Barend Mons on FAIR Data and the Future of Science — https://www.bipm.org/en/-/2025-10-29-bipm150-interview-barend-mons-fair-data-and-the-future-of-science-1
+16. Geospatial Policies and Standards — https://www.epa.gov/geospatial/geospatial-policies-and-standards
+
+============================================================
+RUNTIME: 255.65 s
+ESTIMATED TOKENS: 2292
+ESTIMATED COST (USD): $0.0296
+============================================================
