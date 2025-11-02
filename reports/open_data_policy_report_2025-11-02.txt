@@ -1,0 +1,141 @@
+OPEN DATA POLICY MONITOR REPORT
+Generated on November 02, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Academic libraries must strategize for the impact of generative AI on knowledge discovery. [1] [2] [3] [4] [5] [6]
+
+2. The fragmented digital academic environment could have significant implications for scholarly communication. [3] [1] [7] [8] [2] [9]
+
+3. More inclusive practices are needed for researchers from under resourced or non-English speaking countries in the evolving landscape of scholarly communication. [8] [7] [3] [10] [1] [2]
+
+4. Librarians play a key role in responding to ADA Title II updates, advocating for digital content accessibility. [2] [11] [3] [10] [12] [13]
+
+5. The U.S.-Japan Technology Prosperity Deal aims to enhance science and technology capabilities for innovation and growth. [14] [15] [16] [17] [12] [4]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — The SSP 48th Annual Meeting: Affirming Scholarly Publishing’s Essential Function [7]
+SOURCE: The Scholarly Kitchen
+
+The text does not provide information about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Guest Post — Do Academic Libraries Have a Strategy for AI? [1]
+SOURCE: The Scholarly Kitchen
+
+Generative AI is expected to impact knowledge discovery significantly, prompting library leaders to consider developing strategies to maintain trust, equity, and sustainability in the face of this technological advancement.
+------------------------------------------------------------
+TITLE: Guest Post — The Great Pullback: Why Academic Social Media’s Fragmentation Matters [3]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the fragmented and challenging digital environment for academics, indicating a noticeable shift is occurring, which could have significant implications for scholarly communication in the future.
+------------------------------------------------------------
+TITLE: The Next Disruption is Listening — In Every Language [8]
+SOURCE: The Scholarly Kitchen
+
+The text highlights how changes in scholarly communication aim to improve research processes but can create additional challenges for researchers from under resourced countries or non-English speaking countries. This suggests a need for more inclusive practices to ensure equitable participation in the research community.
+------------------------------------------------------------
+TITLE: Guest Post — How Changes to ADA Title II Impact Libraries, and What We Can Do to Respond, Part 2 [2]
+SOURCE: The Scholarly Kitchen
+
+Librarians have a history of advocating for the accessibility of digital content, predating ADA Title II regulations. They are recognized as having a key role in responding to the recent updates to ADA Title II.
+------------------------------------------------------------
+TITLE: Evolving Roles for Data Scientists in the Age of Intelligent Automation [10]
+SOURCE: CODATA Blog
+
+The text discusses the evolving role of data scientists in the context of intelligent automation and AI. It reflects on the importance of data scientists ensuring that automation and AI benefit society in the long term. The reflection comes from members of the CODATA Data Science Journal editorial board and past editors.
+------------------------------------------------------------
+TITLE: Reimagining Data Futures – Reflections on Brisbane IDW: The CODATA International Data Policy Committee [9]
+SOURCE: CODATA Blog
+
+The text reflects on the importance of the global data community gathering at the International Data Week in Brisbane. It mentions the transformative nature of such conferences where leading experts convene to discuss data policy and its implications for the future.
+------------------------------------------------------------
+TITLE: CfP: International Conference on Green Hydrogen ICGH2025 | 11–12 November, Bharat Mandapam, New Delhi [15]
+SOURCE: JCU Sci Policy
+
+The Government of India is organizing the International Conference on Green Hydrogen (ICGH-2025) on 11-12 November 2025 in New Delhi. This event aims to advance discussions on innovation, technology, and pathways for building a robust Green Hydrogen ecosystem in India. The conference will cover topics such as hydrogen production, storage, distribution, downstream applications, green financing, human resource upskilling, and startup initiatives in the field of Green Hydrogen. The National Green Hydrogen Mission launched by India on January 4, 2023, aims to establish a Green Hydrogen ecosystem in the country to replace fossil fuels in various sectors.
+------------------------------------------------------------
+TITLE: By signing a new five-year partnership, UNESCO and LVMH expand their joint actions for biodiversity conservation. [17]
+SOURCE: JCU Sci Policy
+
+UNESCO and LVMH have signed a new five-year partnership focused on biodiversity conservation, expanding their joint efforts beyond the Man and the Biosphere Programme to include all of UNESCO's education, science, and cultural programs. The partnership, titled "For the Beauty of the Living," also involves collaboration with the Tiffany & Co. Foundation for sustainable marine management. The initiative aims to develop nature- and culture-based solutions, such as agroforestry, for local communities worldwide. LVMH intends to continue integrating and facilitating relationships with local stakeholders, like breeders and farmers, to support biodiversity conservation and sustainable development. The partnership's priorities for 2025-2029 include fostering biodiversity conservation through various projects and initiatives.
+------------------------------------------------------------
+TITLE: CSSP Lecture "AI, Cognition and Uncertainty: An STS Perspective on the Resurgence of Faith" | 31st October, 15:00 [12]
+SOURCE: JCU Sci Policy
+
+The text announces a lecture at the Centre for Studies in Science Policy at JNU on October 31, 2025, by Dr. Ravi Shukla on the topic "AI, Cognition, and Uncertainty: An STS Perspective on the Resurgence of Faith." The talk will explore the role of AI technologies in the tension between scientific understanding and religious faith from a Science and Technology Studies perspective.
+------------------------------------------------------------
+TITLE: U.S. - Japan Technology Prosperity Deal [14]
+SOURCE: SERPAPI Google Search
+
+The U.S. and Japan are interested in enhancing science and technology capabilities and standards to promote innovation and economic growth.
+------------------------------------------------------------
+TITLE: Fact Sheet: President Donald J. Trump Drives Forward ... [16]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy aims to accelerate AI adoption and innovation through collaborative research in various sectors such as science, industry, and society.
+------------------------------------------------------------
+TITLE: Fact Sheet: President Donald J. Trump Drives Forward ... [16]
+SOURCE: SERPAPI Google Search
+
+The U.S. has allocated up to $30 billion in partnership with Mitsubishi Electric to provide power station systems and equipment for data centers, as well as up to $25 billion for collaboration in this area.
+------------------------------------------------------------
+TITLE: Open Data to Open Knowledge [4]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy aims to make the City's datasets more accessible through a partnership with the Boston Public Library. This initiative focuses on increasing transparency and promoting public engagement with data-related information.
+------------------------------------------------------------
+TITLE: Open Access at Purdue Home - Libraries [5]
+SOURCE: SERPAPI Google Search
+
+Open Access (OA) policy provides free, immediate, and unrestricted online access to scholarly research that is typically behind paywalls. This approach aims to make research more accessible to the public.
+------------------------------------------------------------
+TITLE: Open Access - Research Guides at James Madison University [13]
+SOURCE: SERPAPI Google Search
+
+The text explains that open access (OA) refers to digital information that is freely available online without charge and without many copyright or licensing restrictions.
+------------------------------------------------------------
+TITLE: Ten simple rules for optimal and careful use of generative ... [6]
+SOURCE: SERPAPI Google Search
+
+while FASTER guides the application of AI technologies to data and scientific processes in the U.S.
+------------------------------------------------------------
+TITLE: Updates on Federal Impacts to Research [11]
+SOURCE: SERPAPI Google Search
+
+the JAG hosted a town hall to introduce the Financial Accountability in Research (FAIR) model to the research community.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Do Academic Libraries Have a Strategy for AI? — https://scholarlykitchen.sspnet.org/2025/10/30/guest-post-do-academic-libraries-have-a-strategy-for-ai/
+2. Guest Post — How Changes to ADA Title II Impact Libraries, and What We Can Do to Respond, Part 2 — https://scholarlykitchen.sspnet.org/2025/10/27/guest-post-how-changes-to-ada-title-ii-impact-libraries-and-what-we-can-do-to-respond-part-2/
+3. Guest Post — The Great Pullback: Why Academic Social Media’s Fragmentation Matters — https://scholarlykitchen.sspnet.org/2025/10/29/guest-post-the-great-pullback-why-academic-social-medias-fragmentation-matters/
+4. Open Data to Open Knowledge — https://www.boston.gov/departments/innovation-and-technology/open-data-open-knowledge
+5. Open Access at Purdue Home - Libraries — https://lib.purdue.edu/openaccess-2/
+6. Ten simple rules for optimal and careful use of generative ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12561928/
+7. Guest Post — The SSP 48th Annual Meeting: Affirming Scholarly Publishing’s Essential Function — https://scholarlykitchen.sspnet.org/2025/10/31/guest-post-the-ssp-48th-annual-meeting-affirming-scholarly-publishings-essential-function/
+8. The Next Disruption is Listening — In Every Language — https://scholarlykitchen.sspnet.org/2025/10/28/the-next-disruption-is-listening-in-every-language/
+9. Reimagining Data Futures – Reflections on Brisbane IDW: The CODATA International Data Policy Committee — https://codata.org/reimagining-data-futures-reflections-on-brisbane-idw-the-codata-international-data-policy-committee/
+10. Evolving Roles for Data Scientists in the Age of Intelligent Automation — https://codata.org/evolving-roles-for-data-scientists-in-the-age-of-intelligent-automation/
+11. Updates on Federal Impacts to Research — https://viceprovost.tufts.edu/updates-federal-impacts-research
+12. CSSP Lecture "AI, Cognition and Uncertainty: An STS Perspective on the Resurgence of Faith" | 31st October, 15:00 — http://cssp-jnu.blogspot.com/2025/10/cssp-lecture-ai-cognition-and.html
+13. Open Access - Research Guides at James Madison University — https://guides.lib.jmu.edu/openaccess
+14. U.S. - Japan Technology Prosperity Deal — https://www.whitehouse.gov/articles/2025/10/u-s-japan-technology-prosperity-deal/
+15. CfP: International Conference on Green Hydrogen ICGH2025 | 11–12 November, Bharat Mandapam, New Delhi — http://cssp-jnu.blogspot.com/2025/10/cfp-international-conference-on-green.html
+16. Fact Sheet: President Donald J. Trump Drives Forward ... — https://www.whitehouse.gov/fact-sheets/2025/10/28195/
+17. By signing a new five-year partnership, UNESCO and LVMH expand their joint actions for biodiversity conservation. — http://cssp-jnu.blogspot.com/2025/10/by-signing-new-five-year-partnership.html
+
+============================================================
+RUNTIME: 67.2 s
+ESTIMATED TOKENS: 2776
+ESTIMATED COST (USD): $0.0347
+============================================================
