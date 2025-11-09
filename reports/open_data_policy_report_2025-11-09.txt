@@ -1,0 +1,154 @@
+OPEN DATA POLICY MONITOR REPORT
+Generated on November 09, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Flawed incentives in scholarly publishing require systems thinking for creative solutions. [1] [2] [3] [4] [5] [6]
+
+2. Increasing manuscript submissions should prioritize quality science over quantity. [7] [8] [9] [10] [5] [11]
+
+3. Creative Commons licenses broaden acceptable ways to use copyrighted works. [4] [2] [1] [12] [11]
+
+4. Legal and Organizational Interoperability (LOI) crucial for open data policies. [13] [14] [15] [12] [11] [16]
+
+5. AI presents challenges and opportunities in reading, writing, and reviewing, raising questions about human uniqueness in these processes. [17] [18] [19] [1] [20] [11]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Baby Tardigrades! [6]
+SOURCE: The Scholarly Kitchen
+
+The text does not contain information about U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Guest Post — AI as Reader, Author, and Reviewer: What Stays Human? [17]
+SOURCE: The Scholarly Kitchen
+
+A recent panel at the New Directions Seminar discussed how AI presents both the biggest challenge and opportunity. The blog post explores the role of AI as a reader, author, and reviewer, questioning what aspects of these processes remain distinctly human.
+------------------------------------------------------------
+TITLE: Guest Post — A Systems Approach to Research Publishing: From Fragmentation to Cohesion [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses how current scholarly publishing and research face challenges due to flawed incentives. It suggests that systems thinking can provide creative solutions to address these issues.
+------------------------------------------------------------
+TITLE: Manuscript Submissions Are Up! That’s Good, Right? [7]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the issue of increasing manuscript submissions being seen as a positive sign of journal performance by publishers. It suggests a need to shift focus towards requiring authors to demonstrate a commitment to quality science before being accepted.
+------------------------------------------------------------
+TITLE: Can a CC License Constrain Fair Use or Other Copyright Limitations or Exemptions? [4]
+SOURCE: The Scholarly Kitchen
+
+Creative Commons (CC) licenses do not limit but rather broaden the acceptable ways copyrighted works can be used.
+------------------------------------------------------------
+TITLE: Ode to LOI (Legal and Organisational Interoperability) – Data moves at the speed of trust [13]
+SOURCE: CODATA Blog
+
+The text discusses the importance of Legal and Organisational Interoperability (LOI) for open data policies. Matti Heikkurinen highlights the misunderstanding of interoperability and emphasizes the need for trust in data sharing. The post underscores that data moves at the speed of trust, emphasizing the significance of legal and organizational frameworks in facilitating data interoperability.
+------------------------------------------------------------
+TITLE: Read Now – October 2025: Publications in the Data Science Journal [8]
+SOURCE: CODATA Blog
+
+The text discusses two publications in the Data Science Journal in October 2025. The first publication examines the relationship between information needs and data harmonization, suggesting they are interconnected. The second publication explores financing models for sustainable data reuse infrastructure.
+------------------------------------------------------------
+TITLE: Ethics of neurotechnology: UNESCO adopts the first global standard in the cutting-edge technology [20]
+SOURCE: JCU Sci Policy
+
+UNESCO has adopted the first global normative framework on the ethics of neurotechnology, ensuring that it benefits individuals without violating human rights. This framework, effective from November 12, 2025, marks the culmination of a process initiated by the Director-General in 2019 and is tied to UNESCO's ethics work on artificial intelligence. The Director-General emphasized the importance of aligning technological progress with ethics and responsibility. Neurotechnology, seen as a significant technological revolution alongside artificial intelligence, is rapidly evolving but requires ethical guidance to ensure the protection of human minds.
+------------------------------------------------------------
+TITLE: Embargoed Media Briefing on UNESCO’s new global standard on the ethics of Neurotechnology [18]
+SOURCE: JCU Sci Policy
+
+UNESCO's Member States will adopt a global standard called the 'Recommendation on the Ethics of Neurotechnology' to guide the development and deployment of neurotechnology, ensuring it benefits all without compromising human rights. There will be a technical briefing on the risks and opportunities of neurotechnology on November 4. The briefing will take place in Samarkand and online, featuring UNESCO and field experts.
+------------------------------------------------------------
+TITLE: CSSP Lecture "Science Diplomacy in the Era of Techno-nationalism" | 6th November, 10:00 [9]
+SOURCE: JCU Sci Policy
+
+The text invites individuals to a lecture on "Science Diplomacy in the Era of Techno-nationalism" by Dr. B. Chagun Basha from the Office of the PSA, GoI. The event will take place at the Seminar Room, ABVSME, JNU on Thursday, 6th November 2025, at 10:00 a.m. It will be a physical event, and all are welcome to attend.
+------------------------------------------------------------
+TITLE: November 2025 edition of Web of Science Training & Certification Program [10]
+SOURCE: JCU Sci Policy
+
+The text discusses the "Web of Science Training & Certification Program 2025" that offers a free training program starting on November 24. It encourages individuals to register for the program through a provided link.
+------------------------------------------------------------
+TITLE: The Fair Guiding Principles For Scientific Data ... [14]
+SOURCE: SERPAPI Google Search
+
+Organizations can promote the adoption of open data and open science by offering training, establishing supportive data-sharing infrastructure, and implementing policies that ensure data compliance.
+------------------------------------------------------------
+TITLE: Publishing gold standard science - PMC [5]
+SOURCE: SERPAPI Google Search
+
+introduced in 2020, pertains to all research funded or conducted by the NIH that produces scientific data.
+------------------------------------------------------------
+TITLE: Data Foundation Launches the “People's Data 100" | LEARN [16]
+SOURCE: SERPAPI Google Search
+
+The People's Data 100 initiative recognizes datasets in crucial areas such as economic, public health, and environmental data that impact daily life and economic well-being.
+------------------------------------------------------------
+TITLE: Federal data scientists perform last rites for 'dearly ... [15]
+SOURCE: SERPAPI Google Search
+
+The Trump administration has targeted federal datasets that do not align with its priorities, including data related to gender. This has raised concerns among federal data scientists about the impact on open data and open science policies in the United States.
+------------------------------------------------------------
+TITLE: Open Access Publishing [2]
+SOURCE: SERPAPI Google Search
+
+The text explains that open access provides readers with free digital access to scholarly works without any intermediaries. Scholarly works published under open access are typically accompanied by a Creative Commons License to specify usage rights.
+------------------------------------------------------------
+TITLE: Support for Open Access Scholarly Publishing [3]
+SOURCE: SERPAPI Google Search
+
+Gold Open Access in scholarly publishing refers to the practice of making all articles in a publication freely available to the public as soon as they are published. This policy ensures that research findings are accessible to everyone without barriers.
+------------------------------------------------------------
+TITLE: Services for Authors at the Penn Libraries: Open Access ... [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy allows for free and unrestricted access to research works, enabling readers to freely read and share the publications without any cost or legal restrictions.
+------------------------------------------------------------
+TITLE: Fair human-centric image dataset for ethical AI benchmarking [19]
+SOURCE: SERPAPI Google Search
+
+Inadequate evaluation data can lead to fairness and robustness issues, making it difficult to identify potential harms in U.S. open data or open science policy. This can result in the perpetuation of inequalities and hinder the effectiveness of policies.
+------------------------------------------------------------
+TITLE: How open science and shared data can help tackle global ... [11]
+SOURCE: SERPAPI Google Search
+
+Research infrastructures can facilitate unified data and service integration by collaborating with users and stakeholders. This approach can enhance open science practices and lead to more effective ways of tackling global challenges.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — A Systems Approach to Research Publishing: From Fragmentation to Cohesion — https://scholarlykitchen.sspnet.org/2025/11/05/guest-post-a-systems-approach-to-research-publishing-from-fragmentation-to-cohesion/
+2. Open Access Publishing — https://guides.library.nymc.edu/openaccess
+3. Support for Open Access Scholarly Publishing — https://libguides.rowan.edu/Scholarly_Publishing_Support
+4. Can a CC License Constrain Fair Use or Other Copyright Limitations or Exemptions? — https://scholarlykitchen.sspnet.org/2025/11/03/can-a-cc-license-constrain-fair-use-or-other-copyright-limitations-or-exemptions/
+5. Publishing gold standard science - PMC — https://pmc.ncbi.nlm.nih.gov/articles/PMC12578378/
+6. Baby Tardigrades! — https://scholarlykitchen.sspnet.org/2025/11/07/baby-tardigrades/
+7. Manuscript Submissions Are Up! That’s Good, Right? — https://scholarlykitchen.sspnet.org/2025/11/04/manuscript-submissions-are-up-thats-good-right/
+8. Read Now – October 2025: Publications in the Data Science Journal — https://codata.org/read-now-october-2025-publications-in-the-data-science-journal/
+9. CSSP Lecture "Science Diplomacy in the Era of Techno-nationalism" | 6th November, 10:00 — http://cssp-jnu.blogspot.com/2025/11/cssp-lecture-science-diplomacy-in-era.html
+10. November 2025 edition of Web of Science Training & Certification Program — http://cssp-jnu.blogspot.com/2025/11/november-2025-edition-of-web-of-science.html
+11. How open science and shared data can help tackle global ... — https://www.msn.com/en-us/news/technology/how-open-science-and-shared-data-can-help-tackle-global-challenges-the-crete-declaration/ar-AA1POQ1n
+12. Services for Authors at the Penn Libraries: Open Access ... — https://guides.library.upenn.edu/Authors/open_access
+13. Ode to LOI (Legal and Organisational Interoperability) – Data moves at the speed of trust — https://codata.org/ode-to-loi-legal-and-organisational-interoperability-data-moves-at-the-speed-of-trust/
+14. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair-guiding__principles_for-scientific_data__management-and__stewardship.pdf
+15. Federal data scientists perform last rites for 'dearly ... — https://subscriber.politicopro.com/article/eenews/2025/11/05/federal-data-scientists-perform-last-rites-for-dearly-departed-datasets-00637329
+16. Data Foundation Launches the “People's Data 100" | LEARN — https://datafoundation.org/news/press-releases/724/724-Data-Foundation-Launches-the-Peoples-Data-
+17. Guest Post — AI as Reader, Author, and Reviewer: What Stays Human? — https://scholarlykitchen.sspnet.org/2025/11/06/guest-post-ai-as-reader-author-and-reviewer-what-stays-human/
+18. Embargoed Media Briefing on UNESCO’s new global standard on the ethics of Neurotechnology — http://cssp-jnu.blogspot.com/2025/11/embargoed-media-briefing-on-unescos-new.html
+19. Fair human-centric image dataset for ethical AI benchmarking — https://www.nature.com/articles/s41586-025-09716-2
+20. Ethics of neurotechnology: UNESCO adopts the first global standard in the cutting-edge technology — http://cssp-jnu.blogspot.com/2025/11/ethics-of-neurotechnology-unesco-adopts.html
+
+============================================================
+RUNTIME: 77.17 s
+ESTIMATED TOKENS: 2709
+ESTIMATED COST (USD): $0.0333
+============================================================
