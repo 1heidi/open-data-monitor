@@ -1,0 +1,152 @@
+OPEN DATA POLICY MONITOR REPORT
+Generated on November 13, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly publishers commonly display Journal Impact Factor metrics, with an average of 6 metrics showcased. [1] [2] [3] [4] [5] [6]
+
+2. The U.S. is experiencing a shift away from stringent requirements outlined in Plan S for open-access publishing. [7] [8] [9] [8] [9] [3]
+
+3. Organizations should establish clear data governance policies encompassing various aspects like access, sharing, and retention. [10] [11] [12] [13] [14] [15]
+
+4. Open data and open science policies drive improved government performance through initiatives like The Opportunity Project. [16] [13] [15] [11] [17] [7]
+
+5. Open science initiatives aim to address knowledge imbalances and promote fair collaboration between different regions to enhance global health outcomes. [13] [11] [2] [7] [9] [18]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [4]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the importance of AI in scholarly communications and publishing by asking experts what their favorite AI hack is.
+------------------------------------------------------------
+TITLE: The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge [2]
+SOURCE: The Scholarly Kitchen
+
+Alison Mudditt explored the idea of making the scholarly communication system more equitable, impactful, and prepared for the future during a session at the Charleston Conference.
+------------------------------------------------------------
+TITLE: Impact Metrics on Publisher Platforms: Who Shows What Where? [1]
+SOURCE: The Scholarly Kitchen
+
+A study of 12 major publishers shows that they typically showcase an average of 6 journal-level impact metrics on their platforms. Among these metrics, the Journal Impact Factor is the most commonly displayed, appearing on all 12 publishers' platforms.
+------------------------------------------------------------
+TITLE: Revisiting: Years and Years of Creative Commons Confusion [5]
+SOURCE: The Scholarly Kitchen
+
+The communications community still finds Creative Commons licenses confusing, leading to a decade-long effort to clarify their use through various articles.
+------------------------------------------------------------
+TITLE: Baby Tardigrades! [6]
+SOURCE: The Scholarly Kitchen
+
+The text is a short post titled "Baby Tardigrades!" from The Scholarly Kitchen. It mentions the birth of a tardigrade and is meant for Friday viewing enjoyment.
+------------------------------------------------------------
+TITLE: Building Participatory Data Infrastructures Across Disciplines and Geographies [12]
+SOURCE: CODATA Blog
+
+At International Data Week 2025, there was a session organized by Early Career Researchers (ECR) titled “Perspectives on Data Repositories Across Disciplines, Geographies, and Cultures”. This session provided valuable insights into building participatory data infrastructures across various fields and regions.
+------------------------------------------------------------
+TITLE: The Fair Guiding Principles For Scientific Data ... [11]
+SOURCE: SERPAPI Google Search
+
+To promote the adoption of open data and open science policies, organizations can offer training, build infrastructure for data sharing, and implement policies that enforce data management and stewardship.
+------------------------------------------------------------
+TITLE: Reimagining open science for global health: Epistemic power ... [13]
+SOURCE: SERPAPI Google Search
+
+Open science (OS) has the potential to address imbalances in knowledge and data sharing by promoting fair collaborations between regions like the Global North and South.
+------------------------------------------------------------
+TITLE: Data Governance The Definitive Guide [10]
+SOURCE: SERPAPI Google Search
+
+Organizations should establish comprehensive policies for data governance, encompassing data management aspects such as access, sharing, and retention. It is essential for organizations to have clear guidelines in place to ensure effective data governance.
+------------------------------------------------------------
+TITLE: Save public health data to save American lives [14]
+SOURCE: SERPAPI Google Search
+
+"The Coleridge Initiative is facilitating data sharing and management for public health across states, eliminating the need for federal aggregation of state data."
+------------------------------------------------------------
+TITLE: 2025 United States government online resource removals [17]
+SOURCE: SERPAPI Google Search
+
+In 2019, the OPEN Government Data Act mandated U.S. government agencies to share data to assess the success of their programs and provide guidance.
+------------------------------------------------------------
+TITLE: Driving Improved Government Performance Through Open ... [16]
+SOURCE: SERPAPI Google Search
+
+The Opportunity Project (TOP) is a pioneering initiative that uses open government data to drive improved government performance. A recent report has reviewed and assessed the impact of TOP in this regard.
+------------------------------------------------------------
+TITLE: What is Open Access - Open Access Publishing [8]
+SOURCE: SERPAPI Google Search
+
+published digitally online, and has few restrictions on its use or reproduction.
+------------------------------------------------------------
+TITLE: After Coalition S disrupted scientific publishing, new plan ... [7]
+SOURCE: SERPAPI Google Search
+
+A recent update on U.S. open data or open science policy indicates a retreat from strict requirements initially proposed in Plan S. The plan's original goal was to exceed previous voluntary initiatives in promoting open-access publishing.
+------------------------------------------------------------
+TITLE: Home - Open Access Publishing Partnerships [9]
+SOURCE: SERPAPI Google Search
+
+The text discusses how Open Access publishing benefits Purdue University by increasing the discovery, downloads, and global accessibility of its research findings.
+------------------------------------------------------------
+TITLE: The Overlap Between the CARE and FAIR Principles ... [18]
+SOURCE: SERPAPI Google Search
+
+The CARE principles (Collective Benefit, Authority to Control, Responsibility, and Ethics) work alongside the FAIR principles (Findability, Accessibility, Interoperability, and Reusability) in the context of open data policy in the U.S. These two sets of principles overlap in certain areas, emphasizing the importance of ethical responsible data use along with facilitating data discovery and reuse.
+------------------------------------------------------------
+TITLE: OpenAI seeks US government help for AI data centers and ... [15]
+SOURCE: SERPAPI Google Search
+
+OpenAI is seeking assistance from the US government to construct AI data centers and infrastructure. They are requesting tax credit expansion, faster permits, and improved access to support their initiatives.
+------------------------------------------------------------
+TITLE: What is Open Access - Open Access Publishing [8]
+SOURCE: SERPAPI Google Search
+
+published online, and has minimal restrictions on its use or reproduction.
+------------------------------------------------------------
+TITLE: Open Access: OA Journal Support - Library Guides [3]
+SOURCE: SERPAPI Google Search
+
+Open access publications are freely accessible to readers without any subscription fees for users or institutions.
+------------------------------------------------------------
+TITLE: Home - Open Access Publishing Partnerships [9]
+SOURCE: SERPAPI Google Search
+
+Open Access publishing at Purdue University results in increased discovery, downloads, and global access to the university's research advancements.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Impact Metrics on Publisher Platforms: Who Shows What Where? — https://scholarlykitchen.sspnet.org/2025/11/11/impact-metrics-on-publisher-platforms-who-shows-what-where/
+2. The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge — https://scholarlykitchen.sspnet.org/2025/11/12/the-next-open-revolution-equity-impact-and-the-architecture-of-knowledge/
+3. Open Access: OA Journal Support - Library Guides — https://guides.library.sc.edu/openaccessresources/publishingoa
+4. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
+5. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
+6. Baby Tardigrades! — https://scholarlykitchen.sspnet.org/2025/11/07/baby-tardigrades/
+7. After Coalition S disrupted scientific publishing, new plan ... — https://www.science.org/content/article/after-coalition-s-disrupted-scientific-publishing-new-plan-retreats-strict-requirements
+8. What is Open Access - Open Access Publishing — https://jefflibraries.libguides.com/OpenAccess
+9. Home - Open Access Publishing Partnerships — https://guides.lib.purdue.edu/oapublishing
+10. Data Governance The Definitive Guide — https://ww2.jacksonms.gov/fulldisplay/z0lmsk/7OK134/DataGovernanceTheDefinitiveGuide.pdf
+11. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
+12. Building Participatory Data Infrastructures Across Disciplines and Geographies — https://codata.org/blog/2025/11/07/building-participatory-data-infrastructures-across-disciplines-and-geographies/
+13. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
+14. Save public health data to save American lives — https://fedscoop.com/federal-public-health-data-trump-administration/
+15. OpenAI seeks US government help for AI data centers and ... — https://m.economictimes.com/news/international/us/openai-seeks-us-government-help-for-ai-data-centers-and-infrastructure/articleshow/125191295.cms
+16. Driving Improved Government Performance Through Open ... — https://www.linkedin.com/pulse/driving-improved-government-performance-through-open-data-chenok-kybge
+17. 2025 United States government online resource removals — https://en.wikipedia.org/wiki/2025_United_States_government_online_resource_removals
+18. The Overlap Between the CARE and FAIR Principles ... — https://www.researchgate.net/figure/The-Overlap-Between-the-CARE-and-FAIR-Principles-and-the-Open-Data-Charter_fig3_346665037
+
+============================================================
+RUNTIME: 66.79 s
+ESTIMATED TOKENS: 2489
+ESTIMATED COST (USD): $0.032
+============================================================
