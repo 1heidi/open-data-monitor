@@ -1,7 +1,7 @@
-# Open Data Policy Monitor — U.S. Academic & Government Sources
+# Open Data / Science Policy Monitor — U.S. Academic & Government Updates
 
 ### Overview
-This project automatically searches for, summarizes, and reports on recent (past 7 days) developments in **U.S. open data and open science policy**, focusing on academic and federal agency activity.
+This project automatically searches for, summarizes, and reports on recent (past 7 days) developments in **U.S. open data and science policy**, focusing on academic and federal agency activity.
 
 It:
 1. Gathers recent web articles and policy news using SERPAPI.  
