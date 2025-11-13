@@ -42,7 +42,7 @@ def send_email(report_path=None):
     report_date = datetime.now().strftime("%B %d, %Y")
 
     msg = EmailMessage()
-    msg["Subject"] = f"🧾 Weekly Open Data Policy Monitor Report — {report_date}"
+    msg["Subject"] = f"🧾 Weekly Open Data / Science Policy Monitor Report — {report_date}"
     msg["From"] = EMAIL_USER
     msg["To"] = EMAIL_RECIPIENT
 
@@ -50,7 +50,7 @@ def send_email(report_path=None):
     msg.set_content(
         f"""Hello,
 
-Here is your weekly Open Data Policy Monitor report.
+Here is your weekly update.
 
 {'='*60}
 
@@ -59,7 +59,7 @@ Here is your weekly Open Data Policy Monitor report.
 {'='*60}
 
 Best regards,
-Heidi's Best Attempt at an Open Data Policy Monitor Bot 🤖
+Heidi's Best Attempt at an Open Data / Science Policy Monitor Bot 🤖
 """
     )
 
