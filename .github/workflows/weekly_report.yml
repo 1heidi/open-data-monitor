@@ -53,14 +53,14 @@ jobs:
           # 3️⃣ Duplicate Markdown as Text version
           cp reports/open_data_policy_report.md reports/open_data_policy_report.txt
 
-      # 🌟 NEW STEP: Prints the output to the GitHub Actions log
+      # Prints the output to the GitHub Actions log
       - name: 🔎 Display Notebook Output in Log
         run: |
           echo "--- Full Notebook Execution Output (Markdown) ---"
           cat reports/open_data_policy_report.md
           echo "------------------------------------------------"
 
-      # 🌟 NEW STEP: Uploads the fully executed notebook for easy downloading
+      # Uploads the fully executed notebook for easy downloading
       - name: 📤 Upload Executed Notebook Artifact
         uses: actions/upload-artifact@v4
         with:
