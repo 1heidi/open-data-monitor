@@ -5,15 +5,15 @@ Generated on November 13, 2025
 🔗 META-SUMMARY WITH NUMBERED REFERENCES
 ============================================================
 
-1. Publishers commonly display the Journal Impact Factor, but vary in presenting other impact metrics. [1] [2] [3] [4]
+1. Major publishers typically display an average of 6 impact metrics on their platforms, with the Journal Impact Factor being the most commonly showcased. [1] [2] [3] [4] [5] [6]
 
-2. The ongoing confusion regarding Creative Commons licenses persists in the communications community. [4] [5]
+2. The communications community continues to struggle with Creative Commons license confusion, as evidenced by articles spanning over a decade. [7] [8]
 
-3. UNESCO provides comprehensive emergency support to Caribbean countries post-Hurricane Melissa. [6] [3] [7] [8] [5] [9]
+3. The emphasis on promoting open data and open science includes organizations providing training, infrastructure, and policies to encourage data sharing. [9] [10] [11] [12] [13] [14]
 
-4. The Fair Guiding Principles for Scientific Data emphasizes training, supportive infrastructure, and encouraging data sharing. [10] [11] [12] [8] [5] [13]
+4. Policymakers are recommended to implement the FAIR model to support the full costs of open data and open science initiatives transparently. [15] [9] [16] [10] [17] [4]
 
-5. The CARE and FAIR principles complement each other in the context of open data and open science policy. [11] [10] [8] [14] [15] [16]
+5. The U.S. open data or open science policy supports covering overhead costs like building maintenance, utilities, and support staff for research projects. [16] [15] [10] [14] [13] [18]
 
 
 
@@ -21,85 +21,100 @@ Generated on November 13, 2025
 📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
 ============================================================
 
-TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [16]
+TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [8]
 SOURCE: The Scholarly Kitchen
 
-asking experts about their favorite AI hacks. No specific information about U.S. open data or open science policy is provided in the text.
+The text discusses the prevalence of AI in scholarly communications and publishing, focusing on the question of what AI hacks are preferred by experts in the field.
 ------------------------------------------------------------
 TITLE: The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge [2]
 SOURCE: The Scholarly Kitchen
 
-Alison Mudditt discussed the need to make the scholarly communication system more equitable, impactful, and future-ready during a Charleston Conference session.
+The discussion at a Charleston Conference session focused on transforming the scholarly communication system to be more equitable, impactful, and prepared for the future. There is a call for a new open revolution that considers the architecture of knowledge to achieve these goals.
 ------------------------------------------------------------
 TITLE: Impact Metrics on Publisher Platforms: Who Shows What Where? [1]
 SOURCE: The Scholarly Kitchen
 
-The review of 12 major publishers shows that on average, they display 6 journal-level impact metrics on their platforms, with the Journal Impact Factor being the only metric presented by all 12 publishers.
+a study of 12 major publishers revealed that they typically showcase an average of 6 journal-level impact metrics. Among these metrics, the Journal Impact Factor stands out as the most commonly displayed, appearing on all 12 platforms.
 ------------------------------------------------------------
-TITLE: Revisiting: Years and Years of Creative Commons Confusion [4]
+TITLE: Revisiting: Years and Years of Creative Commons Confusion [7]
 SOURCE: The Scholarly Kitchen
 
-The text discusses the ongoing confusion surrounding Creative Commons licenses in the communications community, presenting a collection of articles spanning over a decade that aim to provide clarity on their use.
+The communications community is still confused by Creative Commons licenses, with a collection of articles spanning over a decade attempting to provide clarity on their usage.
 ------------------------------------------------------------
-TITLE: Baby Tardigrades! [7]
+TITLE: Baby Tardigrades! [18]
 SOURCE: The Scholarly Kitchen
 
-providing viewers with the opportunity to observe the birth of a tardigrade. The post is featured on The Scholarly Kitchen website.
+The text does not contain information about U.S. open data or open science policy.
 ------------------------------------------------------------
-TITLE: Hurricane Melissa: UNESCO provides emergency support to the Caribbean [6]
+TITLE: CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram [3]
 SOURCE: JCU Sci Policy
 
-and Haiti after Hurricane Melissa struck the Caribbean on October 28, 2025. The aid aims to ensure educational continuity, assess damage to cultural heritage, and strengthen reliable information during crises. Over 2 million people were affected, with extensive damage to educational facilities, cultural sites, and communication systems. UNESCO's efforts include assessing cultural sites using satellite imagery in Jamaica, providing support for teachers and stabilizing monuments. In Haiti, assistance focuses on assessing groundwater sources, while in Cuba, support includes strengthening a fact-checking platform for journalists and training teachers in psychosocial support. Regional training programs will also be implemented to enhance prevention and resilience against extreme climate events.
+The 6th CII Delhi Technology Summit 2025 is being organized to address India's focus on self-reliance in digital technologies, sovereign compute, and quantum readiness as emphasized by PM Narendra Modi and global platforms like the World Economic Forum. The event will delve into topics like Agentic AI, IoT, sovereign compute, semiconductors, and quantum readiness through panel discussions. It will gather industry leaders, researchers, and startups to facilitate dialogue, collaboration, and networking on India's technological future.
 ------------------------------------------------------------
-TITLE: The Fair Guiding Principles For Scientific Data ... [10]
+TITLE: The Fair Guiding Principles For Scientific Data ... [9]
 SOURCE: SERPAPI Google Search
 
-Organizations can promote the adoption of open data or open science policies by offering training, establishing supportive infrastructure for sharing data, and implementing policies that encourage data sharing.
+Organizations can promote the adoption of open data and open science by offering training, establishing infrastructure that facilitates data sharing, and implementing policies that mandate data sharing.
 ------------------------------------------------------------
-TITLE: Reimagining open science for global health: Epistemic power ... [8]
+TITLE: Reimagining open science for global health: Epistemic power ... [10]
 SOURCE: SERPAPI Google Search
 
-Open science (OS) has the potential to address imbalances by promoting knowledge and data sharing, facilitating fair partnerships between countries in the Global North and Global South.
+Open data or open science (OS) policies have the potential to address imbalances by promoting knowledge and data sharing and fostering collaborations between countries in the Global North and South.
 ------------------------------------------------------------
-TITLE: Data Governance The Definitive Guide [5]
+TITLE: Data Governance The Definitive Guide [12]
 SOURCE: SERPAPI Google Search
 
-Organizations are advised to establish comprehensive policies regarding data governance, encompassing practices related to data access, sharing, and retention. These policies should be detailed and well-defined to ensure effective management of data.
+Organizations must develop comprehensive policies for data management, addressing aspects such as data access, sharing, and retention. These policies need to be detailed and well-defined to ensure effective data governance.
 ------------------------------------------------------------
-TITLE: Save public health data to save American lives [13]
+TITLE: Driving Improved Government Performance Through Open ... [5]
 SOURCE: SERPAPI Google Search
 
-The Coleridge Initiative facilitates the sharing and management of health data between states without the need for federal government consolidation of state data. This initiative aims to promote collaboration and data sharing in a decentralized manner to improve public health outcomes.
+The text discusses a recent report reviewing the impact of The Opportunity Project (TOP), highlighting its role as a pioneering initiative utilizing open government data to drive improved government performance.
 ------------------------------------------------------------
-TITLE: The government AI experiment Is working. Now scale it up. [9]
+TITLE: Home - Open Access Publishing Partnerships [6]
 SOURCE: SERPAPI Google Search
 
-Congress should allocate funding with multi-year support and clear milestones in place. Agencies require the ability to act swiftly, emphasizing the need for streamlined processes and decision-making authority.
+Open Access publishing at Purdue University increases the visibility and impact of research by facilitating more discovery, downloads, and global access to findings.
 ------------------------------------------------------------
-TITLE: Retrospective: 2025 in State Data Privacy Law [14]
+TITLE: The Overlap Between the CARE and FAIR Principles ... [17]
 SOURCE: SERPAPI Google Search
 
-there were numerous consumer privacy bills introduced, amendments made to existing laws, and several states participating in rulemaking processes related to open data and open science policy.
+Authority to Control, Responsibility, and Ethics, work together with the FAIR principles, which stand for Findability, Accessibility, Interoperability, and Reusability, in the context of U.S. open data or open science policy.
 ------------------------------------------------------------
-TITLE: The Overlap Between the CARE and FAIR Principles ... [11]
+TITLE: Research data management planning prior to research [14]
 SOURCE: SERPAPI Google Search
 
-The CARE principles (Collective Benefit, Authority to Control, Responsibility, and Ethics) work alongside the FAIR principles (Findability, Accessibility, Interoperability, and Reusability) in the context of open data or open science policy.
+accessible, interoperable, and reusable, which are associated with open research data. The text highlights the importance of adhering to these principles for promoting transparency and usability in data management practices.
 ------------------------------------------------------------
-TITLE: How to Improve the U.S. Health Data Infrastructure - Penn LDI [12]
+TITLE: How to Improve the U.S. Health Data Infrastructure - Penn LDI [11]
 SOURCE: SERPAPI Google Search
 
-The policy suggests gradually providing open access to linked data in the U.S. despite low public trust in government, as there may be a temptation to restrict access.
+The text emphasizes the importance of providing open access to linked data gradually, especially during a period of low public trust in government.
+------------------------------------------------------------
+TITLE: As court ruling nears, here is how Duke has braced for F&A ... [13]
+SOURCE: SERPAPI Google Search
+
+Duke University was using a 15% facilities and administrative (F&A) rate for financial modeling. Meanwhile, the School of Medicine was working on transitioning towards clinical research.
 ------------------------------------------------------------
 TITLE: American Council on Education [15]
 SOURCE: SERPAPI Google Search
 
-The Joint Associations Group on Indirect Costs recommends policymakers to adopt the FAIR model for open data and open science policy. This model promotes transparency and accountability in funding the full costs of research projects.
+Policy analysts are recommending policymakers to implement the FAIR model, which is a transparent and accountable method to support the full costs associated with open data and open science initiatives.
 ------------------------------------------------------------
-TITLE: Open Access: OA Journal Support - Library Guides [3]
+TITLE: As court ruling nears, here is how Duke has braced for F&A ... [13]
 SOURCE: SERPAPI Google Search
 
-Open access publications are openly accessible to readers without any subscription fees for users or institutions.
+consisting of 10 academic, medical, and research organizations, recently unveiled a Fiscal Year 2022 proposal. This proposal includes a request for the U.S. government to establish an open data policy to facilitate public access to federally funded research data. The group argues that open science practices have the potential to improve scientific rigor, reproducibility, and transparency.
+------------------------------------------------------------
+TITLE: Pitt, NIH agree on 59% indirect research costs [16]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy provides financial assistance to cover overhead costs such as building maintenance, utilities, equipment, and support staff for research projects.
+------------------------------------------------------------
+TITLE: Open Access: OA Journal Support - Library Guides [4]
+SOURCE: SERPAPI Google Search
+
+Open access publications provide free access to readers without subscription fees for users or institutions.
 ------------------------------------------------------------
 
 ============================================================
@@ -108,23 +123,25 @@ Open access publications are openly accessible to readers without any subscripti
 
 1. Impact Metrics on Publisher Platforms: Who Shows What Where? — https://scholarlykitchen.sspnet.org/2025/11/11/impact-metrics-on-publisher-platforms-who-shows-what-where/
 2. The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge — https://scholarlykitchen.sspnet.org/2025/11/12/the-next-open-revolution-equity-impact-and-the-architecture-of-knowledge/
-3. Open Access: OA Journal Support - Library Guides — https://guides.library.sc.edu/openaccessresources/publishingoa
-4. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
-5. Data Governance The Definitive Guide — https://ww2.jacksonms.gov/fulldisplay/z0lmsk/7OK134/DataGovernanceTheDefinitiveGuide.pdf
-6. Hurricane Melissa: UNESCO provides emergency support to the Caribbean — http://cssp-jnu.blogspot.com/2025/11/hurricane-melissa-unesco-provides.html
-7. Baby Tardigrades! — https://scholarlykitchen.sspnet.org/2025/11/07/baby-tardigrades/
-8. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
-9. The government AI experiment Is working. Now scale it up. — http://www.fcw.com/ideas/2025/11/government-ai-experiment-working-now-scale-it/409493/?oref=ng-homepage-river
-10. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
-11. The Overlap Between the CARE and FAIR Principles ... — https://www.researchgate.net/figure/The-Overlap-Between-the-CARE-and-FAIR-Principles-and-the-Open-Data-Charter_fig3_346665037
-12. How to Improve the U.S. Health Data Infrastructure - Penn LDI — https://ldi.upenn.edu/our-work/research-updates/turning-upheaval-into-opportunity-for-u-s-health-information/
-13. Save public health data to save American lives — https://fedscoop.com/federal-public-health-data-trump-administration/
-14. Retrospective: 2025 in State Data Privacy Law — https://www.troutman.com/insights/retrospective-2025-in-state-data-privacy-law/
+3. CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram — http://cssp-jnu.blogspot.com/2025/11/cfp-cii-delhi-technology-summit-2025.html
+4. Open Access: OA Journal Support - Library Guides — https://guides.library.sc.edu/openaccessresources/publishingoa
+5. Driving Improved Government Performance Through Open ... — https://www.linkedin.com/pulse/driving-improved-government-performance-through-open-data-chenok-kybge
+6. Home - Open Access Publishing Partnerships — https://guides.lib.purdue.edu/oapublishing
+7. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
+8. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
+9. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
+10. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
+11. How to Improve the U.S. Health Data Infrastructure - Penn LDI — https://ldi.upenn.edu/our-work/research-updates/turning-upheaval-into-opportunity-for-u-s-health-information/
+12. Data Governance The Definitive Guide — https://ww2.jacksonms.gov/fulldisplay/z0lmsk/7OK134/DataGovernanceTheDefinitiveGuide.pdf
+13. As court ruling nears, here is how Duke has braced for F&A ... — https://dukechronicle.com/article/afecdd1e-c9c1-4e01-aa4d-8a070b466da8
+14. Research data management planning prior to research — https://www.uef.fi/en/datasupport/data-management-training-and%20materials
 15. American Council on Education — https://www.acenet.edu/Pages/default.aspx
-16. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
+16. Pitt, NIH agree on 59% indirect research costs — https://www.wesa.fm/health-science-tech/2025-11-07/university-pittsburgh-federal-funding-research-costs
+17. The Overlap Between the CARE and FAIR Principles ... — https://www.researchgate.net/figure/The-Overlap-Between-the-CARE-and-FAIR-Principles-and-the-Open-Data-Charter_fig3_346665037
+18. Baby Tardigrades! — https://scholarlykitchen.sspnet.org/2025/11/07/baby-tardigrades/
 
 ============================================================
-RUNTIME: 90.94 s
-ESTIMATED TOKENS: 2346
-ESTIMATED COST (USD): $0.03
+RUNTIME: 60.13 s
+ESTIMATED TOKENS: 2327
+ESTIMATED COST (USD): $0.0309
 ============================================================
