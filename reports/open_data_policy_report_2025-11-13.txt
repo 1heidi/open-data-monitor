@@ -5,15 +5,15 @@ Generated on November 13, 2025
 🔗 META-SUMMARY WITH NUMBERED REFERENCES
 ============================================================
 
-1. Publishers showcase the Journal Impact Factor more prominently than other metrics on their platforms. [1] [2] [3] [4] [5] [6]
+1. Major publishers display an average of 6 journal-level impact metrics, with the Journal Impact Factor being the only metric consistently shown. [1] [2] [3] [4] [5]
 
-2. Ongoing confusion exists regarding the use of Creative Commons licenses in the communications community. [7] [8] [9]
+2. The communications community remains confused about Creative Commons licenses despite efforts to clarify their use. [6] [7] [8] [9]
 
-3. Organizations can promote open data and science policies by offering training and establishing data-sharing infrastructure. [10] [11] [12] [13] [14] [15]
+3. The U.S. government's open data and open science policy aims to embed evidence generation into program operations to enhance transparency and informed decision-making. [10] [11] [12] [4] [13] [14]
 
-4. The proposed 2026 budget under the Trump administration includes a significant reduction in NSF funding. [16] [17] [18]
+4. OpenAI seeks U.S. government assistance for constructing AI data centers and infrastructure. [15] [13] [14] [11] [4] [16]
 
-5. OpenAI seeks US government assistance to construct AI data centers, requesting tax credit expansions and improved resource access. [19] [20] [14] [12] [13] [21]
+5. Financial Accountability in Research (FAIR) Model recommends adopting transparent and accountable management for full costs related to open data and open science policies. [17] [13] [18] [12] [19] [16]
 
 
 
@@ -24,112 +24,97 @@ Generated on November 13, 2025
 TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [8]
 SOURCE: The Scholarly Kitchen
 
-The text discusses the topic of AI in scholarly communications and publishing, specifically asking the Chefs about their favorite AI hacks. It is part of a post on The Scholarly Kitchen website.
+The text discusses the topic of AI in scholarly communications and publishing. It poses a question to the Chefs about their favorite AI hack.
 ------------------------------------------------------------
 TITLE: The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge [2]
 SOURCE: The Scholarly Kitchen
 
-Alison Mudditt discussed the need to make the scholarly communication system more equitable, impactful, and future-ready during a session at the Charleston Conference.
+Alison Mudditt discusses the need to make the scholarly communication system more equitable, impactful, and future-ready.
 ------------------------------------------------------------
 TITLE: Impact Metrics on Publisher Platforms: Who Shows What Where? [1]
 SOURCE: The Scholarly Kitchen
 
-A study of 12 major publishers has revealed that, on average, they exhibit 6 journal-level impact metrics on their platforms. The Journal Impact Factor is the only metric shown by all 12 publishers.
+Major publishers on their platforms display an average of 6 journal-level impact metrics, with the Journal Impact Factor being the only metric displayed on all 12 publishers.
 ------------------------------------------------------------
-TITLE: Revisiting: Years and Years of Creative Commons Confusion [7]
+TITLE: Revisiting: Years and Years of Creative Commons Confusion [6]
 SOURCE: The Scholarly Kitchen
 
-The communications community has been experiencing ongoing confusion regarding the use of Creative Commons licenses. Multiple articles spanning over a decade aim to provide clarity on this issue.
+The communications community remains confused about Creative Commons licenses despite efforts to clarify their use. Over a decade's worth of articles have been written to provide clarity on this issue.
 ------------------------------------------------------------
-TITLE: Building Participatory Data Infrastructures Across Disciplines and Geographies [21]
+TITLE: Building Participatory Data Infrastructures Across Disciplines and Geographies [16]
 SOURCE: CODATA Blog
 
-The ECR-organized session at International Data Week 2025, titled "Perspectives on Data Repositories Across Disciplines, Geographies, and Cultures," provided valuable insights from Pragya Chaube, Louis Mapatagane, and Cyrus Walther. The session aimed to discuss building participatory data infrastructures across various disciplines and geographies.
+During International Data Week 2025, an Early Career Researcher (ECR) session titled "Perspectives on Data Repositories Across Disciplines, Geographies, and Cultures" was held by Pragya Chaube, Louis Mapatagane, and Cyrus Walther. This session aimed to explore participatory data infrastructures in various fields and regions. It provided valuable insights on open data policies and practices across different disciplines and cultures.
 ------------------------------------------------------------
-TITLE: Hurricane Melissa: UNESCO provides emergency support to the Caribbean [3]
-SOURCE: JCU Sci Policy
-
-and Haiti after Hurricane Melissa struck the Caribbean on October 28. This support aims to sustain educational continuity, assess damage to cultural heritage, and strengthen the reliability of information during crises. More than 2 million people have been affected, with major damage to schools and cultural sites. UNESCO is conducting assessments using satellite imagery and deploying experts to address the needs in the affected countries, including providing support for teaching materials, psychosocial assistance, stabilizing monuments, conducting hydrogeological assessments, and strengthening media fact-checking platforms. Additionally, regional training programs will be implemented to enhance prevention and resilience against extreme climate events.
-------------------------------------------------------------
-TITLE: The Fair Guiding Principles For Scientific Data ... [10]
+TITLE: The Fair Guiding Principles For Scientific Data ... [13]
 SOURCE: SERPAPI Google Search
 
-Organizations can promote the adoption of open data and open science policies by offering training, establishing data-sharing infrastructure, and implementing policies to ensure data sharing.
+Organizations can promote the adoption of open data or open science policies by offering training, establishing supportive data-sharing infrastructure, and implementing policies that mandate data sharing.
 ------------------------------------------------------------
-TITLE: Reimagining open science for global health: Epistemic power ... [11]
+TITLE: Reimagining open science for global health: Epistemic power ... [12]
 SOURCE: SERPAPI Google Search
 
-Open Science (OS) has the potential to address global knowledge and data imbalances by encouraging sharing and collaboration between different regions, such as the Global North and South.
+Open Science (OS) has the potential to address disparities by promoting sharing of knowledge and data and encouraging fair partnerships between countries in different regions.
 ------------------------------------------------------------
-TITLE: Data Governance The Definitive Guide [12]
+TITLE: Save public health data to save American lives [14]
 SOURCE: SERPAPI Google Search
 
-The text emphasizes the importance of organizations creating comprehensive policies focusing on data management practices such as data access, sharing, and retention. These policies should be detailed to ensure proper governance of data.
+The Coleridge Initiative is facilitating the sharing and management of public health data among states in the U.S. This initiative aims to enable states to exchange health data without the need for the federal government to aggregate state data.
 ------------------------------------------------------------
-TITLE: Save public health data to save American lives [13]
+TITLE: 2025 United States government online resource removals [11]
 SOURCE: SERPAPI Google Search
 
-The Coleridge Initiative is facilitating the sharing and management of health data among states, eliminating the need for federal government consolidation of state data. This approach allows for greater data sharing and collaboration while maintaining state autonomy.
+passed in 2019, requires U.S. government agencies to release data that allows for the assessment of program efficiency and decision-making.
 ------------------------------------------------------------
-TITLE: 2025 United States government online resource removals [20]
+TITLE: Driving Improved Government Performance Through Open ... [4]
 SOURCE: SERPAPI Google Search
 
-passed in 2019, mandates U.S. government agencies to share data that allows for program evaluation and decision-making.
+A recent report analyzes the impact of The Opportunity Project (TOP) in utilizing open government data to drive improved government performance. TOP is recognized as a pioneering initiative in this field.
 ------------------------------------------------------------
-TITLE: Driving Improved Government Performance Through Open ... [14]
+TITLE: After Coalition S disrupted scientific publishing, new plan ... [7]
 SOURCE: SERPAPI Google Search
 
-The Opportunity Project (TOP) is highlighted for its use of open government data to drive improved government performance. TOP is seen as a pioneering initiative in this regard.
+The original Plan S mandate aimed to go beyond previous voluntary efforts to promote open-access publishing in the scientific community. The group behind the plan sought to implement stricter requirements, but faced disruption and criticism, leading to a new plan with more flexibility.
 ------------------------------------------------------------
-TITLE: Data sovereignty: What it is and compliance considerations [17]
+TITLE: Data sovereignty: What it is and compliance considerations [5]
 SOURCE: SERPAPI Google Search
 
-which refers to laws and regulations governing the storage and processing of data within a specific country or jurisdiction. Laws like GDPR, CCPA, and CSL play a significant role in shaping compliance with data sovereignty regulations. Businesses can employ various strategies to ensure data security and compliance with these laws.
+Data sovereignty refers to the concept that data is subject to the laws of the country in which it is located. Laws such as GDPR, CCPA, and CSL impact how businesses must comply with regulations regarding the handling and protection of data. Businesses can stay secure and compliant by employing strategies that focus on transparency, accountability, and data minimization.
 ------------------------------------------------------------
-TITLE: The Overlap Between the CARE and FAIR Principles ... [15]
+TITLE: Research data management planning prior to research [18]
 SOURCE: SERPAPI Google Search
 
-The CARE principles (Collective Benefit, Authority to Control, Responsibility, and Ethics) work in conjunction with the FAIR principles (Findability, Accessibility, Interoperability, and Reusability) in the context of open data and open science policy.
+accessible, interoperable, and reusable. These principles are often linked to open data in research.
 ------------------------------------------------------------
-TITLE: Week After Week, The US is Dismantling Knowledge ... [16]
+TITLE: OpenAI seeks US government help for AI data centers and ... [15]
 SOURCE: SERPAPI Google Search
 
-The proposed 2026 budget under Trump's administration includes a 55% reduction in NSF funding, decreasing it from $9 billion to $4 billion. This cut would mark the most substantial decrease in American scientific research funding.
+OpenAI is seeking assistance from the US government to construct AI data centers and infrastructure. They are looking for tax credit expansion, quicker permit approvals, and improved access to resources.
 ------------------------------------------------------------
-TITLE: OpenAI seeks US government help for AI data centers and ... [19]
+TITLE: What's Next for Federal Evidence-Based Policymaking [10]
 SOURCE: SERPAPI Google Search
 
-OpenAI is seeking assistance from the US government to construct AI data centers and infrastructure. They are requesting tax credit expansions, expedited permits, and improved access to resources.
+The U.S. open data and open science policy emphasizes embedding evidence generation into program operations to integrate data collection and policy adjustments seamlessly. This approach involves promoting transparency in decision-making and ensuring that policies are informed by reliable data. The policy aims to enhance the effectiveness of government programs by utilizing evidence-based practices.
 ------------------------------------------------------------
-TITLE: As court ruling nears, here is how Duke has braced for F&A ... [6]
+TITLE: not just because it confirms my earlier reporting, but ... [9]
 SOURCE: SERPAPI Google Search
 
-Duke University had been using a 15% Facilities and Administrative (F&A) rate for its finances. Additionally, the School of Medicine had been working on transitioning to a more clinically-focused model.
+abundant data, and methodological rigor, surpassing previous efforts. It demonstrates a high-quality empirical approach to research in the field of open data or open science policy.
 ------------------------------------------------------------
-TITLE: not just because it confirms my earlier reporting, but ... [5]
+TITLE: Check out the October/November 2025 issue of ... [19]
 SOURCE: SERPAPI Google Search
 
-and methodologically stronger than previous studies. It serves as a valuable example of empirical work in the field.
+The text discusses the Financial Accountability in Research (FAIR) Model and provides a recap of the Annual Meeting. It highlights the UG issue a year later.
 ------------------------------------------------------------
-TITLE: As court ruling nears, here is how Duke has braced for F&A ... [6]
+TITLE: American Council on Education [17]
 SOURCE: SERPAPI Google Search
 
-a collaboration between 10 academic, medical, and research organizations in the U.S., disclosed a Fiscal Year 2010 report on indirect costs incurred by universities in federally funded research. The report highlighted discrepancies in overhead cost reimbursement rates among institutions, with some universities receiving significantly higher rates than others for similar research projects.
+The Joint Associations Group on Indirect Costs recommends policymakers to adopt the FAIR model for transparent and accountable management of the full costs related to open data and open science policies.
 ------------------------------------------------------------
-TITLE: News Archive [9]
+TITLE: Open Access: OA Journal Support - Library Guides [3]
 SOURCE: SERPAPI Google Search
 
-APLU President Waded Cruzado made a statement regarding the Joint Associations Group's Financial Accountability in Research (FAIR).
-------------------------------------------------------------
-TITLE: Pitt, NIH agree on 59% indirect research costs [18]
-SOURCE: SERPAPI Google Search
-
-Federal funding for research at the University of Pittsburgh is intended to cover overhead expenses, including building maintenance, utilities, equipment, and support staff.
-------------------------------------------------------------
-TITLE: Open Access: OA Journal Support - Library Guides [4]
-SOURCE: SERPAPI Google Search
-
-Open access publications are freely available to readers without any subscription fees charged to users or institutions.
+Open access publications are publications that are freely available to readers without charging any subscription fees to users or institutions.
 ------------------------------------------------------------
 
 ============================================================
@@ -138,28 +123,26 @@ Open access publications are freely available to readers without any subscriptio
 
 1. Impact Metrics on Publisher Platforms: Who Shows What Where? — https://scholarlykitchen.sspnet.org/2025/11/11/impact-metrics-on-publisher-platforms-who-shows-what-where/
 2. The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge — https://scholarlykitchen.sspnet.org/2025/11/12/the-next-open-revolution-equity-impact-and-the-architecture-of-knowledge/
-3. Hurricane Melissa: UNESCO provides emergency support to the Caribbean — http://cssp-jnu.blogspot.com/2025/11/hurricane-melissa-unesco-provides.html
-4. Open Access: OA Journal Support - Library Guides — https://guides.library.sc.edu/openaccessresources/publishingoa
-5. not just because it confirms my earlier reporting, but ... — https://x.com/PhilOnEdTech/status/1988759245261885582
-6. As court ruling nears, here is how Duke has braced for F&A ... — https://www.dukechronicle.com/article/duke-university-overhead-cost-reimbursement-rate-cap-rhetoric-facilities-and-administrative-costs-20251112
-7. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
+3. Open Access: OA Journal Support - Library Guides — https://guides.library.sc.edu/openaccessresources/publishingoa
+4. Driving Improved Government Performance Through Open ... — https://www.linkedin.com/pulse/driving-improved-government-performance-through-open-data-chenok-kybge
+5. Data sovereignty: What it is and compliance considerations — https://www.expressvpn.com/blog/data-sovereignty/?srsltid=AfmBOopR2YV_TIlEnsVfyHNe8Ou5h6bxrjG3C_zoLnHp8Kaq9Uhp0iQx
+6. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
+7. After Coalition S disrupted scientific publishing, new plan ... — https://www.science.org/content/article/after-coalition-s-disrupted-scientific-publishing-new-plan-retreats-strict-requirements
 8. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
-9. News Archive — https://aplu.mystagingwebsite.com/news-and-media/news/
-10. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
-11. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
-12. Data Governance The Definitive Guide — https://ww2.jacksonms.gov/fulldisplay/z0lmsk/7OK134/DataGovernanceTheDefinitiveGuide.pdf
-13. Save public health data to save American lives — https://fedscoop.com/federal-public-health-data-trump-administration/
-14. Driving Improved Government Performance Through Open ... — https://www.linkedin.com/pulse/driving-improved-government-performance-through-open-data-chenok-kybge
-15. The Overlap Between the CARE and FAIR Principles ... — https://www.researchgate.net/figure/The-Overlap-Between-the-CARE-and-FAIR-Principles-and-the-Open-Data-Charter_fig3_346665037
-16. Week After Week, The US is Dismantling Knowledge ... — https://www.techpolicy.press/week-after-week-the-us-is-dismantling-knowledge-infrastructure/
-17. Data sovereignty: What it is and compliance considerations — https://www.expressvpn.com/blog/data-sovereignty/?srsltid=AfmBOopR2YV_TIlEnsVfyHNe8Ou5h6bxrjG3C_zoLnHp8Kaq9Uhp0iQx
-18. Pitt, NIH agree on 59% indirect research costs — https://www.wesa.fm/health-science-tech/2025-11-07/university-pittsburgh-federal-funding-research-costs
-19. OpenAI seeks US government help for AI data centers and ... — https://m.economictimes.com/news/international/us/openai-seeks-us-government-help-for-ai-data-centers-and-infrastructure/articleshow/125191295.cms
-20. 2025 United States government online resource removals — https://en.wikipedia.org/wiki/2025_United_States_government_online_resource_removals
-21. Building Participatory Data Infrastructures Across Disciplines and Geographies — https://codata.org/blog/2025/11/07/building-participatory-data-infrastructures-across-disciplines-and-geographies/
+9. not just because it confirms my earlier reporting, but ... — https://x.com/PhilOnEdTech/status/1988759245261885582
+10. What's Next for Federal Evidence-Based Policymaking — https://fas.org/publication/evidence-based-policymaking/
+11. 2025 United States government online resource removals — https://en.wikipedia.org/wiki/2025_United_States_government_online_resource_removals
+12. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
+13. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
+14. Save public health data to save American lives — https://fedscoop.com/federal-public-health-data-trump-administration/
+15. OpenAI seeks US government help for AI data centers and ... — https://m.economictimes.com/news/international/us/openai-seeks-us-government-help-for-ai-data-centers-and-infrastructure/articleshow/125191295.cms
+16. Building Participatory Data Infrastructures Across Disciplines and Geographies — https://codata.org/blog/2025/11/07/building-participatory-data-infrastructures-across-disciplines-and-geographies/
+17. American Council on Education — https://www.acenet.edu/About/temp/Pages/default.aspx
+18. Research data management planning prior to research — https://www.uef.fi/en/datasupport/data-management-training-and%20materials
+19. Check out the October/November 2025 issue of ... — https://www.facebook.com/groups/NCURARegionVII/posts/2851112351761101/
 
 ============================================================
-RUNTIME: 349.99 s
-ESTIMATED TOKENS: 2538
-ESTIMATED COST (USD): $0.0322
+RUNTIME: 65.67 s
+ESTIMATED TOKENS: 2587
+ESTIMATED COST (USD): $0.0333
 ============================================================
