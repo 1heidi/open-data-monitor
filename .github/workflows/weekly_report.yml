@@ -2,7 +2,7 @@ name: Weekly Open Data Monitor
 
 on:
   schedule:
-    - cron: '0 9 * * 0'  # Every Sunday at 9 AM UTC
+    - cron: '0 9 * * 0' # Every Sunday at 9 AM UTC
   workflow_dispatch:
 
 permissions:
@@ -31,18 +31,41 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
+          # Ensure jupyter and nbconvert are installed
           pip install openai serpapi google-auth google-auth-oauthlib \
                       google-auth-httplib2 requests python-dotenv jupyter nbconvert
 
-      - name: Run weekly report notebook and export to Markdown + Text
+      # 🚀 REPLACED STEP: Executes the notebook and creates two output files (.md and .ipynb)
+      - name: 📝 Run weekly report notebook and export formats
         run: |
           mkdir -p reports
-          # 1️⃣ Execute notebook and export to Markdown
+          
+          # 1️⃣ Execute notebook and export to Markdown (for email/commit)
           jupyter nbconvert --execute --to markdown --allow-errors \
             --output "reports/open_data_policy_report.md" \
             Open_AI_Sci_Policy.ipynb
-          # 2️⃣ Duplicate Markdown as Text version
+
+          # 2️⃣ Execute notebook and save to a new .ipynb file (for artifact upload)
+          jupyter nbconvert --execute --to notebook --allow-errors \
+            --output "reports/executed_Open_AI_Sci_Policy.ipynb" \
+            Open_AI_Sci_Policy.ipynb
+            
+          # 3️⃣ Duplicate Markdown as Text version
           cp reports/open_data_policy_report.md reports/open_data_policy_report.txt
+
+      # 🌟 NEW STEP: Prints the output to the GitHub Actions log
+      - name: 🔎 Display Notebook Output in Log
+        run: |
+          echo "--- Full Notebook Execution Output (Markdown) ---"
+          cat reports/open_data_policy_report.md
+          echo "------------------------------------------------"
+
+      # 🌟 NEW STEP: Uploads the fully executed notebook for easy downloading
+      - name: 📤 Upload Executed Notebook Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: executed-notebook-output
+          path: reports/executed_Open_AI_Sci_Policy.ipynb
 
       - name: Debug report files
         run: |
@@ -51,6 +74,7 @@ jobs:
           
       - name: Clean unwanted report files
         run: |
+          # The executed .ipynb artifact file is left alone here to prevent failure if it's referenced later
           echo "Deleting all .md files in reports folder..."
           rm -f reports/*.md
           echo "Deleting open_data_policy_report.txt from reports folder..."
@@ -67,7 +91,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Add only the .txt report files
-          # Using || true ensures the action doesn't fail if no files are initially present
+          # Note: Since the .txt file was deleted in the prior step, this needs review
+          # If the file is intended for commit, do not delete it in the 'Clean unwanted report files' step.
           git add reports/*.txt || true
           
           # Check if there are any staged changes (i.e., if git add succeeded)

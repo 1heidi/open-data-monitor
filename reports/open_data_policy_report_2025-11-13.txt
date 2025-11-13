@@ -1,0 +1,153 @@
+OPEN DATA POLICY MONITOR REPORT
+Generated on November 13, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Major publishers highlight six journal-level impact metrics, with the Journal Impact Factor being consistently displayed. [1] [2] [3] [4] [5]
+
+2. Communications community continues to struggle with Creative Commons licenses understanding. [6]
+
+3. UNESCO provides emergency support to Jamaica, Cuba, and Haiti for educational continuity and cultural heritage assessment. [7] [3] [8] [9] [10] [11]
+
+4. The CII Delhi Technology Summit 2025 discusses India's opportunities in AI, IoT, and semiconductor leadership. [12] [13] [14] [2] [15] [4]
+
+5. Organizations can promote open data policies through training, infrastructure, and enforcing data stewardship guidelines. [16] [17] [4] [18] [19] [15]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [14]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the use of Artificial Intelligence in scholarly communication and publishing. It presents a question to chefs regarding their favorite AI hacks in this field. The post is from The Scholarly Kitchen website.
+------------------------------------------------------------
+TITLE: The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge [2]
+SOURCE: The Scholarly Kitchen
+
+Alison Mudditt discusses the need to make the scholarly communication system more equitable, impactful, and future-ready.
+------------------------------------------------------------
+TITLE: Impact Metrics on Publisher Platforms: Who Shows What Where? [1]
+SOURCE: The Scholarly Kitchen
+
+A study of 12 major publishers reveals that, on average, they showcase 6 journal-level impact metrics on their platforms, with the Journal Impact Factor being the only metric displayed consistently across all 12 publishers.
+------------------------------------------------------------
+TITLE: Revisiting: Years and Years of Creative Commons Confusion [6]
+SOURCE: The Scholarly Kitchen
+
+The communications community is still struggling with understanding Creative Commons licenses, with a collection of articles spanning over a decade attempting to provide clarity on their usage.
+------------------------------------------------------------
+TITLE: Building Participatory Data Infrastructures Across Disciplines and Geographies [15]
+SOURCE: CODATA Blog
+
+During International Data Week 2025, an Early Career Researcher (ECR) session titled “Perspectives on Data Repositories Across Disciplines, Geographies, and Cultures” highlighted the importance of building participatory data infrastructures. The session was organized by ECRs Pragya Chaube, Louis Mapatagane, and Cyrus Walther and focused on diverse perspectives on open data and open science policies across different fields and regions. The discussion emphasized the need for inclusive and collaborative approaches to data sharing and management.
+------------------------------------------------------------
+TITLE: Hurricane Melissa: UNESCO provides emergency support to the Caribbean [7]
+SOURCE: JCU Sci Policy
+
+UNESCO announced emergency support for Jamaica, Cuba, and Haiti to ensure educational continuity, assess damage to cultural heritage, and enhance the reliability of information during crises. The aid will help replace teaching materials, assess cultural sites, stabilize monuments, carry out hydrogeological assessments for water sources in schools, strengthen a fact-checking platform for journalists, and provide psychosocial support for teachers and students. Additionally, regional training programs will be implemented to enhance prevention and resilience against extreme climate events.
+------------------------------------------------------------
+TITLE: CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram [12]
+SOURCE: JCU Sci Policy
+
+The 6th CII Delhi Technology Summit 2025 aims to explore India's opportunities in AI, IoT, sovereign compute, semiconductors, and quantum readiness. The event will feature key sessions focusing on AI agents, IoT's role in digital economy, semiconductor leadership, and practical applications of quantum technologies. Industry leaders from various companies and research institutions will convene to discuss India's technological future and how the country can transition from a technology consumer to a global technology creator and custodian.
+------------------------------------------------------------
+TITLE: The Fair Guiding Principles For Scientific Data ... [16]
+SOURCE: SERPAPI Google Search
+
+Organizations can promote the adoption of open data or open science policies by offering training, establishing supportive infrastructure for data sharing, and implementing policies to enforce data management and stewardship.
+------------------------------------------------------------
+TITLE: Data Governance The Definitive Guide [17]
+SOURCE: SERPAPI Google Search
+
+Organizations are encouraged to establish comprehensive policies that address various aspects of data management such as access, sharing, and retention. It is essential for organizations to have clear guidelines in place regarding data governance practices.
+------------------------------------------------------------
+TITLE: Driving Improved Government Performance Through Open ... [4]
+SOURCE: SERPAPI Google Search
+
+The text discusses the impact of The Opportunity Project (TOP) as a pioneering initiative that utilizes open government data to drive improved government performance.
+------------------------------------------------------------
+TITLE: FedRAMP vs FISMA Compliance [8]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy standardizes the approach to security assessment, authorization, and continuous monitoring of cloud products and services used by federal agencies through FedRAMP.
+------------------------------------------------------------
+TITLE: Compliance - AWS GovCloud (US) [9]
+SOURCE: SERPAPI Google Search
+
+AWS GovCloud (US) provides government customers and their partners with the ability to design secure cloud solutions that meet the FedRAMP High baseline compliance standards.
+------------------------------------------------------------
+TITLE: Retrospective: 2025 in State Data Privacy Law [13]
+SOURCE: SERPAPI Google Search
+
+In 2025, there were numerous consumer privacy bills introduced and amendments made to existing laws related to data privacy in various states in the U.S. The states were also involved in rulemaking processes concerning data privacy.
+------------------------------------------------------------
+TITLE: Diplomas, Degrees, And Digital Wallets: Revisiting ... [5]
+SOURCE: SERPAPI Google Search
+
+A state data system is being developed to manage credentials of value, with key elements including selection, approval, and periodic re-evaluation of credentials.
+------------------------------------------------------------
+TITLE: How to Improve the U.S. Health Data Infrastructure - Penn LDI [18]
+SOURCE: SERPAPI Google Search
+
+The U.S. government is encouraged to gradually provide open access to linked data, despite the temptation to restrict access due to low public trust in government.
+------------------------------------------------------------
+TITLE: As court ruling nears, here is how Duke has braced for F&A ... [19]
+SOURCE: SERPAPI Google Search
+
+Duke University previously used a 15% Facilities and Administrative (F&A) rate for financial modeling. Additionally, its School of Medicine had been working on transitioning to a clinical-focused financial model.
+------------------------------------------------------------
+TITLE: As court ruling nears, here is how Duke has braced for F&A ... [19]
+SOURCE: SERPAPI Google Search
+
+A national collaboration between 10 academic, medical, and research organizations known as the Joint Associations Group on Indirect Costs unveiled a Fiscal Year 2021 Spending Bill that includes language supporting open data and open science policies. This bill aims to promote transparency and accessibility in research by emphasizing the importance of sharing research findings and data with the public.
+------------------------------------------------------------
+TITLE: Pitt, NIH agree on 59% indirect research costs [10]
+SOURCE: SERPAPI Google Search
+
+Federal funding for research at the University of Pittsburgh is intended to cover overhead expenses such as building maintenance, utilities, equipment, and support staff.
+------------------------------------------------------------
+TITLE: Open Access: OA Journal Support - Library Guides [3]
+SOURCE: SERPAPI Google Search
+
+Open access publications provide free access to readers without requiring subscription fees from users or institutions.
+------------------------------------------------------------
+TITLE: Open Access Publishing : What is Open Access (OA)? [11]
+SOURCE: SERPAPI Google Search
+
+Open access is a publishing model that provides information to readers for free, removing access barriers.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Impact Metrics on Publisher Platforms: Who Shows What Where? — https://scholarlykitchen.sspnet.org/2025/11/11/impact-metrics-on-publisher-platforms-who-shows-what-where/
+2. The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge — https://scholarlykitchen.sspnet.org/2025/11/12/the-next-open-revolution-equity-impact-and-the-architecture-of-knowledge/
+3. Open Access: OA Journal Support - Library Guides — https://guides.library.sc.edu/openaccessresources/publishingoa
+4. Driving Improved Government Performance Through Open ... — https://www.linkedin.com/pulse/driving-improved-government-performance-through-open-data-chenok-kybge
+5. Diplomas, Degrees, And Digital Wallets: Revisiting ... — https://www.forbes.com/sites/brunomanno/2025/11/12/diplomas-degrees-and-digital-wallets-revisiting-credentials/
+6. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
+7. Hurricane Melissa: UNESCO provides emergency support to the Caribbean — http://cssp-jnu.blogspot.com/2025/11/hurricane-melissa-unesco-provides.html
+8. FedRAMP vs FISMA Compliance — https://www.comparitech.com/data-privacy-management/fedramp-vs-fisma-compliance/
+9. Compliance - AWS GovCloud (US) — https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/govcloud-compliance.html
+10. Pitt, NIH agree on 59% indirect research costs — https://www.wesa.fm/health-science-tech/2025-11-07/university-pittsburgh-federal-funding-research-costs
+11. Open Access Publishing : What is Open Access (OA)? — https://libguides.wakehealth.edu/openaccess
+12. CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram — http://cssp-jnu.blogspot.com/2025/11/cfp-cii-delhi-technology-summit-2025.html
+13. Retrospective: 2025 in State Data Privacy Law — https://www.troutman.com/insights/retrospective-2025-in-state-data-privacy-law/
+14. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
+15. Building Participatory Data Infrastructures Across Disciplines and Geographies — https://codata.org/blog/2025/11/07/building-participatory-data-infrastructures-across-disciplines-and-geographies/
+16. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
+17. Data Governance The Definitive Guide — https://ww2.jacksonms.gov/fulldisplay/z0lmsk/7OK134/DataGovernanceTheDefinitiveGuide.pdf
+18. How to Improve the U.S. Health Data Infrastructure - Penn LDI — https://ldi.upenn.edu/our-work/research-updates/turning-upheaval-into-opportunity-for-u-s-health-information/
+19. As court ruling nears, here is how Duke has braced for F&A ... — https://dukechronicle.com/article/afecdd1e-c9c1-4e01-aa4d-8a070b466da8
+
+============================================================
+RUNTIME: 62.2 s
+ESTIMATED TOKENS: 2258
+ESTIMATED COST (USD): $0.0294
+============================================================
