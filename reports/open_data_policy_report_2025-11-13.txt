@@ -5,15 +5,15 @@ Generated on November 13, 2025
 🔗 META-SUMMARY WITH NUMBERED REFERENCES
 ============================================================
 
-1. The Journal Impact Factor is displayed consistently across major publishers' platforms. [1] [2] [3] [4] [5]
+1. Major publishers typically display an average of 6 impact metrics on their platforms, with the Journal Impact Factor being the most common. [1] [2] [3] [4] [5]
 
-2. Creative Commons licenses continue to be confusing to the communications community. [6] [7]
+2. The discussions on Creative Commons licenses continue to provide clarification in the communications community. [6] [7] [4]
 
-3. Organizers emphasize the importance of open data and open science policies during International Data Week. [3] [8] [9] [5] [8] [10]
+3. The U.S. open data and open science policy focuses on evidence generation in government programs for data collection and policy adjustments. [8] [9] [5] [10] [11] [9]
 
-4. Pragya Chaube, Louis Mapatagane, and Cyrus Walther lead an ECR session on building participatory data infrastructures. [3] [9] [10] [11] [5] [12]
+4. The National Institutes of Health and the University of Pittsburgh agreed to maintain indirect research costs at 59%. [12] [12] [13] [14] [9] [15]
 
-5. UNESCO provides emergency support to Caribbean countries affected by Hurricane Melissa, focusing on education, cultural heritage, and media programs. [4] [13] [14] [8] [15] [16]
+5. The Financial Accountability In Research (FAIR) Model is recommended for sustaining full costs in U.S. open data and open science policies. [16] [10] [9] [14] [17] [5]
 
 
 
@@ -24,92 +24,102 @@ Generated on November 13, 2025
 TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [7]
 SOURCE: The Scholarly Kitchen
 
-The text discusses AI hacks in scholarly communications and publishing, asking the Chefs about their favorite AI hack.
+The text discusses the use of AI in scholarly communications and publishing, with the Chefs sharing their favorite AI hacks.
 ------------------------------------------------------------
 TITLE: The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge [2]
 SOURCE: The Scholarly Kitchen
 
-Alison Mudditt discusses the need to make the scholarly communication system more equitable, impactful, and future-ready at a Charleston Conference session.
+Alison Mudditt discusses the need to make the scholarly communication system more equitable, impactful, and future-ready.
 ------------------------------------------------------------
 TITLE: Impact Metrics on Publisher Platforms: Who Shows What Where? [1]
 SOURCE: The Scholarly Kitchen
 
-A study of 12 major publishers reveals that, on average, they show 6 journal-level impact metrics on their platforms. The Journal Impact Factor is the only metric displayed consistently across all 12 publishers.
+A study of 12 major publishers revealed that they typically show an average of 6 journal-level impact metrics on their platforms, with the Journal Impact Factor being the most common metric displayed on all 12 publishers.
 ------------------------------------------------------------
 TITLE: Revisiting: Years and Years of Creative Commons Confusion [6]
 SOURCE: The Scholarly Kitchen
 
-The communications community still finds Creative Commons licenses confusing after more than a decade. The Scholarly Kitchen has compiled a collection of articles aiming to provide clarity on their use.
+The communications community still struggles with understanding Creative Commons licenses, with ongoing efforts to provide clarification through articles over the past decade.
 ------------------------------------------------------------
-TITLE: Building Participatory Data Infrastructures Across Disciplines and Geographies [3]
-SOURCE: CODATA Blog
-
-During International Data Week 2025, an Early Career Researcher (ECR) session titled "Perspectives on Data Repositories Across Disciplines, Geographies, and Cultures" was organized by Pragya Chaube, Louis Mapatagane, and Cyrus Walther. The session delved into building participatory data infrastructures across various disciplines and geographies, emphasizing the importance of open data and open science policies.
-------------------------------------------------------------
-TITLE: Hurricane Melissa: UNESCO provides emergency support to the Caribbean [4]
+TITLE: Hurricane Melissa: UNESCO provides emergency support to the Caribbean [3]
 SOURCE: JCU Sci Policy
 
-and Haiti after Hurricane Melissa hit the Caribbean on October 28, 2025. The aid aims to maintain educational continuity, evaluate damage to cultural heritage, and ensure reliable information during crises through media programs. Over 2 million people were affected, with significant material damage such as debris, impacted educational facilities, and damaged communication systems. UNESCO deployed international experts to assess damages and needs, especially in Jamaica where support includes replacing teaching materials, providing psychosocial support, and stabilizing severely affected monuments. In Haiti, assistance involves assessing water sources for contamination due to flooding, while in Cuba, efforts include supporting journalists with fact-checking platforms and training teachers in psychosocial support and access to heritage sites. Additionally, UNESCO plans to implement regional training for disaster prevention and resilience against extreme climate events.
+and Haiti after Hurricane Melissa struck the Caribbean, focusing on educational continuity, assessing cultural heritage damages, and ensuring reliable crisis information through media-focused programs. The aid aims to help replace teaching materials, stabilize damaged monuments, assess contaminated water sources, strengthen fact-checking platforms, and implement regional training programs for prevention and risk reduction.
 ------------------------------------------------------------
-TITLE: The Fair Guiding Principles For Scientific Data ... [9]
+TITLE: CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram [4]
+SOURCE: JCU Sci Policy
+
+The 6th CII Delhi Technology Summit 2025 will focus on "Agentic AI, IoT & Sovereign Compute: India's Quantum-Ready Frontier," addressing India's role as a global technology leader in areas such as AI, IoT, semiconductors, and quantum readiness. The event will feature panel discussions with industry leaders from major companies and research institutions to collaborate on India's technological future.
+------------------------------------------------------------
+TITLE: The Fair Guiding Principles For Scientific Data ... [10]
 SOURCE: SERPAPI Google Search
 
-Organizations can promote the use of open data by offering training, establishing infrastructure to facilitate data sharing, and implementing policies that require data sharing.
+Organizations can promote the adoption of open data or open science policies by offering training, building data-sharing infrastructure, and implementing enforceable data policies.
 ------------------------------------------------------------
-TITLE: Reimagining open science for global health: Epistemic power ... [8]
+TITLE: Reimagining open science for global health: Epistemic power ... [9]
 SOURCE: SERPAPI Google Search
 
-Open data or open science (OS) policies have the potential to address imbalances by promoting knowledge and data sharing and encouraging fair collaborations between countries in the Global North and South.
+Open data or open science (OS) policies have the potential to address knowledge and data sharing imbalances and promote fair collaborations between the Global North and South.
 ------------------------------------------------------------
-TITLE: Data Governance The Definitive Guide [10]
+TITLE: Save public health data to save American lives [15]
 SOURCE: SERPAPI Google Search
 
-Organizations need to establish comprehensive data management policies that address practices such as data access, sharing, and retention. These policies are essential for ensuring effective data governance.
+The Coleridge Initiative is aiding in the sharing and management of health data among states, bypassing the need for federal aggregation of state data in the U.S.
 ------------------------------------------------------------
-TITLE: Save public health data to save American lives [11]
+TITLE: After Coalition S disrupted scientific publishing, new plan ... [11]
 SOURCE: SERPAPI Google Search
 
-The Coleridge Initiative is facilitating the sharing and management of health data among states, allowing for collaboration without the need for federal government aggregation of state data.
+The U.S. open data or open science policy aimed to go beyond previous voluntary efforts to promote open-access publishing.
 ------------------------------------------------------------
 TITLE: Artificial intelligence in data-driven decision making [5]
 SOURCE: SERPAPI Google Search
 
-The article critically reviews literature on the intersection of data-driven decision-making, data ethics, and the impact of U.S. open data and open science policy.
+The article provides a critical review of literature on the intersection of data-driven decision making, data ethics, and their impact on open data or open science policy in the U.S.
 ------------------------------------------------------------
-TITLE: The Ongoing Battle in Higher Education Over Using ... [13]
+TITLE: What's Next for Federal Evidence-Based Policymaking [8]
 SOURCE: SERPAPI Google Search
 
-Universities are facing challenges in dealing with ChatGPT due to concerns about academic integrity, learning quality, and fairness.
+The U.S. open data or open science policy aims to integrate evidence generation into government programs, by establishing systems that facilitate data collection and policy adjustments.
 ------------------------------------------------------------
-TITLE: What's Next for Federal Evidence-Based Policymaking [15]
+TITLE: Reimagining open science for global health: Epistemic power ... [9]
 SOURCE: SERPAPI Google Search
 
-The U.S. government is encouraged to incorporate evidence-based policymaking by integrating data collection and policy adjustment into program development processes. This approach aims to design programs that are inherently driven by evidence to improve policy effectiveness.
-------------------------------------------------------------
-TITLE: Reimagining open science for global health: Epistemic power ... [8]
-SOURCE: SERPAPI Google Search
-
-The paper analyzes how current Open Science practices do not effectively promote health equity in global health.
+The paper discusses how existing Open Science initiatives do not effectively promote health equity in the field of global health.
 ------------------------------------------------------------
 TITLE: Pitt, NIH agree on 59% indirect research costs [12]
 SOURCE: SERPAPI Google Search
 
-The National Institutes of Health (NIH) under the Trump administration aimed to reduce indirect research costs to 15%. However, the University of Pittsburgh recently signed an agreement allowing for these costs to be reimbursed at a higher rate of 59%.
+The National Institutes of Health (NIH) under the Trump administration aimed to reduce indirect research costs to 15%, but the University of Pittsburgh signed an agreement to maintain these costs at 59%.
 ------------------------------------------------------------
-TITLE: not just because it confirms my earlier reporting, but ... [16]
+TITLE: As court ruling nears, here is how Duke has braced for F&A ... [14]
 SOURCE: SERPAPI Google Search
 
-The Department of Education is implementing new Gainful Employment and Financial Value Transparency regulations in July. Additionally, NegReg meetings are set to commence in December.
+Duke University's School of Medicine had been working on transitioning towards a more clinical research-focused approach, while the university had been using a 15% Facilities and Administrative (F&A) rate for financial modeling.
 ------------------------------------------------------------
-TITLE: American Council on Education [14]
+TITLE: TOMORROW: Join ASPET in a town hall ... [17]
 SOURCE: SERPAPI Google Search
 
-The Joint Associations Group on Indirect Costs is recommending policymakers to adopt the FAIR model, which is a transparent and accountable approach for sustaining the full costs of open data and open science initiatives in the U.S.
+The Financial Accountability In Research (FAIR) Model is a new approach aimed at supporting research. Join ASPET in a town hall meeting tomorrow to learn more about it.
+------------------------------------------------------------
+TITLE: American Council on Education [16]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group on Indirect Costs is recommending policymakers to embrace the FAIR model for sustaining full costs in U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: As court ruling nears, here is how Duke has braced for F&A ... [14]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group on Indirect Costs recently announced a Fiscal Year 2021 Transparency Survey to gather information on U.S. open data and open science policies from academic, medical, and research organizations.
 ------------------------------------------------------------
 TITLE: Pitt, NIH agree on 59% indirect research costs [12]
 SOURCE: SERPAPI Google Search
 
-The aid provided for U.S. open data or open science policy is intended to cover overhead expenses such as building maintenance, utilities, equipment, and support staff.
+Federal funding for research at the University of Pittsburgh includes aid to cover overhead expenses such as building maintenance, utilities, equipment, and support staff.
+------------------------------------------------------------
+TITLE: Direct vs. Indirect costs [13]
+SOURCE: SERPAPI Google Search
+
+Indirect costs are expenses that are essential for business operations but are not directly associated with a specific product or service.
 ------------------------------------------------------------
 
 ============================================================
@@ -118,23 +128,24 @@ The aid provided for U.S. open data or open science policy is intended to cover 
 
 1. Impact Metrics on Publisher Platforms: Who Shows What Where? — https://scholarlykitchen.sspnet.org/2025/11/11/impact-metrics-on-publisher-platforms-who-shows-what-where/
 2. The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge — https://scholarlykitchen.sspnet.org/2025/11/12/the-next-open-revolution-equity-impact-and-the-architecture-of-knowledge/
-3. Building Participatory Data Infrastructures Across Disciplines and Geographies — https://codata.org/blog/2025/11/07/building-participatory-data-infrastructures-across-disciplines-and-geographies/
-4. Hurricane Melissa: UNESCO provides emergency support to the Caribbean — http://cssp-jnu.blogspot.com/2025/11/hurricane-melissa-unesco-provides.html
+3. Hurricane Melissa: UNESCO provides emergency support to the Caribbean — http://cssp-jnu.blogspot.com/2025/11/hurricane-melissa-unesco-provides.html
+4. CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram — http://cssp-jnu.blogspot.com/2025/11/cfp-cii-delhi-technology-summit-2025.html
 5. Artificial intelligence in data-driven decision making — https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2584802
 6. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
 7. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
-8. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
-9. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
-10. Data Governance The Definitive Guide — https://ww2.jacksonms.gov/fulldisplay/z0lmsk/7OK134/DataGovernanceTheDefinitiveGuide.pdf
-11. Save public health data to save American lives — https://fedscoop.com/federal-public-health-data-trump-administration/
+8. What's Next for Federal Evidence-Based Policymaking — https://fas.org/publication/evidence-based-policymaking/
+9. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
+10. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
+11. After Coalition S disrupted scientific publishing, new plan ... — https://www.science.org/content/article/after-coalition-s-disrupted-scientific-publishing-new-plan-retreats-strict-requirements
 12. Pitt, NIH agree on 59% indirect research costs — https://www.wesa.fm/health-science-tech/2025-11-07/university-pittsburgh-federal-funding-research-costs
-13. The Ongoing Battle in Higher Education Over Using ... — https://freedomforallamericans.org/chatgpt-education-debate/
-14. American Council on Education — https://www.acenet.edu/Pages/default.aspx
-15. What's Next for Federal Evidence-Based Policymaking — https://fas.org/publication/evidence-based-policymaking/
-16. not just because it confirms my earlier reporting, but ... — https://x.com/PhilOnEdTech/status/1988759245261885582
+13. Direct vs. Indirect costs — https://www.slash.com/expense-categories/direct-indirect
+14. As court ruling nears, here is how Duke has braced for F&A ... — https://dukechronicle.com/article/afecdd1e-c9c1-4e01-aa4d-8a070b466da8
+15. Save public health data to save American lives — https://fedscoop.com/federal-public-health-data-trump-administration/
+16. American Council on Education — https://www.acenet.edu/Pages/default.aspx
+17. TOMORROW: Join ASPET in a town hall ... — https://www.facebook.com/ASPETpage/posts/tomorrow-join-aspet-in-a-town-hall-meeting-to-learn-about-the-financial-accounta/1446925823985685/
 
 ============================================================
-RUNTIME: 61.34 s
-ESTIMATED TOKENS: 2414
-ESTIMATED COST (USD): $0.0308
+RUNTIME: 56.72 s
+ESTIMATED TOKENS: 2080
+ESTIMATED COST (USD): $0.028
 ============================================================
