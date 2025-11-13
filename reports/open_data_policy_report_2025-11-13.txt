@@ -5,15 +5,15 @@ Generated on November 13, 2025
 🔗 META-SUMMARY WITH NUMBERED REFERENCES
 ============================================================
 
-1. Major publishers display a limited range of journal-level impact metrics on their platforms, with the Journal Impact Factor being the most common metric shown. [1] [2] [3] [4] [5] [6]
+1. Major publishers typically display 6 journal-level impact metrics, with the Journal Impact Factor being most common. [1] [2] [3] [4]
 
-2. Efforts to clarify the use of Creative Commons licenses in communications have spanned a decade due to persistent confusion in the community. [7] [8] [3]
+2. Ongoing efforts aim to clarify and simplify Creative Commons licenses after years of community confusion. [5] [6] [4] [7] [8] [9]
 
-3. Organizations play a crucial role in supporting open data and open science policies through training, infrastructure development, and policy creation to enforce data management and stewardship. [9] [10] [11] [5] [12] [13]
+3. The U.S. government's online resource removals comply with the 2019 OPEN Government Data Act. [10] [11] [12] [13] [14] [11]
 
-4. The U.S. government is dismantling knowledge accumulation by proposing drastic budget cuts to the NSF, which could significantly impact scientific research. [6] [2] [1] [9] [14] [12]
+4. The implementation of the Fair Guiding Principles can support open data and open science policies. [12] [13] [3] [13] [15] [11]
 
-5. The FAIR model advocates for transparency and accountability in funding the full costs of research, driving discussions on financial accountability and policy adoption. [15] [16] [17] [16] [18] [9]
+5. The proposed 2026 budget may see a significant reduction in funding for the National Science Foundation. [7] [13] [13] [12] [9] [3]
 
 
 
@@ -21,95 +21,80 @@ Generated on November 13, 2025
 📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
 ============================================================
 
-TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [8]
-SOURCE: The Scholarly Kitchen
-
-The text discusses the use of AI in scholarly communications and publishing, prompting individuals to share their favorite AI hacks within the field.
-------------------------------------------------------------
 TITLE: The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge [2]
 SOURCE: The Scholarly Kitchen
 
-Alison Mudditt discusses the need to make the scholarly communication system more equitable, impactful, and future-ready, as highlighted in a session at the Charleston Conference.
+Alison Mudditt discusses the need to make the scholarly communication system more equitable, impactful, and future-ready.
 ------------------------------------------------------------
 TITLE: Impact Metrics on Publisher Platforms: Who Shows What Where? [1]
 SOURCE: The Scholarly Kitchen
 
-major publishers display 6 journal-level impact metrics on their platforms, with the Journal Impact Factor being the only metric shown on all 12 platforms reviewed.
+Major publishers typically display an average of 6 journal-level impact metrics on their platforms, with the Journal Impact Factor being the only metric shown on all 12 publishers' platforms.
 ------------------------------------------------------------
-TITLE: Revisiting: Years and Years of Creative Commons Confusion [7]
+TITLE: Revisiting: Years and Years of Creative Commons Confusion [5]
 SOURCE: The Scholarly Kitchen
 
-Confusion surrounding Creative Commons licenses persists within the communications community, prompting a decade-long effort to provide clarity on their usage.
+The communications community still finds Creative Commons licenses confusing, with ongoing efforts to provide clarity through articles over a decade.
 ------------------------------------------------------------
-TITLE: Hurricane Melissa: UNESCO provides emergency support to the Caribbean [3]
+TITLE: Hurricane Melissa: UNESCO provides emergency support to the Caribbean [8]
 SOURCE: JCU Sci Policy
 
-and Haiti after Hurricane Melissa, aiming to maintain educational continuity, assess cultural heritage damage, and enhance information reliability during crises through media efforts. The assistance included replacing teaching materials, conducting damage assessments, offering psychosocial support, and strengthening fact-checking platforms for journalists.
+and Haiti after Hurricane Melissa hit the Caribbean, focusing on sustaining education, assessing damage to cultural heritage, and ensuring reliable information during crises through media programs. The aid includes replacing teaching materials, conducting assessments, stabilizing monuments, and strengthening information access in times of crisis.
 ------------------------------------------------------------
-TITLE: The Fair Guiding Principles For Scientific Data ... [9]
+TITLE: The Fair Guiding Principles For Scientific Data ... [12]
 SOURCE: SERPAPI Google Search
 
-Organizations can support the adoption of open data or open science policies by providing training, developing infrastructure to support data sharing, and creating policies to enforce data management and stewardship.
+Organizations can facilitate the adoption of open data or open science policies by offering training, building supportive infrastructure for data sharing, and implementing policies that enforce data management and stewardship.
 ------------------------------------------------------------
-TITLE: Reimagining open science for global health: Epistemic power ... [11]
+TITLE: Reimagining open science for global health: Epistemic power ... [13]
 SOURCE: SERPAPI Google Search
 
-Open data or open science (OS) policies have the potential to address imbalances by promoting knowledge and data sharing and facilitating fair collaborations between countries in the Global North and Global South.
+Open Science (OS) has the potential to address knowledge and data sharing imbalances by promoting equal collaborations between countries in the Global North and South.
 ------------------------------------------------------------
-TITLE: Data Governance The Definitive Guide [10]
+TITLE: 2025 United States government online resource removals [10]
 SOURCE: SERPAPI Google Search
 
-Organizations should establish comprehensive policies that address data management practices such as data access, sharing, and retention to ensure effective governance of open data or open science initiatives.
+The 2019 OPEN Government Data Act mandated US government agencies to share data for evaluation of program effectiveness and decision-making purposes.
 ------------------------------------------------------------
-TITLE: 2025 United States government online resource removals [14]
+TITLE: Save public health data to save American lives [14]
 SOURCE: SERPAPI Google Search
 
-The OPEN Government Data Act in 2019 mandated that U.S. agencies share data to improve program evaluation and decision-making.
+The Coleridge Initiative is working to facilitate the sharing and management of public health data between states, bypassing the need for federal government consolidation of state data.
 ------------------------------------------------------------
-TITLE: The government AI experiment Is working. Now scale it up. [12]
+TITLE: The government AI experiment Is working. Now scale it up. [9]
 SOURCE: SERPAPI Google Search
 
-Congress should allocate funding for multi-year AI projects with clear goals in order to support open data and open science policy initiatives. Agencies should be empowered to take swift action to scale up these projects effectively.
+Congress should allocate funding for multi-year projects with clearly defined goals, allowing agencies to rapidly progress in their efforts.
 ------------------------------------------------------------
-TITLE: What is Open Access - Open Access Publishing [4]
+TITLE: What is Open Access - Open Access Publishing [11]
 SOURCE: SERPAPI Google Search
 
-Open Access policy ensures that information is freely available, published online, and has limited restrictions on its use or reproduction.
+Open Access refers to information that is freely available online, published digitally, and has minimal use or reproduction restrictions.
 ------------------------------------------------------------
-TITLE: After Coalition S disrupted scientific publishing, new plan ... [13]
+TITLE: After Coalition S disrupted scientific publishing, new plan ... [6]
 SOURCE: SERPAPI Google Search
 
-The U.S. open data or open science policy aims to surpass previous voluntary initiatives to advance open-access publishing. The new plan is less stringent than the disrupted Plan S mandate.
+The original intent of Plan S was to surpass previous voluntary efforts to promote open-access publishing, but the group has now retreated from such strict requirements.
 ------------------------------------------------------------
-TITLE: Artificial intelligence in data-driven decision making [5]
+TITLE: Artificial intelligence in data-driven decision making [3]
 SOURCE: SERPAPI Google Search
 
-This article critically reviews literature on the intersection of data-driven decision making, data ethics, and the impact of U.S. open data or open science policy.
+The text provides a critical review of literature on the intersection of data-driven decision making, data ethics, and their impact on open data or open science policy in the U.S.
 ------------------------------------------------------------
-TITLE: Week After Week, The US is Dismantling Knowledge ... [6]
+TITLE: The Ongoing Battle in Higher Education Over Using ... [4]
 SOURCE: SERPAPI Google Search
 
-The Trump administration's proposed 2026 budget includes a 55% reduction in NSF funding, cutting it from $9 billion to $4 billion, which would significantly impact American scientific research.
+Universities are currently grappling with the impact of ChatGPT on academic integrity, learning quality, and fairness. This technology presents challenges that need to be addressed in the context of open data and open science policy.
 ------------------------------------------------------------
-TITLE: Pitt, NIH agree on 59% indirect research costs [16]
+TITLE: Week After Week, The US is Dismantling Knowledge ... [7]
 SOURCE: SERPAPI Google Search
 
-The National Institutes of Health (NIH) under the Trump administration aimed to reduce indirect research costs to 15%, but the University of Pittsburgh secured an agreement for federal funding of research costs at 59%.
-------------------------------------------------------------
-TITLE: TOMORROW: Join ASPET in a town hall ... [17]
-SOURCE: SERPAPI Google Search
-
-A town hall meeting hosted by ASPET will discuss the Financial Accountability In Research (FAIR) Model, which is a new approach to supporting research.
+The proposed 2026 budget by Trump includes a 55% reduction in funding for the National Science Foundation, potentially decreasing its budget from $9 billion to $4 billion.
 ------------------------------------------------------------
 TITLE: American Council on Education [15]
 SOURCE: SERPAPI Google Search
 
-The Joint Associations Group on Indirect Costs is advocating for policymakers to adopt the FAIR model for open data or open science policy, which promotes transparency and accountability in funding the full costs.
-------------------------------------------------------------
-TITLE: News Archive [18]
-SOURCE: SERPAPI Google Search
-
-APLU President Waded Cruzado released a statement regarding the Joint Associations Group's Financial Accountability in Research (FAIR).
+The Joint Associations Group on Indirect Costs is advocating for policymakers to adopt the FAIR model for sustaining full costs in U.S. open data or open science policy.
 ------------------------------------------------------------
 
 ============================================================
@@ -118,25 +103,22 @@ APLU President Waded Cruzado released a statement regarding the Joint Associatio
 
 1. Impact Metrics on Publisher Platforms: Who Shows What Where? — https://scholarlykitchen.sspnet.org/2025/11/11/impact-metrics-on-publisher-platforms-who-shows-what-where/
 2. The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge — https://scholarlykitchen.sspnet.org/2025/11/12/the-next-open-revolution-equity-impact-and-the-architecture-of-knowledge/
-3. Hurricane Melissa: UNESCO provides emergency support to the Caribbean — http://cssp-jnu.blogspot.com/2025/11/hurricane-melissa-unesco-provides.html
-4. What is Open Access - Open Access Publishing — https://jefflibraries.libguides.com/OpenAccess
-5. Artificial intelligence in data-driven decision making — https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2584802
-6. Week After Week, The US is Dismantling Knowledge ... — https://www.techpolicy.press/week-after-week-the-us-is-dismantling-knowledge-infrastructure/
-7. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
-8. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
-9. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
-10. Data Governance The Definitive Guide — https://ww2.jacksonms.gov/fulldisplay/z0lmsk/7OK134/DataGovernanceTheDefinitiveGuide.pdf
-11. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
-12. The government AI experiment Is working. Now scale it up. — http://www.fcw.com/ideas/2025/11/government-ai-experiment-working-now-scale-it/409493/?oref=ng-homepage-river
-13. After Coalition S disrupted scientific publishing, new plan ... — https://www.science.org/content/article/after-coalition-s-disrupted-scientific-publishing-new-plan-retreats-strict-requirements
-14. 2025 United States government online resource removals — https://en.wikipedia.org/wiki/2025_United_States_government_online_resource_removals
+3. Artificial intelligence in data-driven decision making — https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2584802
+4. The Ongoing Battle in Higher Education Over Using ... — https://freedomforallamericans.org/chatgpt-education-debate/
+5. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
+6. After Coalition S disrupted scientific publishing, new plan ... — https://www.science.org/content/article/after-coalition-s-disrupted-scientific-publishing-new-plan-retreats-strict-requirements
+7. Week After Week, The US is Dismantling Knowledge ... — https://www.techpolicy.press/week-after-week-the-us-is-dismantling-knowledge-infrastructure/
+8. Hurricane Melissa: UNESCO provides emergency support to the Caribbean — http://cssp-jnu.blogspot.com/2025/11/hurricane-melissa-unesco-provides.html
+9. The government AI experiment Is working. Now scale it up. — http://www.fcw.com/ideas/2025/11/government-ai-experiment-working-now-scale-it/409493/?oref=ng-homepage-river
+10. 2025 United States government online resource removals — https://en.wikipedia.org/wiki/2025_United_States_government_online_resource_removals
+11. What is Open Access - Open Access Publishing — https://jefflibraries.libguides.com/OpenAccess
+12. The Fair Guiding Principles For Scientific Data ... — https://ww2.jacksonms.gov/uploaded-files/W4c7s2/7OK144/the__fair_guiding__principles-for_scientific-data__management__and-stewardship.pdf
+13. Reimagining open science for global health: Epistemic power ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12591430/
+14. Save public health data to save American lives — https://fedscoop.com/federal-public-health-data-trump-administration/
 15. American Council on Education — https://www.acenet.edu/Pages/default.aspx
-16. Pitt, NIH agree on 59% indirect research costs — https://www.wesa.fm/health-science-tech/2025-11-07/university-pittsburgh-federal-funding-research-costs
-17. TOMORROW: Join ASPET in a town hall ... — https://www.facebook.com/ASPETpage/posts/tomorrow-join-aspet-in-a-town-hall-meeting-to-learn-about-the-financial-accounta/1446925823985685/
-18. News Archive — https://aplu.mystagingwebsite.com/news-and-media/news/
 
 ============================================================
-RUNTIME: 60.3 s
-ESTIMATED TOKENS: 2104
-ESTIMATED COST (USD): $0.0291
+RUNTIME: 60.17 s
+ESTIMATED TOKENS: 2064
+ESTIMATED COST (USD): $0.0272
 ============================================================
