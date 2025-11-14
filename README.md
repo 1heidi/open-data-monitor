@@ -4,15 +4,15 @@
 This project automatically searches for, summarizes, and reports on recent (past 7 days) developments in **U.S. open data and science policy**, focusing on academic and federal agency activity.
 
 It:
-1. Gathers recent web articles and policy news from:
-   a. Queries of RSS feeds (e.g., NIH, NSF, OSTP)
+1. Gathers recent web articles and policy news from:  
+   a. Queries of RSS feeds (e.g., NIH, NSF, OSTP)  
    b. Broad Google searches of science news sites (via SERPAPI)  
    c. General Google search for keywords (via SERPAPI)    
-3. Summarizes findings via OpenAI GPT models with: 
-   a. Explicit instruction: *“Do not fabricate or infer connections.”*
-   b. Source citation with URL for human verification
+3. Summarizes findings via OpenAI GPT models with:  
+   a. Explicit instruction: *“Do not fabricate or infer connections.”*  
+   b. Source citation with URL for human verification  
 4. Generates a report containing:  
-   a. Meta-summary highlighting key trends
+   a. Meta-summary highlighting key trends  
    b. Individual content summaries  
 5. Saves the report in /reports and emails the TXT automatically every Sunday
 
