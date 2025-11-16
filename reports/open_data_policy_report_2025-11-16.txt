@@ -1,0 +1,124 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on November 16, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. Scholarly communications experts highlight AI hacks' importance in publishing. [1] [2] [3] [4] [5] [6]
+
+2. Major publishers differ in displaying journal-level impact metrics. [7] [3] [8] [9] [10]
+
+3. Confusion persists around Creative Commons licenses in the communications community. [4] [1]
+
+4. Focus on equitability and impact in scholarly communication is growing. [3] [7] [11] [1] [4] [5]
+
+5. NEC Corporation provides solutions to advance open science initiatives for research institutions. [12] [10] [13] [9] [14] [15]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Preserving Human Ingenuity for a Future Planet Ruled By Octopuses [11]
+SOURCE: The Scholarly Kitchen
+
+The post discusses the concept of preserving human ingenuity for a future planet dominated by octopuses, where an engineer and musician teaches an octopus to play the piano.
+------------------------------------------------------------
+TITLE: Ask the Chefs: What’s Your Favorite AI Hack? [1]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the importance of AI in scholarly communications and publishing by asking experts about their favorite AI hacks.
+------------------------------------------------------------
+TITLE: The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge [3]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the importance of making the scholarly communication system more equitable, impactful, and future-ready by analyzing the next open revolution. The author, Alison Mudditt, reflects on a Charleston Conference session dedicated to exploring this topic.
+------------------------------------------------------------
+TITLE: Impact Metrics on Publisher Platforms: Who Shows What Where? [7]
+SOURCE: The Scholarly Kitchen
+
+major publishers showcase 6 journal-level impact metrics on their platforms, with the Journal Impact Factor being the only metric displayed across all 12 publishers analyzed.
+------------------------------------------------------------
+TITLE: Revisiting: Years and Years of Creative Commons Confusion [4]
+SOURCE: The Scholarly Kitchen
+
+The communications community is still struggling with confusion around Creative Commons licenses, with ongoing efforts to provide clarity through articles collected over a decade.
+------------------------------------------------------------
+TITLE: CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram [5]
+SOURCE: JCU Sci Policy
+
+The 6th CII Delhi Technology Summit in 2025 will focus on "Agentic AI, IoT & Sovereign Compute: India's Quantum-Ready Frontier," emphasizing the importance of self-reliance in digital technologies and the development of a quantum-ready ecosystem to secure India's position as a global technology leader. The Summit will feature panel discussions on AI, IoT, sovereign compute, semiconductors, and quantum readiness, with participation from industry leaders and experts.
+------------------------------------------------------------
+TITLE: Data Science Dispatch | NIAID [15]
+SOURCE: SERPAPI Google Search
+
+The Data Science Dispatch emphasizes the significance of data science, data sharing, bioinformatics, and artificial intelligence/machine learning in the U.S. open data and open science policy.
+------------------------------------------------------------
+TITLE: Open Access Types - Open Access Publishing [2]
+SOURCE: SERPAPI Google Search
+
+The NIH Public Access mandates and JHU Open Access Policy require scholarly work to be made open access through Gold, Hybrid, and Diamond Open Access types.
+------------------------------------------------------------
+TITLE: Elsevier Open Access Publishing - LibGuides [6]
+SOURCE: SERPAPI Google Search
+
+UToledo researchers have actively engaged in open access publishing under the National Institutes of Health mandate and PubMedCentral, as well as the arXiv preprint platform.
+------------------------------------------------------------
+TITLE: Data sovereignty: What it is and compliance considerations [8]
+SOURCE: SERPAPI Google Search
+
+highlighting laws such as GDPR, CCPA, and CSL that impact compliance. It also mentions strategies that businesses can adopt to ensure security and compliance.
+------------------------------------------------------------
+TITLE: LibGuides: Research data management: Discovery and reuse [13]
+SOURCE: SERPAPI Google Search
+
+proper citation, and the application of the FAIR principles (Findable, Accessible, Interoperable, Reusable) in U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: NEC Advances Research Information Infrastructure for ... [12]
+SOURCE: SERPAPI Google Search
+
+NEC Corporation has released a new set of solutions for research institutions, including universities, to advance open science initiatives.
+------------------------------------------------------------
+TITLE: Research Grants on Improving the Use of ... [9]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy allows for major research grants ranging from $100,000 to $1,000,000 over 2-4 years, with up to 15% indirect costs included. Studies involving secondary data analysis tend to receive grants on the lower end of the spectrum.
+------------------------------------------------------------
+TITLE: Frontiers | Publisher of peer-reviewed articles in open access ... [14]
+SOURCE: SERPAPI Google Search
+
+Frontiers in open data and open science policy offers a platform for academics to access peer-reviewed scientific articles across various academic disciplines, promoting open access and sharing of research findings. This network helps researchers to stay current with the latest advancements in their fields and collaborate with other scholars in a transparent and accessible manner.
+------------------------------------------------------------
+TITLE: Funding for Open Access Publications - Research Guides [10]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy requires publishers to make articles or monographs open access upon publication and ensure they remain permanently open access.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Ask the Chefs: What’s Your Favorite AI Hack? — https://scholarlykitchen.sspnet.org/2025/11/13/ask-the-chefs-whats-your-favorite-ai-hack/
+2. Open Access Types - Open Access Publishing — https://browse.welch.jhmi.edu/writing_publishing/oa_types
+3. The Next Open Revolution: Equity, Impact, and the Architecture of Knowledge — https://scholarlykitchen.sspnet.org/2025/11/12/the-next-open-revolution-equity-impact-and-the-architecture-of-knowledge/
+4. Revisiting: Years and Years of Creative Commons Confusion — https://scholarlykitchen.sspnet.org/2025/11/10/revisiting-years-and-years-of-creative-commons-confusion/
+5. CfP: CII Delhi Technology Summit 2025 | 27th November, Gurugram — http://cssp-jnu.blogspot.com/2025/11/cfp-cii-delhi-technology-summit-2025.html
+6. Elsevier Open Access Publishing - LibGuides — https://libguides.utoledo.edu/c.php?g=1386878&p=10257178
+7. Impact Metrics on Publisher Platforms: Who Shows What Where? — https://scholarlykitchen.sspnet.org/2025/11/11/impact-metrics-on-publisher-platforms-who-shows-what-where/
+8. Data sovereignty: What it is and compliance considerations — https://www.expressvpn.com/blog/data-sovereignty/?srsltid=AfmBOooMxzL_-u8ykh-kB2aBSmDDfWvj83s7QFvcs0j8r4txahVyVncA
+9. Research Grants on Improving the Use of ... — https://wtgrantfoundation.org/funding/research-grants-on-improving-use-of-research-evidence
+10. Funding for Open Access Publications - Research Guides — https://libguides.uark.edu/OAMoney/PublishingFund
+11. Preserving Human Ingenuity for a Future Planet Ruled By Octopuses — https://scholarlykitchen.sspnet.org/2025/11/14/teaching-an-octopus-to-play-the-piano/
+12. NEC Advances Research Information Infrastructure for ... — https://www.nec.com/en/press/202511/global_20251114_01.html
+13. LibGuides: Research data management: Discovery and reuse — https://deakin.libguides.com/research-data-management/discovery-and-reuse
+14. Frontiers | Publisher of peer-reviewed articles in open access ... — https://www.frontiersin.org/
+15. Data Science Dispatch | NIAID — https://www.niaid.nih.gov/research/data-science-dispatch
+
+============================================================
+RUNTIME: 56.54 s
+ESTIMATED TOKENS: 2153
+ESTIMATED COST (USD): $0.0275
+============================================================
