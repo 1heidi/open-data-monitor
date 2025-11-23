@@ -1,0 +1,148 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on November 23, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The diversity of methods, models, and philosophies in scholarly communication creates a healthy ecosystem. [1] [2] [3] [4] [5] [6]
+
+2. The global scholarly publishing ecosystem has evolved into a diverse hybrid system beyond open access. [3] [4] [7] [2] [8] [9]
+
+3. Large-scale data sharing is essential for advancing human genetics and genomics research. [10] [5] [9] [11] [12] [13]
+
+4. The FAIR principles aim to enhance research integrity by promoting data findability, accessibility, interoperability, and reusability. [13] [5] [14] [11] [14] [15]
+
+5. The U.S. open data policy emphasizes transparency and accessibility in government data, including the implementation of AI in a positive manner. [16] [17] [11] [18] [19] [7]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Guest Post — Five Years of GetFTR: A discussion with Librarians on Access, Integrity, and Collaboration [6]
+SOURCE: The Scholarly Kitchen
+
+its effectiveness and value to libraries and researchers are discussed by four librarians. The focus is on access, integrity, and collaboration, with opportunities for improvement in the future.
+------------------------------------------------------------
+TITLE: Reimagining Scholarly Publishing Workflow: A High-Level Map of What Changes Next [2]
+SOURCE: The Scholarly Kitchen
+
+The text discusses the potential to redesign scholarly publishing workflows to incorporate human-AI collaboration, rather than merely adding AI to existing processes. It highlights the opportunity for rethinking and restructuring these workflows for improved efficiency and effectiveness.
+------------------------------------------------------------
+TITLE: In Defense of Pluralism and Diversity: A Modest Manifesto for the Future of Scholarly Communication (Part 2 of 2) [1]
+SOURCE: The Scholarly Kitchen
+
+A healthy scholarly ecosystem should embrace pluralism by allowing for a variety of methods, models, and philosophies to coexist, as no single form of scholarly communication is perfect.
+------------------------------------------------------------
+TITLE: The Global Transition Has Already Happened – It’s Just Not the One You Expected (Part 1 of 2) [3]
+SOURCE: The Scholarly Kitchen
+
+The global scholarly publishing ecosystem has transitioned to a diverse hybrid system rather than solely to open access.
+------------------------------------------------------------
+TITLE: Data Without Borders: Reflections from International Data Week 2025, Brisbane [19]
+SOURCE: CODATA Blog
+
+International Data Week 2025 in Brisbane brought together a diverse group of individuals interested in open data and open science policy. The event was characterized by a sense of excitement and collaboration among attendees.
+------------------------------------------------------------
+TITLE: The value of data sharing and thoughtful stewardship [10]
+SOURCE: SERPAPI Google Search
+
+Large-scale data sharing is crucial for the advancement of human genetics and genomics research and medicine, relying on the willingness of study participants to share their data.
+------------------------------------------------------------
+TITLE: Open Data, Services, and Software Policies [11]
+SOURCE: SERPAPI Google Search
+
+The NASA Earth Science Data Systems program involves promoting extensive transparency by sharing various forms of data, metadata, models, images, research results, and source code openly.
+------------------------------------------------------------
+TITLE: Proposed Data Collection Submitted for Public Comment ... [12]
+SOURCE: SERPAPI Google Search
+
+Individuals can submit comments to the Health and Human Services Department after filling in required fields.
+------------------------------------------------------------
+TITLE: Federal - Open Government Portal - Canada.ca [17]
+SOURCE: SERPAPI Google Search
+
+The text does not provide information on U.S. open data or open science policy.
+------------------------------------------------------------
+TITLE: Open Maps - Open Government Portal - Canada.ca [18]
+SOURCE: SERPAPI Google Search
+
+The text outlines a feature allowing users to search for geospatial data or select multiple datasets to plot on a map. By clicking "View on Map", users can visualize and overlay the selected data sets.
+------------------------------------------------------------
+TITLE: What is Open Access and Why Does it Matter? - Open Access [4]
+SOURCE: SERPAPI Google Search
+
+Open Access (OA) policy pertains to free online access to scholarly publications. This approach aligns with established norms of scholarly communication.
+------------------------------------------------------------
+TITLE: Open Access: Green OA - Library Guides - Penn State [8]
+SOURCE: SERPAPI Google Search
+
+such as green and gold open access, funder policies, and open access practices at Penn State.
+------------------------------------------------------------
+TITLE: Open Access - Library Guides at UChicago [7]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data and open science policy aims to eliminate barriers to accessing scholarly content, as emphasized by Peter Suber in the OA movement. This policy focuses on promoting the free availability of research literature and data.
+------------------------------------------------------------
+TITLE: The ethical importance of accurate data: it's only FAIR [13]
+SOURCE: SERPAPI Google Search
+
+The FAIR principles were created in response to challenges around reproducibility and fragmented data structures in the field of open data and open science. These principles aim to promote findability, accessibility, interoperability, and reusability of data to enhance research integrity.
+------------------------------------------------------------
+TITLE: Large language models and research progress: A Q&A with ... [5]
+SOURCE: SERPAPI Google Search
+
+Sharing large language model (LLM) interactions for research purposes would adhere to FAIR data principles, focusing on findability, accessibility, interoperability, and reusability of the data.
+------------------------------------------------------------
+TITLE: Open infrastructure, open data: Our role in advancing OA ... [9]
+SOURCE: SERPAPI Google Search
+
+The text discusses how community-driven data has been instrumental in supporting research on open access publishing trends by providing open and downloadable historical datasets under CC BY license.
+------------------------------------------------------------
+TITLE: The Trump administration is drafting an executive order ... [16]
+SOURCE: SERPAPI Google Search
+
+The new U.S. open data policy requires agencies to establish standards for the implementation of AI in a positive manner, while also emphasizing the importance of transparency and accessibility in government data.
+------------------------------------------------------------
+TITLE: Tackling Indirect Research Costs with the JAG FAIR Model [14]
+SOURCE: SERPAPI Google Search
+
+The Financial Accountability in Research (FAIR) Model, developed by JAG, aims to address various challenges in the funding process by establishing an auditable payment structure.
+------------------------------------------------------------
+TITLE: November 21, 2025 Academy Policy & Legislative Update [15]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group (JAG) is inviting Academy Members to a presentation on the FAIR principles. This event will likely focus on promoting open data and open science policies in the United States.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. In Defense of Pluralism and Diversity: A Modest Manifesto for the Future of Scholarly Communication (Part 2 of 2) — https://scholarlykitchen.sspnet.org/2025/11/18/a-modest-manifesto-five-points-for-the-future-of-scholarly-communication-part-2-of-2/
+2. Reimagining Scholarly Publishing Workflow: A High-Level Map of What Changes Next — https://scholarlykitchen.sspnet.org/2025/11/20/reimagining-scholarly-publishing-workflow-a-high-level-map-of-what-changes-next/
+3. The Global Transition Has Already Happened – It’s Just Not the One You Expected (Part 1 of 2) — https://scholarlykitchen.sspnet.org/2025/11/17/the-global-transition-has-already-happened-its-just-not-the-one-you-expected-part-1-of-2/
+4. What is Open Access and Why Does it Matter? - Open Access — https://libguides.brown.edu/oa
+5. Large language models and research progress: A Q&A with ... — https://news.engin.umich.edu/2025/11/large-language-models-and-research-progress-a-qa-with-ricardo-vinuesa/
+6. Guest Post — Five Years of GetFTR: A discussion with Librarians on Access, Integrity, and Collaboration — https://scholarlykitchen.sspnet.org/2025/11/21/guest-post-five-years-of-getftr-a-discussion-with-librarians-on-access-integrity-and-collaboration/
+7. Open Access - Library Guides at UChicago — https://guides.lib.uchicago.edu/openaccess
+8. Open Access: Green OA - Library Guides - Penn State — https://guides.libraries.psu.edu/open-access/green
+9. Open infrastructure, open data: Our role in advancing OA ... — https://blog.doaj.org/2025/11/19/open-infrastructure-open-data-our-role-in-advancing-oa-research/
+10. The value of data sharing and thoughtful stewardship — https://pubmed.ncbi.nlm.nih.gov/41270743/
+11. Open Data, Services, and Software Policies — https://www.earthdata.nasa.gov/engage/open-data-services-software-policies
+12. Proposed Data Collection Submitted for Public Comment ... — https://www.federalregister.gov/documents/2025/11/21/2025-20582/proposed-data-collection-submitted-for-public-comment-and-recommendations
+13. The ethical importance of accurate data: it's only FAIR — https://agi.fightersteel.com/the-ethical-importance-of-accurate-data-its-only-fair/
+14. Tackling Indirect Research Costs with the JAG FAIR Model — https://awis.org/resource/tackling-indirect-research-costs-with-the-jag-fair-model/
+15. November 21, 2025 Academy Policy & Legislative Update — http://www.acadrad.org/wp-content/uploads/2025/11/11.21.25-Policy-Legislative-Update.pdf
+16. The Trump administration is drafting an executive order ... — https://www.facebook.com/groups/msnbcnewsjunkies/posts/3229863580508830/
+17. Federal - Open Government Portal - Canada.ca — https://search.open.canada.ca/opendata?owner_org=pwgsc-tpsgc
+18. Open Maps - Open Government Portal - Canada.ca — https://search.open.canada.ca/opendata/?page=1&sort=metadata_modified%20desc&collection=fgp
+19. Data Without Borders: Reflections from International Data Week 2025, Brisbane — https://codata.org/blog/2025/11/18/data-without-borders-reflections-from-international-data-week-2025-brisbane/
+
+============================================================
+RUNTIME: 59.51 s
+ESTIMATED TOKENS: 2235
+ESTIMATED COST (USD): $0.0292
+============================================================
