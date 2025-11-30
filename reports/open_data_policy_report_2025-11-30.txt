@@ -1,0 +1,148 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on November 30, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. The Genesis Mission Executive Order focuses on leveraging artificial intelligence for strategic advantage and enhancing U.S. competitiveness in various sectors. [1] [2] [2] [3] [4] [5]
+
+2. Flexible work arrangements are crucial for individuals balancing work and caregiving responsibilities. [6] [7] [5] [8] [9] [10]
+
+3. Metadata plays a key role in making datasets compliant with FAIR Data Principles, enhancing their findability and usability. [8] [11] [7] [12] [13] [3]
+
+4. The Joint Associations Group on Indirect Costs advocates for adopting the FAIR model to ensure transparency and accountability in funding open data and open science initiatives. [14] [15] [16] [17] [18] [11]
+
+5. Direct vs. Indirect Costs in federal research funding are essential for supporting important discoveries and maintaining research labs. [17] [17] [16] [14] [15] [19]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Mental Health Awareness Mondays — Balancing Work and Caregiving: Flexibility That Works for Everyone [6]
+SOURCE: The Scholarly Kitchen
+
+as nearly one in four adults serve in this role. It is emphasized that this flexibility is not just beneficial but essential for both individuals and organizations.
+------------------------------------------------------------
+TITLE: A user-driven consent platform for health data sharing in ... [12]
+SOURCE: SERPAPI Google Search
+
+The U.S. open data or open science policy allows users to control the sharing of pseudonymised health data for research and product development purposes. This policy pertains specifically to health care and health policy.
+------------------------------------------------------------
+TITLE: HPC Data Protection Policy [13]
+SOURCE: SERPAPI Google Search
+
+Individual users are responsible for managing and sharing their research data in accordance with their data management plans.
+------------------------------------------------------------
+TITLE: White House to consolidate data and research under AI ... [3]
+SOURCE: SERPAPI Google Search
+
+The White House issued the Genesis Mission Executive Order directing the Department of Energy to consolidate various types of data, including open data, federally funded research data, and proprietary data.
+------------------------------------------------------------
+TITLE: Trump signs executive order launching Genesis Mission AI ... [2]
+SOURCE: SERPAPI Google Search
+
+The U.S. government has initiated the "Genesis Mission" for AI, aiming to utilize research and data to develop artificial intelligence. This new federal push emphasizes the importance of leveraging government resources to advance AI technology.
+------------------------------------------------------------
+TITLE: White House launches Genesis Mission to spur AI with ... [4]
+SOURCE: SERPAPI Google Search
+
+The Genesis Mission is a new initiative that aims to promote advanced AI use cases by connecting federal agencies with federal data through an experimentation platform.
+------------------------------------------------------------
+TITLE: Launching the Genesis Mission [5]
+SOURCE: SERPAPI Google Search
+
+The Administration for Presidential Science and Technology will work with other agencies to establish open data and open science policies, in accordance with existing laws and budget allocations.
+------------------------------------------------------------
+TITLE: The “Genesis Mission” Executive Order: AI as Strategic ... [1]
+SOURCE: SERPAPI Google Search
+
+On November 24, 2025, President Trump signed an Executive Order called the Genesis Mission, which aims to leverage artificial intelligence for strategic advantage. This initiative focuses on utilizing data-driven tools and resources to enhance U.S. competitiveness in various sectors.
+------------------------------------------------------------
+TITLE: Data Description - Research Data Management and Sharing [8]
+SOURCE: SERPAPI Google Search
+
+Metadata is crucial for making datasets compliant with the FAIR Data Principles by ensuring they are findable, accessible, interoperable, and reusable. It plays a key role in enhancing the usability and discoverability of open data and open science resources.
+------------------------------------------------------------
+TITLE: Making Data FAIR | ARDC [11]
+SOURCE: SERPAPI Google Search
+
+The FAIR Principles are guidelines aimed at enhancing the findability, accessibility, interoperability, and reusability of digital assets, particularly in the context of open data or open science policy.
+------------------------------------------------------------
+TITLE: Lessons for Preparing Data and Computer Scientists for Work [7]
+SOURCE: SERPAPI Google Search
+
+Students in the U.S. are being exposed to more complex data problems as they learn about FAIR data principles and open science. They are encouraged to not only analyze data but also engage in software development.
+------------------------------------------------------------
+TITLE: Recent Actions - Civicslog [9]
+SOURCE: SERPAPI Google Search
+
+The memo highlights the nomination of multiple individuals for federal positions and instructs the OSTP to review and update the 2024 open data policy.
+------------------------------------------------------------
+TITLE: Important Information on the Financial Accountability in ... [16]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group on Indirect Costs was formed by research associations in collaboration with the federal government and other entities to address budgetary constraints impacting U.S. open data and open science policy.
+------------------------------------------------------------
+TITLE: Direct vs. Indirect Costs: Federal Research Funding ... [17]
+SOURCE: SERPAPI Google Search
+
+Federal funding for research covers both direct and indirect costs, which are essential for maintaining research labs and enabling important discoveries with real-world impact.
+------------------------------------------------------------
+TITLE: Empowering Research with Financial Accountability [18]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group (JAG) has introduced the Financial Accountability in Research (FAIR) model as a transparent and accountable framework.
+------------------------------------------------------------
+TITLE: Joint Associations Group on Indirect Costs Shares Subject ... [14]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group on Indirect Costs recommends policymakers to adopt the FAIR model for open data and open science policies, emphasizing transparency and accountability in funding to cover all costs.
+------------------------------------------------------------
+TITLE: National Organizations Announce Joint Effort to Develop a ... [15]
+SOURCE: SERPAPI Google Search
+
+The Joint Associations Group on Indirect Costs is advocating for policymakers to adopt the FAIR model, which emphasizes transparency and accountability in funding the full costs of U.S. open data and open science initiatives.
+------------------------------------------------------------
+TITLE: INDIRECT COST Definition & Meaning [19]
+SOURCE: SERPAPI Google Search
+
+Indirect costs are business expenses that cannot be directly traced to a specific function or product and are typically fixed costs like land taxes.
+------------------------------------------------------------
+TITLE: What is Open Access publishing? - Research Support and ... [10]
+SOURCE: SERPAPI Google Search
+
+Open Access publishing involves sharing the final published version of research openly and free of charge to readers. This model helps increase access to scholarly work and promotes transparency in the research process.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. The “Genesis Mission” Executive Order: AI as Strategic ... — https://www.spencerfane.com/insight/the-genesis-mission-executive-order-ai-as-strategic-advantage-and-what-it-means-for-your-business/
+2. Trump signs executive order launching Genesis Mission AI ... — https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-launching-genesis-mission-ai-project-rcna245600
+3. White House to consolidate data and research under AI ... — https://www.ans.org/news/article-7583/white-house-to-consolidate-data-and-research-under-aidriven-genesis-mission/
+4. White House launches Genesis Mission to spur AI with ... — https://www.nextgov.com/artificial-intelligence/2025/11/white-house-launches-genesis-mission-spur-ai-federal-assets/409777/
+5. Launching the Genesis Mission — https://www.whitehouse.gov/presidential-actions/2025/11/launching-the-genesis-mission/
+6. Mental Health Awareness Mondays — Balancing Work and Caregiving: Flexibility That Works for Everyone — https://scholarlykitchen.sspnet.org/2025/11/24/mental-health-awareness-mondays-balancing-work-and-caregiving-flexibility-that-works-for-everyone/
+7. Lessons for Preparing Data and Computer Scientists for Work — https://arxiv.org/html/2511.19688v1
+8. Data Description - Research Data Management and Sharing — https://guides.lib.uchicago.edu/datamanagement/metadata
+9. Recent Actions - Civicslog — https://civicslog.com/tags/navy/
+10. What is Open Access publishing? - Research Support and ... — https://libguides.newman.ac.uk/open-access/what-is-open-access-publishing
+11. Making Data FAIR | ARDC — https://ardc.edu.au/resource-hub/making-data-fair/
+12. A user-driven consent platform for health data sharing in ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12657888/
+13. HPC Data Protection Policy — https://inl.gov/hpc/hpc-policies/data-protection-policy/
+14. Joint Associations Group on Indirect Costs Shares Subject ... — https://www.acenet.edu/News-Room/Pages/JAG-Indirect-Costs-Shares-Subject-Matter-Expert-Recommendations.aspx
+15. National Organizations Announce Joint Effort to Develop a ... — https://www.acenet.edu/News-Room/Pages/Statement-New-Indirect-Costs-Funding-Model.aspx
+16. Important Information on the Financial Accountability in ... — https://www.apsnet.org/members/community/phytopathology-news/2025/november-december/Pages/FAIR-model.aspx
+17. Direct vs. Indirect Costs: Federal Research Funding ... — https://www.ucdavis.edu/blog/direct-vs-indirect-costs-federal-research-funding-explained
+18. Empowering Research with Financial Accountability — https://www.instagram.com/ors_society/p/DRcs_i8jK87/
+19. INDIRECT COST Definition & Meaning — https://www.dictionary.com/browse/indirect%20cost
+
+============================================================
+RUNTIME: 54.54 s
+ESTIMATED TOKENS: 2156
+ESTIMATED COST (USD): $0.029
+============================================================
