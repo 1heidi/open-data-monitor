@@ -1,0 +1,142 @@
+OPEN DATA / SCIENCE POLICY MONITOR REPORT
+Generated on December 07, 2025
+
+============================================================
+🔗 META-SUMMARY WITH NUMBERED REFERENCES
+============================================================
+
+1. A new scientific intelligence engine inspired by Thomas Kuhn's theory of scientific revolution has been developed to track progress in real-time. [1] [2] [3] [4] [5] [6]
+
+2. Academic libraries are crucial for supporting quality scholarship, making them an essential investment for college students. [7] [8] [4] [9]
+
+3. The recent EASE / STM webinar explored ways to reduce the digital carbon footprint in scholarly publishing. [10] [7] [11] [12] [12] [13]
+
+4. The National Institutes of Health promotes extensive data sharing among grantees to advance open data and open science practices. [14] [8] [11] [15] [16] [17]
+
+5. Open data initiatives are driving innovation in various sectors, prompting efforts to formalize and expand these initiatives. [3] [14] [16] [11] [18] [15]
+
+
+
+============================================================
+📖 DETAILED SUMMARIES (only entries supporting meta-summary bullets)
+============================================================
+
+TITLE: Chefs’ Selections: Best Media Enjoyed in 2025 (Part 2) [13]
+SOURCE: The Scholarly Kitchen
+
+and cultural expressions encountered in 2025 as part of the Chef's Selections series. The post is from The Scholarly Kitchen website.
+------------------------------------------------------------
+TITLE: Guest Post — Building an Intelligence Infrastructure for Science [1]
+SOURCE: The Scholarly Kitchen
+
+A new scientific intelligence engine has been developed to enable humanity to track its progress in real-time, inspired by Thomas Kuhn's theory of scientific revolution.
+------------------------------------------------------------
+TITLE: Guest Post — What Do College Students Lose When Libraries Are Ignored? [7]
+SOURCE: The Scholarly Kitchen
+
+Academic libraries are seen as crucial for supporting quality scholarship and responsible publishing, serving as an essential investment for college students' academic pursuits.
+------------------------------------------------------------
+TITLE: Guest Post — From Cloud to Carbon: Exploring the Digital Carbon Footprint of Knowledge [10]
+SOURCE: The Scholarly Kitchen
+
+The recent EASE / STM webinar discussed the digital carbon footprint of scholarly publishing, exploring ways to reduce its environmental impact.
+------------------------------------------------------------
+TITLE: November 2025: Publications in the Data Science Journal [11]
+SOURCE: CODATA Blog
+
+The text discusses recent publications in the data science journal, including topics such as digital transformation in materials science and the DS-I Africa Consortium leveraging partnerships for data. The publications highlight the importance of collaboration and innovative approaches in advancing open data and open science policies.
+------------------------------------------------------------
+TITLE: Biomedical data repositories require governance for artificial ... [14]
+SOURCE: SERPAPI Google Search
+
+The National Institutes of Health (NIH) has a history of promoting extensive data sharing among its grantees, with only occasional exceptions provided on a case-by-case basis. This policy is part of the agency's efforts to advance open data and open science practices.
+------------------------------------------------------------
+TITLE: Office of Data Science and Emerging Technologies | NIAID [17]
+SOURCE: SERPAPI Google Search
+
+The Office of Data Science and Emerging Technologies (ODSET) is responsible for leading the development and execution of NIAID's data science strategy.
+------------------------------------------------------------
+TITLE: Data Foundation 2024 Impact Report | LEARN [3]
+SOURCE: SERPAPI Google Search
+
+Open data initiatives have been driving innovation in various sectors, prompting the Data Foundation to formalize and expand their efforts in response to this trend.
+------------------------------------------------------------
+TITLE: Government Documents: Archives of federal data and ... [18]
+SOURCE: SERPAPI Google Search
+
+The Policy Commons 2025 Open Collection aims to preserve materials from government organizations for open access.
+------------------------------------------------------------
+TITLE: What is Open Access - Open Access Publishing [12]
+SOURCE: SERPAPI Google Search
+
+Open Access refers to information that is freely available online with few restrictions on its use or reproduction.
+------------------------------------------------------------
+TITLE: Federal Agencies Roll Out AI Strategy Plans [4]
+SOURCE: SERPAPI Google Search
+
+Federal agencies have been rolling out AI strategy plans focusing on goals such as scalable AI infrastructure, access to quality data, an AI-ready workforce, and proportional resources allocation.
+------------------------------------------------------------
+TITLE: Introduction - FAIR Data - LibGuides at UCD Library [15]
+SOURCE: SERPAPI Google Search
+
+The FAIR Data Principles provide guidelines for ensuring that data is easily discoverable, accessible, and usable by researchers and the public. The principles emphasize the importance of data sharing and interoperability to promote transparency and collaboration in open science.
+------------------------------------------------------------
+TITLE: Data Description - Research Data Management and Sharing [8]
+SOURCE: SERPAPI Google Search
+
+Metadata plays a crucial role in making datasets compliant with the FAIR Data Principles by ensuring they are findable, accessible, interoperable, and reusable. This information helps improve the usability and visibility of open data or open science policies in the U.S.
+------------------------------------------------------------
+TITLE: How Privacy-Preserving Infrastructure Helps Transition ... [5]
+SOURCE: SERPAPI Google Search
+
+Progress is being made in the United States to overcome barriers in linking data systems and promoting open data by default. In 2025, there were significant advancements in this area.
+------------------------------------------------------------
+TITLE: Invest in Open Infrastructure (Page 1) [16]
+SOURCE: SERPAPI Google Search
+
+The U.S. is focusing on building capacity for sustainable and resilient open infrastructure, going beyond just funding to empower networks and advance open data and open science policies. The goal is to ensure a strong foundation for open access and collaboration in research and innovation.
+------------------------------------------------------------
+TITLE: The Political Economy of Artificial Intelligence [2]
+SOURCE: SERPAPI Google Search
+
+In August 2022, the U.S. OSTP released the "Nelson Memo," which mandated a review of copyright implications for open data and open science policies."
+------------------------------------------------------------
+TITLE: Amid proposed federal research funding cuts ... [9]
+SOURCE: SERPAPI Google Search
+
+Shipman from Columbia University endorsed the Financial Accountability in Research Act after meeting with the Association of American Universities in Washington. This act aims to increase transparency and accountability in research funding, which is crucial amid proposed federal funding cuts for research.
+------------------------------------------------------------
+TITLE: Direct vs. Indirect Costs: Differences and Examples [6]
+SOURCE: SERPAPI Google Search
+
+Open data or open science policy in the U.S. involves the disclosure of government-funded research findings and data to the public. This policy aims to increase transparency, collaboration, and innovation in scientific research.
+------------------------------------------------------------
+
+============================================================
+📚 REFERENCES (unique supporting sources)
+============================================================
+
+1. Guest Post — Building an Intelligence Infrastructure for Science — https://scholarlykitchen.sspnet.org/2025/12/03/guest-post-building-an-intelligence-infrastructure-for-science/
+2. The Political Economy of Artificial Intelligence — https://p4sc4l.substack.com/p/the-united-states-is-currently-undertaking
+3. Data Foundation 2024 Impact Report | LEARN — https://datafoundation.org/news/reports/767/767-Data-Foundation-2024-Impact-Report
+4. Federal Agencies Roll Out AI Strategy Plans — https://ogletree.com/insights-resources/blog-posts/federal-agencies-roll-out-ai-strategy-plans-takeaways-for-government-contractors/
+5. How Privacy-Preserving Infrastructure Helps Transition ... — https://datafoundation.org/news/blogs/766/766-How-Privacy-Preserving-Infrastructure-Helps-Transition-from-Data-Silos-to-Evidence-Based-Solutions
+6. Direct vs. Indirect Costs: Differences and Examples — https://www.indeed.com/career-advice/career-development/direct-vs-indirect-costs
+7. Guest Post — What Do College Students Lose When Libraries Are Ignored? — https://scholarlykitchen.sspnet.org/2025/12/02/guest-post-what-do-college-students-lose-when-libraries-are-ignored/
+8. Data Description - Research Data Management and Sharing — https://guides.lib.uchicago.edu/datamanagement/metadata
+9. Amid proposed federal research funding cuts ... — https://www.columbiaspectator.com/news/2025/12/04/amid-proposed-federal-research-funding-cuts-columbia-affiliates-intensify-advocacy-efforts-in-washington/
+10. Guest Post — From Cloud to Carbon: Exploring the Digital Carbon Footprint of Knowledge — https://scholarlykitchen.sspnet.org/2025/12/01/guest-post-from-cloud-to-carbon-exploring-the-digital-carbon-footprint-of-knowledge/
+11. November 2025: Publications in the Data Science Journal — https://codata.org/blog/2025/12/01/november-2025-publications-in-the-data-science-journal/
+12. What is Open Access - Open Access Publishing — https://jefflibraries.libguides.com/OpenAccess
+13. Chefs’ Selections: Best Media Enjoyed in 2025 (Part 2) — https://scholarlykitchen.sspnet.org/2025/12/05/chefs-selections-best-media-enjoyed-in-2025-part-2/
+14. Biomedical data repositories require governance for artificial ... — https://pmc.ncbi.nlm.nih.gov/articles/PMC12668681/
+15. Introduction - FAIR Data - LibGuides at UCD Library — https://libguides.ucd.ie/FAIR
+16. Invest in Open Infrastructure (Page 1) — https://investinopen.org/blog/
+17. Office of Data Science and Emerging Technologies | NIAID — https://www.niaid.nih.gov/research/office-data-science-and-emerging-technologies
+18. Government Documents: Archives of federal data and ... — https://libguides.chapman.edu/govdocs/archives
+
+============================================================
+RUNTIME: 55.09 s
+ESTIMATED TOKENS: 2089
+ESTIMATED COST (USD): $0.028
+============================================================
